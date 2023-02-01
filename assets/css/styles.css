@@ -30,11 +30,23 @@ h2 {
     padding-bottom: 20px;
 }
 
+.localizacao {
+    height: 420px;
+}
+
 .mapa {
-    margin-top: 10px;
-    margin-bottom: 30px;
-    width: 100vw;
-    height: 400px;
+    width: 95%;
+    height: 95%;
+}
+
+.mapa-container {
+    background-color: #A8A8A8;
+    width: 95vw;
+    height: 320px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .mascara2 {
