@@ -1,0 +1,90 @@
+.contato-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container-pessoa {
+    border-bottom: 1px solid #000;
+    width: 295px;
+}
+
+.contato-pessoa {
+    width: 300px;
+    margin: 0 auto 30px auto;
+}
+
+.imagemfake {
+    width: 93px;
+    height: 93px;
+    background-color: #FF6F6F;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.pessoa-titulo {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: underline;
+    padding: 10px 0 20px 0;
+}
+
+.dados {
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    line-height: 15px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.dados ~ p {
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.dados-telefone,
+.dados-local {
+    font-weight: 400;
+}
+
+.dados-nome::before,
+.dados-celular::before,
+.dados-email::before,
+.dados-telefone::before,
+.dados-local::before {
+    content: '';
+    background-position: center;
+    background-size: 18px 18px;
+    background-repeat: no-repeat;
+    display: block;
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+}
+
+.dados-nome::before {
+    background-image: url(../img/nome-icone.svg);
+}
+
+.dados-celular::before {
+    background-image: url(../img/celular-icone.svg);
+}
+
+.dados-email::before {
+    background-image: url(../img/email-icone.svg);
+}
+
+.dados-telefone::before {
+    background-image: url(../img/telefone-icone.svg);
+}
+
+.contato-pessoa .dados-local::before {
+    width: 35px;
+    background-image: url(../img/local-icone.svg);
+}
+
+.contato-loja {
+    padding-top: 30px;
+}

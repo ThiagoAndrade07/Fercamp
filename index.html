@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
     <link rel="stylesheet" href="assets/css/styles.css">
     <title>Fercamp | Comercio de Ferragens </title>
 </head>
@@ -57,8 +58,26 @@
                 <p class="p-destaques2">Comprometimento | Qualidade</p>
             </div>
         </section>
-        <section class="segmentos">
-
+        <section class="carrosel">
+            <h2 class="h2-preto">Segmentos</h2>
+            <!-- Slider main container -->
+            <div class="swiper">
+                <!-- Additional required wrapper -->
+                <div class="swiper-wrapper">
+                    <!-- Slides -->
+                    <div class="swiper-slide"><div class="slide slide1"></div><div class="mascara3"></div><p class="slide-texto">Máquinas</p></div>
+                    <div class="swiper-slide"><div class="slide slide2"></div><div class="mascara3"></div><p class="slide-texto">Ferramentas</p></div>
+                    <div class="swiper-slide"><div class="slide slide3"></div><div class="mascara3"></div><p class="slide-texto">Soldagem</p></div>
+                    <div class="swiper-slide"><div class="slide slide4"></div><div class="mascara3"></div><p class="slide-texto">Tintas</p></div>
+                    <div class="swiper-slide"><div class="slide slide5"></div><div class="mascara3"></div><p class="slide-texto">Abrasivos</p></div>
+                </div>
+                <!-- If we need pagination -->
+                <div class="swiper-pagination"></div>
+            
+                <!-- If we need navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>          
+            </div>   
         </section>
         <section class="sobrenos">
             <div class="mascara2">
@@ -92,10 +111,67 @@
                 </div>
             </div>    
         </section>
+        <section class="contato">
+            <h2 class="h2-preto">Contato</h2>
+            <div class="contato-container">
+                <div class="container-pessoa">
+                    <div class="contato-pessoa">
+                        <!-- <img class="pessoa-imagem" src="" alt=""> -->
+                        <div class="imagemfake"></div>
+                        <h4 class="pessoa-titulo">Diretor</h4>
+                        <div>
+                            <p class="dados dados-nome">Nome:</p>
+                            <p>- Wagner Dias Martins</p>
+                        </div>
+                        <div>
+                            <p class="dados dados-celular">Celular:</p>
+                            <p>- (41) 9 9783-3588</p>
+                        </div>
+                        <div>
+                            <p class="dados dados-email">E-mail:</p>
+                            <p>- fercampferragens@bol.com.br</p>
+                        </div>
+                    </div>
+                    <div class="contato-pessoa">
+                        <!-- <img class="pessoa-imagem" src="" alt=""> -->
+                        <div class="imagemfake"></div>
+                        <h4 class="pessoa-titulo">Gerente de Vendas</h4>
+                        <div>
+                            <p class="dados dados-nome">Nome:</p>
+                            <p>- Felipe William Fabrim Andrade</p>
+                        </div>
+                        <div>
+                            <p class="dados dados-celular">Celular:</p>
+                            <p>- (41) 9 9507-8326</p>
+                        </div>
+                        <div>
+                            <p class="dados dados-email">E-mail:</p>
+                            <p>- vendasadoroferramentas@gmail.com</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="contato-pessoa contato-loja">
+                    <div>
+                        <p class="dados dados-telefone">(41) 3679-1898</p>
+                    </div>
+                    <div>
+                        <p class="dados dados-local">Rua João Knapik, 241 - Jardim Patricia, Quatro Barras - PR, 83420-000</p>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
-    <footer>
-
+    <footer class="rodape">
+        <img class="rodape-img" src="assets/img/fercamp-branco.svg" alt="Logo Fercamp">
+        <div class="rodape-container">
+            <p class="rodape-texto">Jaquelini Immich Martins - Ferramentas e Ferragens - CNPJ: 24.551.140/0001-16</p>
+            <p class="rodape-texto">© 2023 Todos os direitos reservados</p>
+            <p class="rodape-texto">Desenvolvido por: <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreno-9ab40b176/">João Moreno</a> e <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/thiago-andrade-91889a260/">Thiago Andrade</a></p>
+        </div>
     </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+    <script src="js/swiper.js"></script>
     
 </body>
 </html>
