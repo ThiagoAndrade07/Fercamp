@@ -1,0 +1,58 @@
+h3 {
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.valores-icone::before,
+.vissao-icone::before,
+.missao-icone::before {
+    content: '';
+    width: 31px;
+    height: 31px;
+    margin-right: 5px;
+}
+
+.valores-icone::before {
+    background-image: url(../img/valores.svg);
+}
+
+.vissao-icone::before {
+    background-image: url(..//img/visao.svg);
+}
+
+.missao-icone::before {
+    background-image: url(../img/missao.svg);
+}
+
+.valores {
+    height: fit-content;
+    background-image: url(../img/visaofundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: -3;
+}
+
+.container-box-valores {
+    padding-top: 20px;
+    width: 90vw;
+    margin:  0 auto;
+}
+
+.container-valores {
+    
+}
+
+.texto-valores {
+    font-size: 14px;
+    font-weight: 500;
+    color: #ffffff;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
