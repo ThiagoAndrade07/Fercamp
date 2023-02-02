@@ -18,3 +18,22 @@
     justify-content: center;
     align-items: center;
 }
+
+@media screen and (min-width: 768px) {
+
+    .mapa-container {
+        width: 70vw;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    .localizacao {
+        height: 610px;
+    }
+
+    .mapa-container {
+        height: 430px;
+        width: 850px;
+    }
+}

@@ -52,3 +52,25 @@ h3 {
     padding-bottom: 20px;
 
 }
+
+@media screen and (min-width: 768px) {
+    .valores-container {
+        width: 70vw;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    h3 {
+        font-size: 28px;
+    }
+
+    .valores-container {
+        padding: 60px 0 50px;
+        width: 800px;
+    }
+
+    .texto-valores {
+        font-size: 22px;
+    }
+}

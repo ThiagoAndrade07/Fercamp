@@ -16,6 +16,10 @@
     justify-content: space-between;
 }
 
+.logodesktop-destaques {
+    display: none;
+}
+
 .mascara {
     background-color: #000000;
     width: 100%;
@@ -47,5 +51,63 @@
     font-weight: 700;
     color: #ffffff;
     text-transform: uppercase;
+
+}
+
+@media screen and (min-width: 1024px) {
+
+    .destaques {
+        height: 400px;
+    }
+
+    .destaques-container {
+        flex-direction: row;
+        width: 950px;
+        margin: 0 auto;
+        height: fit-content;
+        padding-top: 80px;
+    }
+
+    .logo-destaques {
+        display: none;
+    }
+
+    .logodesktop-destaques {
+        display: block;
+    }
+
+    .texto-destaque {
+        flex-direction: column;
+    }
+
+    .p-destaques {
+        font-size: 36px;
+        width: 100%;
+    }
+
+    .p-destaques:first-child {
+        text-align: start;
+        padding-bottom: 15px;
+    }
+
+    .p-destaques:last-child {
+        text-align: end;
+        padding-top: 15px;
+    }
+
+    .p-destaques2 {
+        display: flex;
+        flex-direction: column;
+        font-size: 36px;
+        text-align: center;
+    }
+
+    .p-destaques2 span:first-child {
+        padding-bottom: 50px;
+    }
+
+    .p-destaques_barra {
+        display: none;
+    }
 
 }

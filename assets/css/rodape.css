@@ -28,3 +28,47 @@
 .rodape-link:hover {
     color: aquamarine;
 }
+
+
+@media screen and (min-width: 768px) {
+
+    .rodape {
+        height: 180px;
+    }
+
+    .rodape-container {
+        width: 80%;
+    }
+
+    .rodape-img {
+        width: 250px;
+    }
+
+    .rodape-texto {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    .rodape {
+        height: 250px;
+        padding-bottom: 30px;
+    }
+
+    .rodape-container {
+        display: flex;
+        width: 90%;
+        padding-top: 15px;
+        justify-content: center;
+    }
+
+    .rodape-img {
+        width: 350px;
+    }
+
+    .rodape-texto {
+        font-size: 15px;
+        padding-left: 10px;
+    }
+}

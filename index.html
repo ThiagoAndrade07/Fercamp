@@ -13,11 +13,10 @@
     <title>Fercamp | Comercio de Ferragens </title>
 </head>
 <body>
-
     <header class="cabecalho">
         <div class="cabecalho-container">
-            <div>
-                <img src="assets/img/fercamp.svg" alt="Logo da Fercamp" class="container_imagem">
+            <div class="container_imagem">
+                <img src="assets/img/fercamp.svg" alt="Logo da Fercamp" class="cabecalho_imagem">
             </div>
             <div>
                 <input type="checkbox" id="menu" class="container_botao">
@@ -27,19 +26,19 @@
                 <ul class="lista-menu">
                     <li class="lista-menu_titulo">Navegação</li>
                     <li class="lista-menu_item">
-                        <a href="#" class="lista-menu_link">Destaques</a>
+                        <a href="#segmentos" class="lista-menu_link">Seguimentos</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="#" class="lista-menu_link">Seguimentos</a>
+                        <a href="#sobrenos" class="lista-menu_link">Sobre Nós</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="#" class="lista-menu_link">Sobre Nós</a>
+                        <a href="#localizacao" class="lista-menu_link">Localização</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="#" class="lista-menu_link">Localicação</a>
+                        <a href="#valores" class="lista-menu_link">Valores</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="#" class="lista-menu_link">Missão</a>
+                        <a href="#contato" class="lista-menu_link">Contato</a>
                     </li>
                 </ul>
             </div>
@@ -52,13 +51,13 @@
             <div class="destaques-container">
                 <div class="texto-destaque">
                     <p class="p-destaques">Há</p>
-                    <h1><img class="logo-destaques" src="assets/img/27anos.svg"></h1>
+                    <h1><img class="logo-destaques" src="assets/img/27anos.svg"><img class="logodesktop-destaques" src="assets/img/27anos-desktop.svg"></h1>
                     <p class="p-destaques">no <span>mercado</span></p>
                 </div>
-                <p class="p-destaques2">Comprometimento | Qualidade</p>
+                <p class="p-destaques2"><span>Comprometimento</span><span class="p-destaques_barra">|</span><span>Qualidade</span></p>
             </div>
         </section>
-        <section class="carrosel">
+        <section id="segmentos" class="carrosel">
             <h2 class="h2-preto">Segmentos</h2>
             <!-- Slider main container -->
             <div class="swiper">
@@ -79,7 +78,7 @@
                 <div class="swiper-button-next"></div>          
             </div>   
         </section>
-        <section class="sobrenos">
+        <section id="sobrenos" class="sobrenos">
             <div class="mascara2">
             </div>
             <div class="sobrenos-container">
@@ -88,13 +87,13 @@
                 <p class="texto-sobre">Entregamos para toda Curitiba e região metropolitana com uma equipe qualificada e em prontidão.</p>
             </div>
         </section>
-        <section class="localizacao">
+        <section id="localizacao" class="localizacao">
             <h2 class="h2-preto">Onde estamos</h2>
             <div class="mapa-container">
                 <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1802.4786302006098!2d-49.08071928181456!3d-25.37274885195073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcec6e3e4b7a19%3A0x17d5f832caf32413!2sFercamp%20Com%C3%A9rcio%20Varejista%20de%20Ferragens!5e0!3m2!1spt-BR!2sbr!4v1675217256101!5m2!1spt-BR!2sbr"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </section>
-        <section class="valores">
+        <section id="valores" class="valores">
             <div class="mascara2"></div>
             <div class="valores-container">
                 <div>
@@ -111,7 +110,7 @@
                 </div>
             </div>    
         </section>
-        <section class="contato">
+        <section id="contato" class="contato">
             <h2 class="h2-preto">Contato</h2>
             <div class="contato-container">
                 <div class="container-pessoa">
@@ -169,9 +168,7 @@
             <p class="rodape-texto">Desenvolvido por: <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreno-9ab40b176/">João Moreno</a> e <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/thiago-andrade-91889a260/">Thiago Andrade</a></p>
         </div>
     </footer>
-
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
-    <script src="js/swiper.js"></script>
-    
+    <script src="js/swiper.js"></script> 
 </body>
 </html>
