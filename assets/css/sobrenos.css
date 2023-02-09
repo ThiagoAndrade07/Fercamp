@@ -14,7 +14,7 @@
 }
 
 .texto-sobre {
-    color: #ffffff;
+    color: var(--cor-branca);
     font-size: 16px;
     font-weight: 400;
     text-align: center;

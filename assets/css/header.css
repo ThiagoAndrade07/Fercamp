@@ -8,7 +8,7 @@
 }
 
 .cabecalho {
-    background-color: #ffffff;
+    background-color: var(--cor-branca);
     position: fixed;
     width: 100vw;
     height: 53px;
@@ -29,6 +29,44 @@
     width: 104px;
 }
 
+/* Barra de pesquisa  */
+
+.pesquisa-container {
+    height: 23px;
+    display: flex;
+    background-color: var(--cor-vermelha-padrao);
+}
+
+.pesquisa {
+    font-family: var(--fonte-family-padrao);
+    width: 128px;
+    height: 100%;
+    padding-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid var(--cor-preta);
+     
+}
+
+.pesquisa:focus {
+    outline: none;
+    border: 2px solid var(--cor-vermelha-padrao);
+}
+
+.botao-pesquisa {
+    width: 23px;
+    height: 100%;
+    border: none;
+    background: url(../img/pesquisa-icone.svg) no-repeat center var(--cor-vermelha-padrao);
+    
+}
+
+.botao-pesquisa:active {
+    transform: scale(0.9);
+}
+
+/* Lista header / Menu hamburguer */
+
 .lista-menu {
     display: none;
     position: absolute;
@@ -42,12 +80,12 @@
 }
 
 .lista-menu_titulo, .lista-menu_item {
-    padding: 1em;
-    background-color: #ffffff;
+    padding: 0.5em;
+    background-color: var(--cor-branca);
 }
 
 .lista-menu_titulo {
-    color: #6d0000;
+    color: var(--cor-vermelha-padrao);
     font-weight: 700;
     text-transform: uppercase;
 }
@@ -55,17 +93,25 @@
 .lista-menu_link {
     text-transform: uppercase;
     text-decoration: none;
-    color: #000;
+    color: var(--cor-preta);
 }
 
 .lista-menu_link:hover {
-    color: #6D0000;
-    text-decoration: underline;
+    color: var(--cor-vermelha-padrao);
+    border-bottom: 2px solid var(--cor-vermelha-padrao);
 }
 
 .container_botao {
     display: none;
 }
+
+@media screen and (min-width: 768px) {
+
+    .pesquisa {
+        width: 250px;
+    }
+}
+
 
 @media screen and (min-width: 1024px) {
 
@@ -94,5 +140,42 @@
 
     .lista-menu_titulo {
         display: none;
+    }
+
+    /* Barra de pesquisa  */
+
+    .pesquisa-container {
+        height: 30px
+    }
+
+    .ordem-dos-elementos:nth-child(1) {
+        order: 1;
+    }
+
+    .ordem-dos-elementos:nth-child(2) {
+        order: 3;
+    }
+
+    .ordem-dos-elementos:nth-child(3) {
+        order: 2;
+    }
+
+    .pesquisa {
+        width: 150px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    .cabecalho-container {
+        width: 1174px;
+    }
+
+    .lista-menu_titulo, .lista-menu_item {
+        padding: 1em;
+    }
+
+    .pesquisa {
+        width: 200px;
     }
 }

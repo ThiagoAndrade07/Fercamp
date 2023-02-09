@@ -9,7 +9,7 @@
 }
 
 .mapa-container {
-    background-color: #6D0000;
+    background-color: var(--cor-vermelha-padrao);
     border-radius: 20px;
     width: 95vw;
     height: 320px;

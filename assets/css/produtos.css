@@ -1,0 +1,121 @@
+.produtos {
+    height: 300;
+}
+
+/* Box padrão dos produtos */
+
+.container-produtos {
+    height: 320px;
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    background: #C8C8C8;
+    border: 1px solid var(--cor-preta);
+    border-radius: 25px;
+}
+
+/* Layout sem descrisão e botão  */
+
+.box-produtos {
+    width: 100%;
+    height: 195px;
+}
+
+.box-produtos img{
+    width: 100%;
+    height: 100%;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+
+.texto-produtos {
+    height: 100%;
+    border-top: 1px solid var(--cor-preta);
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+
+/* Layout com botão */
+
+.botao-produtos {
+    border-top: 1px solid var(--cor-preta);
+    height: 100%;
+    font-weight: 600;
+    padding: 0 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.descricao-botao {
+    font-family: var(--font-family-padrao);
+    width: 150px;
+    height: 55px;
+    border-radius: 25px;
+    background-color: #333333;
+    margin-top: 10px;
+    border: none;
+    color: var(--cor-branca);
+    transition: 0.1s;
+}
+
+.descricao-botao:active {
+    transform: scale(0.95);
+    overflow-y: scroll;
+}
+
+/* Layout de descrição */
+
+h6 {
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.texto-descricao {
+    height: 80%;
+    width: 100%;
+    overflow-y: scroll;
+    margin-top: 10px;
+    padding: 0 5px;
+}
+
+.texto-descricao p{
+    font-size: 12px;
+    font-weight: 300;
+    padding-bottom: 10px;  
+}
+
+
+h5 {
+    text-align: center;
+}
+
+/* Barra de navegação da descrição dos produtos  */
+
+.produtos-com-descricao {
+    padding: 14px 10px;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+ 
+::-webkit-scrollbar-track {
+  background: #C8C8C8;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background: var(--cor-vermelha-padrao);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #4d0000;
+}
