@@ -5,19 +5,6 @@ function $(log) {
 
 const sectionProdutos = document.querySelector('.produtos');
 
-const templateDoProdutoSemDescricao = `
-
-    <div class="container-produtos">
-        <div class="box-produtos">
-            <img src="../assets/img-produtos/serra-marmore.png">
-        </div>
-        <div class="texto-produtos">
-            <p>Serra Mármore Makita 1300W</p>
-        </div>
-    </div>
-
-`;
-
 async function fetchProdutos() {
 
     try {
