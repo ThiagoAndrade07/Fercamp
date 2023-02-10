@@ -1,5 +1,5 @@
 .produtos {
-    height: 300;
+    height: fit-content;
 }
 
 /* Box padrão dos produtos */
@@ -67,7 +67,6 @@
 
 .descricao-botao:active {
     transform: scale(0.95);
-    overflow-y: scroll;
 }
 
 /* Layout de descrição */

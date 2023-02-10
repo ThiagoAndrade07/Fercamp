@@ -1,0 +1,43 @@
+<!-- TEMPLATE DO PRODUTO SEM DESCRIÇÃO -->
+<div class="container-produtos">
+    <div class="box-produtos">
+        <img src="../assets/img-produtos/serra-marmore.png">
+    </div>
+    <div class="texto-produtos">
+        <p>Serra Mármore Makita 1300W</p>
+    </div>
+</div>
+
+
+<!-- TEMPLATE DO PRODUTO COM DESCRIÇÃO -->
+<div class="container-produtos">
+    <div class="box-produtos">
+        <img src="../assets/img-produtos/parafusadeira.png">
+    </div>
+    <div class="botao-produtos">
+        <p>Serra Mármore Makita 1300W</p>
+        <button class="descricao-botao">Descrição</button>
+    </div>
+</div>
+
+
+<!-- TEMPLATE DA DESCRICAO -->
+<div class="container-produtos produtos-com-descricao">
+    <h5>Serra Mármore Makita 1300W</h5>
+    <div class="texto-descricao"> 
+        
+        <div>
+            <h6>Especificações:</h6>
+            <p>Mármore Makita 1300W 4100NH3 ZX2 Dupla isolação.13.800rpm.</p>
+            <p>Potência: 1.300W</p>
+            <p>Capacidade máxima de corte: 32mm</p>
+        </div>
+        <div>
+            <h6>Informações complementares</h6>
+            <p>Indicado para: Mármore</p>  
+            <p>Marca: Makita</p>
+            <p>Potência: 1300W</p> 
+        </div>
+
+    </div>
+</div>

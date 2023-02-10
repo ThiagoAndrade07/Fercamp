@@ -51,6 +51,10 @@ h2 {
     z-index: -2;
 }
 
+.esconde {
+    display: none;
+}
+
 @media screen and (min-width: 1024px) {
     main {
         padding-top: 65px;
