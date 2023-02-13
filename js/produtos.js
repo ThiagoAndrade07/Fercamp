@@ -3,6 +3,8 @@ function $(log) {
     console.log(log);
 }
 
+let segmentoSelecionado = localStorage.getItem('segmento');
+
 const sectionProdutos = document.querySelector('.super-container-produtos');
 const displayDaPaginaAtual = document.querySelector('.display-pagina-atual');
 const barraDePesquisa = document.querySelector('.pesquisa');
@@ -40,9 +42,17 @@ async function listaDeProdutos() {
 
     displayDaPaginaAtual.innerHTML = `Página: ${paginaAtual}`;
 
-    let quantidadeDePaginas = Math.ceil(Object.keys(lista.produtos).length / quantidadeDeProdutosPorPagina);
+    let contadorDeProdutos = 0;
 
-    paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista);
+    lista.produtos.forEach( produto => {
+        if(produto.segmento == segmentoSelecionado) {
+            contadorDeProdutos++;
+        }
+    });
+
+    let quantidadeDePaginas =  Math.ceil(contadorDeProdutos / quantidadeDeProdutosPorPagina);
+
+    paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista.produtos);
 
     let ul = document.createElement('ul');
     ul.classList.add('lista-paginas');
@@ -82,7 +92,7 @@ async function listaDeProdutos() {
             paginaAtual = botao.innerHTML;
             displayDaPaginaAtual.innerHTML = `Página: ${paginaAtual}`;
 
-            paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista);
+            paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista.produtos);
 
             botao.classList.remove('page-button');
             botao.classList.add('page-button-active');
@@ -96,6 +106,14 @@ async function listaDeProdutos() {
         sectionProdutos.parentNode.appendChild(p);
     }
 
+    barraDePesquisa.addEventListener('input', event => {
+        let termoDePesquisa = event.target.value;
+
+        let produtosFiltrados = filtraProdutos(lista.produtos, termoDePesquisa);
+
+        paginação(paginaAtual, quantidadeDeProdutosPorPagina, produtosFiltrados);
+    });
+
 }
 
 function paginação(paginaAtual, itensPorPagina, listaDeItens) {
@@ -104,9 +122,11 @@ function paginação(paginaAtual, itensPorPagina, listaDeItens) {
 
     let loopStart = itensPorPagina * paginaAtual;
     for(let i = loopStart; i < loopStart + itensPorPagina; i++) {
-        let item = listaDeItens.produtos[i];
+        let item = listaDeItens[i];
         if(item) {
-            criaProdutoComDescricao(item.titulo, item.imagem, item.descricao);
+            if(item.segmento == segmentoSelecionado) {
+                criaProdutoComDescricao(item.titulo, item.imagem, item.descricao);
+            }
         }
     }
 }
@@ -211,6 +231,18 @@ function criaProdutoComDescricao(titulo, imagem, descricao) {
     div.appendChild(card);
 
     sectionProdutos.appendChild(div);
+}
+
+function filtraProdutos(lista, termo) {
+    let produtosFiltrados = [];
+    
+    lista.forEach( elemento => {
+        if(elemento.titulo.toLowerCase().includes(termo)) {
+            produtosFiltrados.push(elemento);
+        }
+    });
+
+    return produtosFiltrados;
 }
 
 listaDeProdutos();

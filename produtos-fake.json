@@ -1,8 +1,9 @@
-{
+{ 
     "produtos": [
         {
             "id": "1",
             "titulo": "Serra Mármore Makita 1300W",
+            "segmento": "máquinas",
             "imagem": "../assets/img-produtos/serra-marmore.png",
             "descricao": [
                 {
@@ -18,6 +19,7 @@
         {
             "id": "2",
             "titulo": "Parafusadeira de Impacto a Bateria Makita",
+            "segmento": "máquinas",
             "imagem": "../assets/img-produtos/parafusadeira.png",
             "descricao": [
                 {
@@ -33,6 +35,7 @@
         {
             "id": "3",
             "titulo": "PRODUTO 3",
+            "segmento": "ferramentas",
             "imagem": "../assets/img-produtos/parafusadeira.png",
             "descricao": [
                 {
@@ -48,6 +51,7 @@
         {
             "id": "4",
             "titulo": "PRODUTO 4",
+            "segmento": "soldagem",
             "imagem": "../assets/img-produtos/parafusadeira.png",
             "descricao": [
                 {
@@ -63,6 +67,7 @@
         {
             "id": "5",
             "titulo": "PRODUTO 5",
+            "segmento": "tintas",
             "imagem": "../assets/img-produtos/parafusadeira.png",
             "descricao": [
                 {
@@ -78,6 +83,7 @@
         {
             "id": "6",
             "titulo": "PRODUTO 6",
+            "segmento": "abrasivos",
             "imagem": "../assets/img-produtos/parafusadeira.png",
             "descricao": [
                 {
