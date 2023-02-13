@@ -94,6 +94,8 @@ async function listaDeProdutos() {
 
             paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista.produtos);
 
+            scroll(0,0);
+
             botao.classList.remove('page-button');
             botao.classList.add('page-button-active');
         });
