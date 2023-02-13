@@ -1,5 +1,16 @@
-.produtos {
-    height: fit-content;
+.display-pagina-atual {
+    display: block;
+    width: 80vw;
+    font-size: 20px;
+    margin: 50px auto 0 auto
+}
+
+.super-container-produtos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    margin: 30px auto 0 auto;
 }
 
 /* Box padrão dos produtos */
@@ -12,6 +23,7 @@
     background: #C8C8C8;
     border: 1px solid var(--cor-preta);
     border-radius: 25px;
+    margin-bottom: 50px;
 }
 
 /* Layout sem descrisão e botão  */
@@ -95,6 +107,82 @@ h5 {
     text-align: center;
 }
 
+.botao-back {
+    font-family: var(--font-family-padrao);
+    font-size: 12px;
+    width: 50%;
+    padding: 5px 0;
+    margin: 10px auto 0 auto;
+    background-color: var(--cor-vermelha-padrao);
+    color: var(--cor-branca);
+    border: none;
+    border-radius: 5px;
+}
+
+.botao-back:focus {
+    outline: none;
+    background-color: #4d0000;
+    border: 3px solid #0044ff;
+}
+
+.botao-back:hover {
+    background-color: #4d0000;
+}
+
+.botao-back:active {
+    transform: scale(0.9);
+    background-color: #4d0000;
+    border: 3px solid #0044ff;
+}
+
+.lista-paginas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.page-number {
+    margin-right: 10px;
+}
+
+.page-button {
+    font-family: var(--font-family-padrao);
+    width: 20px;
+    height: 20px;
+    color:#0044ff;
+    border: 1px solid #0044ff;
+}
+
+.page-button-active {
+    font-family: var(--font-family-padrao);
+    width: 20px;
+    height: 20px;
+    color:var(--cor-branca);
+    background-color: #0044ff;
+    border: 1px solid #0044ff;
+    transform: scale(1.2);
+}
+
+.page-number:last-child {
+    margin-right: 0;
+}
+
+.page-number:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.page-number:active {
+    transform: scale(1);
+}
+
+.page-text {
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 13px;
+}
+
 /* Barra de navegação da descrição dos produtos  */
 
 .produtos-com-descricao {
@@ -117,4 +205,84 @@ h5 {
 
 ::-webkit-scrollbar-thumb:hover {
     background: #4d0000;
+}
+
+@media screen and (min-width: 768px) {
+
+    .display-pagina-atual {
+        width: 600px;
+    }
+
+    .super-container-produtos {
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 500px;
+        justify-content: space-between;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    
+    .display-pagina-atual {
+        width: 900px;
+    }
+    
+    .super-container-produtos {
+        width: 900px;
+    }
+
+    .container-produtos {
+        margin-bottom: 80px;
+        height: 400px;
+        width: 260px;
+    }
+
+    .box-produtos {
+        height: 244px;
+    }
+
+    .botao-produtos p {
+        font-size: 20px;
+    }
+
+    .descricao-botao {
+        font-size: 20px;
+        width: 200px;
+        margin-top: 15px;
+    }
+
+    h5 {
+        font-size: 20px;
+    }
+
+    h6 {
+        font-size: 20px;
+    }
+
+    .texto-descricao p {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    .display-pagina-atual {
+        width: 1125px;
+    }
+
+    .super-container-produtos {
+        width: 1125px;
+        margin-top: 80px;
+    }
+}
+
+@media screen and (min-width: 1450px) {
+
+    .display-pagina-atual {
+        width: 1250px;
+    }
+
+    .super-container-produtos {
+        width: 1250px;
+    }
 }

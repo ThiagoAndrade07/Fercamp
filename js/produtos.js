@@ -3,7 +3,10 @@ function $(log) {
     console.log(log);
 }
 
-const sectionProdutos = document.querySelector('.produtos');
+const sectionProdutos = document.querySelector('.super-container-produtos');
+const displayDaPaginaAtual = document.querySelector('.display-pagina-atual');
+const barraDePesquisa = document.querySelector('.pesquisa');
+const botaoPesquisa = document.querySelector('.botao-pesquisa');
 
 async function fetchProdutos() {
 
@@ -21,19 +24,94 @@ async function fetchProdutos() {
 
 async function listaDeProdutos() {
     const lista = await fetchProdutos();
+    
+    let paginaAtual = 1;
+    let quantidadeDeProdutosPorPagina;
 
-    lista.produtos.forEach( produto => {
+    if(screen.width < 768) {
+        quantidadeDeProdutosPorPagina = 6;
+    } else if(screen.width < 1024 && screen.width >= 768) {
+        quantidadeDeProdutosPorPagina = 10;
+    } else if(screen.width < 1200 && screen.width >= 1024) {
+        quantidadeDeProdutosPorPagina = 12;
+    } else {
+        quantidadeDeProdutosPorPagina = 16;
+    }
 
-        criaProdutoComDescricao(produto.titulo, produto.imagem);
+    displayDaPaginaAtual.innerHTML = `Página: ${paginaAtual}`;
+
+    let quantidadeDePaginas = Math.ceil(Object.keys(lista.produtos).length / quantidadeDeProdutosPorPagina);
+
+    paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista);
+
+    let ul = document.createElement('ul');
+    ul.classList.add('lista-paginas');
+    sectionProdutos.parentNode.appendChild(ul);
+
+    for(let i = 1; i <= quantidadeDePaginas; i++) {
+        let li = document.createElement('li');
+        let button = document.createElement('button');
+        button.setAttribute('id', 'page-button');
+        button.classList.add('page-button');
+        button.innerHTML = i
+
         
-        let botoesDescricao = document.querySelectorAll('[data-botao-descricao]');
-        botoesDescricao.forEach( botao => botao.addEventListener('click', () => mostraDescricao(botao, produto.titulo, produto.descricao)));
+        li.appendChild(button);
+        li.classList.add('page-number');
 
+        ul.appendChild(li);
+    }
+
+    let botoesPagina = document.querySelectorAll('#page-button');
+
+    botoesPagina.forEach( botao => {
+
+        if(paginaAtual == botao.innerHTML) {
+            botao.classList.remove('page-button');
+            botao.classList.add('page-button-active');
+        }
+
+        botao.addEventListener('click', () => {
+
+            botoesPagina.forEach( elemento => {
+                if(elemento.classList.contains('page-button-active')) {
+                    elemento.classList.remove('page-button-active');
+                    elemento.classList.add('page-button');
+                }
+            });
+            paginaAtual = botao.innerHTML;
+            displayDaPaginaAtual.innerHTML = `Página: ${paginaAtual}`;
+
+            paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista);
+
+            botao.classList.remove('page-button');
+            botao.classList.add('page-button-active');
+        });
     });
+
+    if(ul.childNodes.length > 0) {
+        let p = document.createElement('p');
+        p.classList.add('page-text');
+        p.innerHTML = 'Páginas';
+        sectionProdutos.parentNode.appendChild(p);
+    }
 
 }
 
-function mostraDescricao(botao, titulo, descricao) {
+function paginação(paginaAtual, itensPorPagina, listaDeItens) {
+    sectionProdutos.innerHTML = '';
+    paginaAtual--;
+
+    let loopStart = itensPorPagina * paginaAtual;
+    for(let i = loopStart; i < loopStart + itensPorPagina; i++) {
+        let item = listaDeItens.produtos[i];
+        if(item) {
+            criaProdutoComDescricao(item.titulo, item.imagem, item.descricao);
+        }
+    }
+}
+
+function mostraDescricao(botao, titulo, imagem, descricao) {
 
     let cardDoProduto = botao.parentNode.parentNode;
     cardDoProduto.classList.add('produtos-com-descricao');
@@ -65,25 +143,72 @@ function mostraDescricao(botao, titulo, descricao) {
         divDescricao.appendChild(div);
     });
 
+    let botaoVoltar = document.createElement('button');
+    botaoVoltar.innerHTML = 'Voltar';
+    botaoVoltar.classList.add('botao-back');
+
+    botaoVoltar.addEventListener('click', () => {
+
+        voltarProdutoInicial(cardDoProduto, titulo, imagem);
+        adicionaEscutadorNoBotaoDescricao(cardDoProduto, titulo, imagem, descricao);
+
+    });
+
+    cardDoProduto.appendChild(botaoVoltar);
+
 }
 
-function criaProdutoComDescricao(titulo, imagem) {
+function voltarProdutoInicial(card, titulo, imagem) {
+
+    card.innerHTML = '';
+
     let templateDoProdutoComDescricao = `
 
-        <div class="container-produtos">
-            <div class="box-produtos">
-                <img src="${imagem}">
-            </div>
-            <div class="botao-produtos">
-                <p>${titulo}</p>
-                <button class="descricao-botao" data-botao-descricao>Descrição</button>
-            </div>
+        <div class="box-produtos">
+            <img src="${imagem}">
+        </div>
+        <div class="botao-produtos">
+            <p>${titulo}</p>
+            <button class="descricao-botao" data-botao-descricao>Descrição</button>
         </div>
 
     `;
 
+    
+    card.classList.remove('produtos-com-descricao');
+    card.innerHTML = templateDoProdutoComDescricao;
+
+}
+
+function adicionaEscutadorNoBotaoDescricao(card, titulo, imagem, descricao) {
+    
+    let botaoDescricao = card.children[1].children[1];
+
+    botaoDescricao.addEventListener('click', () => mostraDescricao(botaoDescricao, titulo, imagem, descricao));
+
+}
+
+function criaProdutoComDescricao(titulo, imagem, descricao) {
+    let templateDoProdutoComDescricao = `
+
+        <div class="box-produtos">
+            <img src="${imagem}">
+        </div>
+        <div class="botao-produtos">
+            <p>${titulo}</p>
+            <button class="descricao-botao">Descrição</button>
+        </div>
+
+    `;
+
+    let card = document.createElement('div');
+    card.classList.add('container-produtos');
+    card.innerHTML = templateDoProdutoComDescricao;
+
+    adicionaEscutadorNoBotaoDescricao(card, titulo, imagem, descricao);
+
     let div = document.createElement('div');
-    div.innerHTML = templateDoProdutoComDescricao;
+    div.appendChild(card);
 
     sectionProdutos.appendChild(div);
 }
