@@ -192,6 +192,7 @@ function voltarProdutoInicial(card, titulo, imagem) {
         <div class="botao-produtos">
             <p>${titulo}</p>
             <button class="descricao-botao" data-botao-descricao>Descrição</button>
+            <a class="link-orcamento" target="_blank" rel="noopener noreferral" href="https://api.whatsapp.com/send?phone=41995078326&text=Olá,%20eu%20gostaria%20de%20realizar%20um%20orçamento%20para%20o%20produto:%20${titulo}.">Realizar Orçamento</a>
         </div>
 
     `;
@@ -219,6 +220,7 @@ function criaProdutoComDescricao(titulo, imagem, descricao) {
         <div class="botao-produtos">
             <p>${titulo}</p>
             <button class="descricao-botao">Descrição</button>
+            <a class="link-orcamento" target="_blank" rel="noopener noreferral" href="https://api.whatsapp.com/send?phone=41995078326&text=Olá,%20eu%20gostaria%20de%20realizar%20um%20orçamento%20para%20o%20produto:%20${titulo}.">Realizar Orçamento</a>
         </div>
 
     `;
