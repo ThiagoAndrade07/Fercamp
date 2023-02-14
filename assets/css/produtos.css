@@ -13,6 +13,12 @@
     margin: 30px auto 0 auto;
 }
 
+.produto-nao-encontrado {
+    font-size: 24px;
+    margin-bottom: 100px;
+    color: #555555;
+}
+
 /* Box padrão dos produtos */
 
 .container-produtos {

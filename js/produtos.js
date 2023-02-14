@@ -114,22 +114,28 @@ async function listaDeProdutos() {
         let produtosFiltrados = filtraProdutos(lista.produtos, termoDePesquisa);
 
         paginação(paginaAtual, quantidadeDeProdutosPorPagina, produtosFiltrados);
+
     });
 
 }
 
 function paginação(paginaAtual, itensPorPagina, listaDeItens) {
-    sectionProdutos.innerHTML = '';
-    paginaAtual--;
-
-    let loopStart = itensPorPagina * paginaAtual;
-    for(let i = loopStart; i < loopStart + itensPorPagina; i++) {
-        let item = listaDeItens[i];
-        if(item) {
-            if(item.segmento == segmentoSelecionado) {
-                criaProdutoComDescricao(item.titulo, item.imagem, item.descricao);
+    
+    if(listaDeItens.length > 0) {
+        sectionProdutos.innerHTML = '';
+        paginaAtual--;
+    
+        let loopStart = itensPorPagina * paginaAtual;
+        for(let i = loopStart; i < loopStart + itensPorPagina; i++) {
+            let item = listaDeItens[i];
+            if(item) {
+                if(item.segmento == segmentoSelecionado) {
+                    criaProdutoComDescricao(item.titulo, item.imagem, item.descricao);
+                }
             }
         }
+    } else {
+        sectionProdutos.innerHTML = '<p class="produto-nao-encontrado">Nenhum produto foi encontrado.</p>';
     }
 }
 
@@ -247,6 +253,7 @@ function filtraProdutos(lista, termo) {
     });
 
     return produtosFiltrados;
+
 }
 
 listaDeProdutos();
