@@ -31,7 +31,9 @@ async function mostraProdutosEmPromocao() {
     const lista = await fetchProdutos();
 
     lista.produtos.forEach( produto => {
-        criaProdutoEmPromoção(produto.imagem, produto.preco);
+        if(produto.promocao === 'true') {
+            criaProdutoEmPromoção(produto.imagem, produto.preco);
+        }
     });
 
     const controls = document.querySelectorAll('.control');
