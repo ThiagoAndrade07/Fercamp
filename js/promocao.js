@@ -16,7 +16,7 @@ async function fetchProdutos() {
 
     try {
 
-        let produtos = await fetch('../produtos-fake.json');
+        let produtos = await fetch('./produtos-fake.json');
         let produtosConvertidos = await produtos.json();
     
         return produtosConvertidos;
