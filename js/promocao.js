@@ -72,14 +72,11 @@ async function mostraProdutosEmPromocao() {
             items[currentItem].classList.add('current-item');
         });
     });
-    
-    const event = new CustomEvent('touchstart');
 
     setInterval(() => {
    
         if(isInViewport(controls[1])) {
             controls[1].click();
-            controls[1].dispatchEvent(event);
         }
             
     },2000);
