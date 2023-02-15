@@ -41,6 +41,8 @@ async function mostraProdutosEmPromocao() {
     let currentItem = 0;
     const maxItems = items.length;
 
+    items[0].classList.add('current-item');
+
     controls.forEach((control) => {
         control.addEventListener('click', () => {
             const isLeft = control.classList.contains('arrow-left');
