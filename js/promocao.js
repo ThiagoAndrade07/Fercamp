@@ -16,7 +16,7 @@ async function fetchProdutos() {
 
     try {
 
-        let produtos = await fetch('../produtos-fake.json');
+        let produtos = await fetch('../assets/produtos-fake.json');
         let produtosConvertidos = await produtos.json();
     
         return produtosConvertidos;
@@ -32,7 +32,7 @@ async function mostraProdutosEmPromocao() {
 
     lista.produtos.forEach( produto => {
         if(produto.promocao === 'true') {
-            criaProdutoEmPromoção(produto.imagem, produto.preco);
+            criaProdutoEmPromoção(produto.imagem, produto.preco, produto.titulo);
         }
     });
 
@@ -81,11 +81,11 @@ async function mostraProdutosEmPromocao() {
 
 }
 
-function criaProdutoEmPromoção(imagem, preco) {
+function criaProdutoEmPromoção(imagem, preco, titulo) {
 
     const template = `
     
-        <img class="item" src="${imagem}">
+        <img class="item" src="${imagem}" alt="Imagem do produto em promoção ${titulo}.">
         <p class="info-promo">R$${preco} und</p>
     
     `;

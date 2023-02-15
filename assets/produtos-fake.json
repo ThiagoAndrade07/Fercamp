@@ -1,0 +1,112 @@
+{ 
+    "produtos": [
+        {
+            "id": "1",
+            "titulo": "Serra Mármore Makita 1300W",
+            "segmento": "máquinas",
+            "promocao": "true",
+            "preco": "20.00",
+            "imagem": "https://storagesitemakita.blob.core.windows.net/arquivos/4100NH2Z.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Mármore Makita 1300W 4100NH3 ZX2 Dupla isolação.13.800rpm.", "Potência: 1.300W", "Capacidade máxima de corte: 32mm.", "Diâmetro do Disco: 110mm.", "Diâmetro do furo: 20mm.", "Espessura máx. do disco: 2mm.", "Rotações por minuto: 13.800.", "Peso: 2.9kg.", "Emissão de vibrações: 5 m/s2.", "Incerteza K: 1.5m/s2.", "Itens Que Acompanham: Chave, chave allen e 2 discos.", "Tecnologias e Segmentos: Construção Civil / Marmoraria.", "Aplicações: Alvenaria / Ardósia / Azulejo e cerâmica / Concreto / Fibra de vidro / Fibrocimento / Granito / Madeira / Marmoglass / Mármore / Metal / Porcelanato / PVC / Tijolo Maciço / Vidro.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Indicado para: Mármore.", "Marca: Makita.", "Tipo: Mármore.", "Tensão: 220V."]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "titulo": "Parafusadeira de Impacto a Bateria Makita",
+            "segmento": "máquinas",
+            "promocao": "true",
+            "preco": "15.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "titulo": "PRODUTO 3",
+            "segmento": "ferramentas",
+            "promocao": "true",
+            "preco": "30.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "descricao": [
+                {
+                    "titulo": "PRODUTO 3",
+                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "titulo": "PRODUTO 4",
+            "segmento": "soldagem",
+            "promocao": "true",
+            "preco": "50.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "descricao": [
+                {
+                    "titulo": "PRODUTO 04",
+                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "titulo": "PRODUTO 5",
+            "segmento": "tintas",
+            "promocao": "true",
+            "preco": "45.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "descricao": [
+                {
+                    "titulo": "PRODUTO 05",
+                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "titulo": "PRODUTO 6",
+            "segmento": "abrasivos",
+            "promocao": "true",
+            "preco": "37.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "descricao": [
+                {
+                    "titulo": "PRODUTO 06",
+                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                }
+            ]
+        }
+    ]
+}
