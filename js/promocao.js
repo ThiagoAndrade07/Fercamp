@@ -1,54 +1,6 @@
-const controls = 
-document.querySelectorAll('.control');
+// ---------- CADASTRO AUTOMÁTICO DE PRODUTOS EM PROMOÇÃO -----------
 
-let currentItem = 0;
-
-const items =
-document.querySelectorAll('.item');
-
-const maxItems = items.length;
-
-controls.forEach((control) => {
-    control.addEventListener("click", () => {
-        const isLeft = control.classList.contains("arrow-left");
-
-        if (isLeft) {
-            currentItem -= 1;
-        } else {
-            currentItem += 1;
-        }
-
-        if (currentItem >= maxItems) {
-            currentItem = 0;
-        }
-
-        if (currentItem < 0) {
-            currentItem = maxItems - 1;
-        }
-
-        items.forEach(item => item.classList.remove('current-tem'));
-
-        items[currentItem].scrollIntoView({
-            inline: "center",
-            behavior: "smooth",
-            block: "nearest",
-            });
-            
-        items[currentItem].classList.add("current-item");
-    });
-});
-
-const boxPromo = document.querySelectorAll('.box-promo');
-console.log(boxPromo)
-
-
-setInterval(() => {
-   
-    if(isInViewport(controls[1])) {
-        controls[1].click();
-    }
-        
-},2000);
+const containerDeProdutosEmPromocao = document.querySelector('.gallery');
 
 function isInViewport(element) {
     const rect = element.getBoundingClientRect();
@@ -60,37 +12,118 @@ function isInViewport(element) {
     );
 }
 
+async function fetchProdutos() {
 
+    try {
 
-
-// timer
-
-
-    var dataFutura = new Date("February 20, 2023 00:00").getTime();
-
-    var dias, horas, minutos, segundos;
-    function setValores(e) {
-        return document.getElementById(e);
-    }
-    setInterval(function() {
-        var dataAtual = new Date().getTime();
-        
-        
-        var segundosTotal = ( dataFutura - dataAtual)/1000;
-
-        dias = parseInt(segundosTotal/86400);
-        segundosTotal = segundosTotal%86400;
-
-        horas = parseInt(segundosTotal/3600);
-        segundosTotal = segundosTotal%3600;
-
-        minutos = parseInt(segundosTotal/60);
-        segundos = parseInt(segundosTotal%60);
-
-
-         setValores("dias").innerHTML = dias;
-         setValores("horas").innerHTML = horas;
-         setValores("minutos").innerHTML = minutos;
-         setValores("segundos").innerHTML = segundos;
-    },1000);
+        let produtos = await fetch('../produtos-fake.json');
+        let produtosConvertidos = await produtos.json();
     
+        return produtosConvertidos;
+
+    } catch {
+        console.log('Não foi possível resgatar os produtos.');
+    }
+}
+
+async function mostraProdutosEmPromocao() {
+
+    const lista = await fetchProdutos();
+
+    lista.produtos.forEach( produto => {
+        criaProdutoEmPromoção(produto.imagem, produto.preco);
+    });
+
+    const controls = document.querySelectorAll('.control');
+    const items = document.querySelectorAll('.item');
+    let currentItem = 0;
+    const maxItems = items.length;
+
+    controls.forEach((control) => {
+        control.addEventListener('click', () => {
+            const isLeft = control.classList.contains('arrow-left');
+    
+            if (isLeft) {
+                currentItem -= 1;
+            } else {
+                currentItem += 1;
+            }
+    
+            if (currentItem >= maxItems) {
+                currentItem = 0;
+            }
+    
+            if (currentItem < 0) {
+                currentItem = maxItems - 1;
+            }
+    
+            items.forEach(item => item.classList.remove('current-item'));
+    
+            items[currentItem].scrollIntoView({
+                inline: 'center',
+                behavior: 'smooth',
+                block: 'nearest',
+                });
+                
+            items[currentItem].classList.add('current-item');
+        });
+    });
+
+    setInterval(() => {
+   
+        if(isInViewport(controls[1])) {
+            controls[1].click();
+        }
+            
+    },2000);
+
+}
+
+function criaProdutoEmPromoção(imagem, preco) {
+
+    const template = `
+    
+        <img class="item" src="${imagem}">
+        <p class="info-promo">R$${preco} und</p>
+    
+    `;
+
+    let div = document.createElement('div');
+    div.classList.add('box-promo');
+    div.innerHTML = template
+
+    containerDeProdutosEmPromocao.appendChild(div);
+
+}
+
+mostraProdutosEmPromocao();
+
+// ---------------------------- TIMER -------------------------------
+
+let dataFutura = new Date('December 31, 2023 00:00').getTime();
+
+let dias, horas, minutos, segundos;
+function setValores(e) {
+    return document.getElementById(e);
+}
+setInterval(function() {
+    let dataAtual = new Date().getTime();
+    
+    
+    let segundosTotal = ( dataFutura - dataAtual)/1000;
+
+    dias = parseInt(segundosTotal/86400);
+    segundosTotal = segundosTotal%86400;
+
+    horas = parseInt(segundosTotal/3600);
+    segundosTotal = segundosTotal%3600;
+
+    minutos = parseInt(segundosTotal/60);
+    segundos = parseInt(segundosTotal%60);
+
+
+        setValores('dias').innerHTML = dias;
+        setValores('horas').innerHTML = horas;
+        setValores('minutos').innerHTML = minutos;
+        setValores('segundos').innerHTML = segundos;
+},1000);

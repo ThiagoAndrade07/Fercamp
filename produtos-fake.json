@@ -4,7 +4,9 @@
             "id": "1",
             "titulo": "Serra Mármore Makita 1300W",
             "segmento": "máquinas",
-            "imagem": "../assets/img-produtos/serra-marmore.png",
+            "promocao": "true",
+            "preco": "20.00",
+            "imagem": "https://storagesitemakita.blob.core.windows.net/arquivos/4100NH2Z.jpg",
             "descricao": [
                 {
                     "titulo": "Especificações:",
@@ -20,7 +22,9 @@
             "id": "2",
             "titulo": "Parafusadeira de Impacto a Bateria Makita",
             "segmento": "máquinas",
-            "imagem": "../assets/img-produtos/parafusadeira.png",
+            "promocao": "true",
+            "preco": "15.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
             "descricao": [
                 {
                     "titulo": "Especificações:",
@@ -36,7 +40,9 @@
             "id": "3",
             "titulo": "PRODUTO 3",
             "segmento": "ferramentas",
-            "imagem": "../assets/img-produtos/parafusadeira.png",
+            "promocao": "true",
+            "preco": "30.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
             "descricao": [
                 {
                     "titulo": "PRODUTO 3",
@@ -52,7 +58,9 @@
             "id": "4",
             "titulo": "PRODUTO 4",
             "segmento": "soldagem",
-            "imagem": "../assets/img-produtos/parafusadeira.png",
+            "promocao": "true",
+            "preco": "50.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
             "descricao": [
                 {
                     "titulo": "PRODUTO 04",
@@ -68,7 +76,9 @@
             "id": "5",
             "titulo": "PRODUTO 5",
             "segmento": "tintas",
-            "imagem": "../assets/img-produtos/parafusadeira.png",
+            "promocao": "true",
+            "preco": "45.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
             "descricao": [
                 {
                     "titulo": "PRODUTO 05",
@@ -84,7 +94,9 @@
             "id": "6",
             "titulo": "PRODUTO 6",
             "segmento": "abrasivos",
-            "imagem": "../assets/img-produtos/parafusadeira.png",
+            "promocao": "true",
+            "preco": "37.00",
+            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
             "descricao": [
                 {
                     "titulo": "PRODUTO 06",

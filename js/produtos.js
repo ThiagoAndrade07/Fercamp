@@ -6,6 +6,7 @@ function $(log) {
 let segmentoSelecionado = localStorage.getItem('segmento');
 
 const sectionProdutos = document.querySelector('.super-container-produtos');
+const tituloDaPagina = document.querySelector('.produtos-titulo');
 const displayDaPaginaAtual = document.querySelector('.display-pagina-atual');
 const barraDePesquisa = document.querySelector('.pesquisa');
 const botaoPesquisa = document.querySelector('.botao-pesquisa');
@@ -40,6 +41,7 @@ async function listaDeProdutos() {
         quantidadeDeProdutosPorPagina = 16;
     }
 
+    tituloDaPagina.innerHTML = segmentoSelecionado;
     displayDaPaginaAtual.innerHTML = `Página: ${paginaAtual}`;
 
     let contadorDeProdutos = 0;
