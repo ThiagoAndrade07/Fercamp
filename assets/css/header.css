@@ -82,6 +82,8 @@
 .lista-menu_titulo, .lista-menu_item {
     padding: 0.5em;
     background-color: var(--cor-branca);
+    height: fit-content;
+    
 }
 
 .lista-menu_titulo {
@@ -105,13 +107,67 @@
     display: none;
 }
 
+/* Lista Seguimentos Header  */
+
+.container-seguimentos {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: var(--cor-branca);
+}
+
+.cabecalho-seta {
+    width: 30px;
+    height: 21px;
+    background:  url(../img/setadown.png) no-repeat left;
+    transform: rotate(270deg);
+    display: block;
+}
+
+.label-seta {
+    margin-right: 10%;
+}
+
+.lista-menu-item-seguimentos {
+    width: fit-content;
+}
+
+.botao-seguimentos {
+    display: none;
+}
+
+.lista-menu-seguimentos {
+    display: none;
+    margin-left: 15px;
+    padding: 5px 0;
+}
+
+.lista-menu_link-seguimentos {
+    margin-bottom: 5px;
+}
+
+.lista-menu_link-seguimentos a {
+    color: var(--cor-vermelha-padrao);
+    text-decoration: none;
+}
+
+.botao-seguimentos:checked ~ .lista-menu-seguimentos {
+    display: block;
+}
+
+@media screen and (min-width: 586px) {
+
+    .label-seta {
+        width: 49%;
+    }
+}
+
 @media screen and (min-width: 768px) {
 
     .pesquisa {
         width: 250px;
     }
 }
-
 
 @media screen and (min-width: 1024px) {
 
@@ -162,6 +218,17 @@
 
     .pesquisa {
         width: 150px;
+    }
+
+    /* Botão de seguimentos  */
+
+    .botao-seguimentos,
+    .cabecalho-seta {
+        display: none;
+    }
+
+    .container-seguimentos {
+        width: fit-content;
     }
 }
 
