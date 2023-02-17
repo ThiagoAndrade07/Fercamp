@@ -1,112 +1,238 @@
 { 
     "produtos": [
         {
-            "id": "1",
-            "titulo": "Serra Mármore Makita 1300W",
+            "MAQUINAS": "-----------------------------------------------------------------",
+            "titulo": ""
+        },
+
+
+        {
+            "titulo": "Ferton Professional Pro Series",
             "segmento": "máquinas",
-            "promocao": "true",
-            "preco": "20.00",
-            "imagem": "https://storagesitemakita.blob.core.windows.net/arquivos/4100NH2Z.jpg",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/QjoxtXA__21JJpp8wJAkOiEbO_A4VWOqNT_W8maRvjQBC4toRoWhLR_-4lbtREXc-Kmb7TRjUf7rfNjl-01N8w7mIKVPNrlfNjPi9wm1IrL5QKFY79iPS3yAwBp_A85lKZsevXn1O6gwzi64pZXggvtBhU3Jg228Dnf0w_9ayVotOOUINrVoC9_SGUE7Mrp93sERVuxHZYCcor95LxEpGXdEockJ4TNk2Umd4AgQ_aExeSYDvKTZglT_vYofPR8VCtgYoG3BqZgsAU-sj-ENg-EddCEfByp51UqxBGyvAQBWprC1xlXSSP86wMRlQCHn7hbfqU4Re4ajr0YhPQJ_pUmrguA_WYcWbM7Di0YHFRhiXS68UM68OrkD7K2EvYVJZr2CkbCJ2ugh_zmpPUlmhiNz8H3LgtIXL2t4BVObyQPRpfxMIG00_oe4qojZNav0udISTZRKeHGUfo6SnN0_FDqbxuu-8lVuplz4OK0DRCvNkCu7T0J0xTdchBgOoGr9gIPXlqD1NXVhFuTUpWh_oYjX4RiBmgrLmzfg4X7Sjz8oYNor7MJ1ziHgrrw9bOQ869mTwMvjI-3YyUFD5pAtiCCZPmjv7g81vNTC4CQcpgV5tHXr37a7NAPieNMxp-kJM4fFdfDyeZ457HP69c2vCGXyw_BBPIT9enLV3EIm-dLKeownbPn0TSb85j9ZzT149Ghkj8xPGjzErwmWyIuYHLOP4Nfca9xcIbNRbECLqTppITIPtfAy8CdRbCP9QMSKAehNiNkW3sjTgqrXYQA4N9PUebRd5Ecb8xPK0Hh6DGsMcGzyqFkqZIPfoa9OSEv7JmCzftSgN5BOzXYc1X1NgsOYTbzcO0IEBffBlPZF4X0LPtulVwqNooMlaZ7ZWQYUzozb2k4v4EsW-fIcLVdK1JJhoTNhWA6SopAombWYGlSnoAY=w643-h600-no?authuser=0",
             "descricao": [
                 {
                     "titulo": "Especificações:",
-                    "texto": ["Mármore Makita 1300W 4100NH3 ZX2 Dupla isolação.13.800rpm.", "Potência: 1.300W", "Capacidade máxima de corte: 32mm.", "Diâmetro do Disco: 110mm.", "Diâmetro do furo: 20mm.", "Espessura máx. do disco: 2mm.", "Rotações por minuto: 13.800.", "Peso: 2.9kg.", "Emissão de vibrações: 5 m/s2.", "Incerteza K: 1.5m/s2.", "Itens Que Acompanham: Chave, chave allen e 2 discos.", "Tecnologias e Segmentos: Construção Civil / Marmoraria.", "Aplicações: Alvenaria / Ardósia / Azulejo e cerâmica / Concreto / Fibra de vidro / Fibrocimento / Granito / Madeira / Marmoglass / Mármore / Metal / Porcelanato / PVC / Tijolo Maciço / Vidro.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
-                },
-                {
-                    "titulo": "Informações complementares:",
-                    "texto": ["Indicado para: Mármore.", "Marca: Makita.", "Tipo: Mármore.", "Tensão: 220V."]
+                    "texto": ["220V/50-60Hz","velocidade sem carga: 0-400/0-1450RPM","Taxa de impacto: 0-600/0-21000BTM","Voltagem: 20V","Max Torque: 40N.m","Peso: 1.15KG"]
                 }
             ]
         },
+
+
         {
-            "id": "2",
-            "titulo": "Parafusadeira de Impacto a Bateria Makita",
-            "segmento": "máquinas",
-            "promocao": "true",
-            "preco": "15.00",
-            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
-                },
-                {
-                    "titulo": "Informações complementares:",
-                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
-                }
-            ]
+            "FERRAMENTAS": "-----------------------------------------------------------------",
+            "titulo": ""
         },
+
+
         {
-            "id": "3",
-            "titulo": "PRODUTO 3",
+            "titulo": "Kit de Ferramentas GAMMA 13 Peças",
             "segmento": "ferramentas",
-            "promocao": "true",
-            "preco": "30.00",
-            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/PjKGGsRLRf9MqP86CwFjWrczmtseE2bRnOyxG0cNds_1xKssxBg036q29etMFFPEbMKUdKp3TjMhSNTKWQ7EN-ij5Y1scS6COxzyqFzOIO8zV64n_k-Wz6s89rhZn35DjbHE-n2-5R-yf3GM_zwS94nILMApyP_lE8_WHiZd1I_5uYLhXj4nEBIRWAHMv2qg3Gk0NyBGWhz62bcjJ6bCkBiAlOwoG3KYReWs-wbKwMHtM5P7kORD1JYazcS9szCkSJQqGQhAhp4z8QPI_XoYXBQNDGRCifG6pv91AsLOoLuYtozZc4s7XD3nAQfTNtiYdEE2Khmex93yd3opcog_jKNyEVrr0w3GnaaPVdRf4hQVr6Plu_C78ozrk_zfMOabOI2rzYSz1dtnG9Hv_kn4Cdbl5H-n1L276glpHAPZTJy_NkaKrIfRLM7TLrQ_S-GuozOG9NVHis0qTN8-R4RSwFXs0oGCbk-A_Fw_5OKPU8WNe5Ovzbe6uZC_uxgnhbLV5mTPBB0M716Qw7qtPeFzNs9ZN9ZjnktNLhuMC-qXufJbRecPNpUWQLEfDKU58WUPSQg3vFB0_72PsVtjfugN3OIzW1DFqaxXpJm18T54UjwcJDLmqawvdirXhnn3LeX0D0nZOGBpwtfHul_9LdOMe7vy6CdJutCdvkVRCOVZdARtUkgV9EZfbWs7pAUyjW0CA4l6nnn4rqMDeSQbpYYr2yj0rIpxjnTKWgKpsZbZgGTjN0uV6P9RKt4ecPZx8uDNJGs7NIpRqlGRUKNjf4ncQ8ecDbCOfKekpMPgOnWyzDqfF9vFPLCCpJJakmhlvrs66kPm4CH2E5iwSALQkpnlMzTh6ZaQnAojYoXaQlA-HOHsY7tyuVTk_W6SWsbwUB_sVTtF0u2OijUU13nPVQwb26HSv-_sulc91RbalXoLGGtrU4E=w528-h515-no?authuser=0",
             "descricao": [
                 {
-                    "titulo": "PRODUTO 3",
-                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
-                },
-                {
-                    "titulo": "Informações complementares:",
-                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                    "titulo": "Itens:",
+                    "texto": ["01 - Alicate universal 7pol isolado 1000v", "01 - Alicate de corte diagonal 6pol", "01 - Alicate de bico longo 6pol", "01 - Alicate bomba d'água 10pol", "01 - Alicate descascador de fios 6pol", "03 - Chaves philips isolada", "04 - Chaves de fenda isolada", "01 - Caixa com terminais de compressão"]
                 }
             ]
         },
+
+
+
         {
-            "id": "4",
-            "titulo": "PRODUTO 4",
-            "segmento": "soldagem",
-            "promocao": "true",
-            "preco": "50.00",
-            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "EPI": "-----------------------------------------------------------------",
+            "titulo": ""
+        },
+
+
+        {
+            "titulo": "Cinta Catraca MAVE 1.5T / 5M - NBR: 15883-2",
+            "segmento": "epi",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/RVMGVwGh9XeaXuMMV2YYxZHL132nEpFNtqa5ctw9btSVcITBexM5k7Jcz0uo37d9zlca6Bs4_3qCu3ZatO2W3WSTcp4SRBfnQLReq8xCvNR-KKFcizd_wcxbA2MDPkhbP0453B-TWng8A3W3SyLQ3JG7h0TUE3NEuJ7TZerdGcupjQD_Musx8WHK_ye9e4S0tb6lIt89oHoinbx074kMS1O6QHed9b8yqb_gMBWsl7TtNZcNo9dGN27Jb79M_bBDvQheIC2xCtKhpKfsvkRv-ND24F9rTf6XB7jReBaIUXXytqiTytJV-5mh8is6Wu9s9wN2CFTxBt8m3piTxUzcn54VnfDIX52SME6xl3CL20XA4_abh2crExCf9YbhxFrJraaPiZpoSsz8-C6Q0MPUyn9nMkTVU6nb8kIuTpcyIru6RgG9HWjJSZiIpNeepek4GVcRFHE8RODLmLZYgbeOpZcG24L9ZHOiS5e_aovRl4i1svjPRHgpc26zxftHymneNKWw8lFmTlq6bR2PwuPOgZE3BOzAjm2Lyr5VzkNsTCAxGTTaubvBJUaPtkp6kbob1aubqj1VLpvIFHGDK930hp4iJwCJXb4DwISXVRmQwflwb8aJER9tri_O_SMBnUBHwqcVeSrGlEZ6hGfTyX4M8T6xFILODb6gZmRMA0WjFjW5TVtU2zf6C1ghnmAh05mkV_BXy_4sbuVhFOBnSshVWkuQJgXu4E5PjphTQ_sNoQBy04cNMqQenaIzHj3PIysuk1nDLtecia8Fch-RUS6KZ7HEERY5p2UWutHSz2abmPEDCGEFpurCIkatJu_sNqAzRLuFDBJwv65DeRJggx1H6R1unaNMl7hhPorIJ6kDwUZwfDozFjS3xxci6qkXC4Ima162etwrcu28j6cQIq1rW6bVczFQHCaM0GwbOgxocvyTF6c=w320-h290-no?authuser=0",
             "descricao": [
                 {
-                    "titulo": "PRODUTO 04",
-                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
-                },
-                {
-                    "titulo": "Informações complementares:",
-                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                    "titulo": "Especificações:",
+                    "texto": ["Fator de Segurança: 2:1", "Elasticidade da cinta: 7%", "Não utilizar para suspender carga ou em cantos vivos.", "Temperatura de utilização: -40 C e +100 C"]
                 }
             ]
         },
+
+
         {
-            "id": "5",
-            "titulo": "PRODUTO 5",
-            "segmento": "tintas",
-            "promocao": "true",
-            "preco": "45.00",
-            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "titulo": "Máscara Para Solda - Kala K20 CA: 45596",
+            "segmento": "epi",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/MqLSDlofnltfspW2LiJMhxSwMfLqEfCKPKaKkkvJnPqICTqNd_6n8la4b8g5xOZXKhut6mbiBLJ4CNoLN-qu1yErqqaGcxh6EraofHXaFGNmyjjokmd-e2bQcUE57LO-kRxbtzHeYpLYUWbR8cjz8Foe8axTQE6Ba0S5IhfVpz64NGz_8fInpfAQF7b2OVhuqpDZULdbEWrec9s6UbPUB_eMplJ7FeRp2YJOl8pds6gYjKnLrw-tj-ZkSf0b1r4Q7U1cPL2ii0JfHoVK0DPDrNji9sMUnlF9BZ5E19c_K9u2Hlj1lfX6ggvbb0t2xtrXV_29rCrqrls9KgKNd_3Ic-sz-MBJwGg65DPbu2X0Rdt8Gpy6CBi28XFohvSXW8XE4o9lo_gdJFACeiFXuQvwJBra72YKkxCJc73q4G9WxNZa43_VtlecQwKREZDEiSTskbDGWWUnmIVPZE18e5_vApiNqD3NEltaUxseg_2qtF_JZ5T2xGd9AbOIwAc9u6G-SQK4HSadjVMT8st4Usu3Ns8W0Y8ToaG18a87691yVRJMhGRsHmaFMUguf2noJlaOF-Z9oLERiOgkZllr-w17k33oCNtQ6Ig5G0HHXKzkLOPBZaLlkCX_X315sMquCer7WGsdG8Fa6t60dDJNedn4K-Os46-gR2dmUAldKYBUXmkR3vDGW34RlMeXBMaJkpBdrQWJ_iLUrP1PsYqt24Wu3iCyEfVg5THzdK5UB-0otQDvSybpCBMSz4LTNHZ5V1uLH1XHqphDHqGhM9Sb7Ok97XmlMqpJfPjjUxvzwKS--ON8-bK16gzzayPEUqahFLW-TssY5XuXKGfg-hPg6-1VqgmYIPPR60rcwM_nNHXyfdvCpqsWxT-_jK609K5Nyal7MwtAmydAufGWy-Rmqy561w2F0uV3jYKAMuWkfz7RREW5yKs=w664-h600-no?authuser=0",
             "descricao": [
                 {
-                    "titulo": "PRODUTO 05",
-                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                    "titulo": "Especificações:",
+                    "texto": ["Máscara para Solda Autoescurecimento Kala Indicado para utilizar em Soldas por arco Elétrico acima de 10A", "eletrodos revestidos (MMA), MIG/MAG, TIG, erosão por arco elétrico, corte a jato de plasma e micro plasma. Lente de Auto Escurecimento Alta Performance Proteção Ultravioleta e infravermelho"]
                 },
                 {
                     "titulo": "Informações complementares:",
-                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                    "texto": ["Modelo: K20 - Easy Welding Marca: Kala Área de Visão: 90 x 30mm Dimensões do Filtro: 110 x 90 x 11mm Alimentação: Bateria de Lítio CR2032 Restrições: Solda a Lazer e oxiacetilênica Nível de Escurecimento: DIN 11 Tempo de resposta: < 0,0001s Temperatura de operação: -5C ~ 55oC Temperatura de armazenagem: -20C ~ 70C. Atende as normas: EN379 e EN175 CA: 45596"]
                 }
             ]
         },
+
+
+
         {
-            "id": "6",
-            "titulo": "PRODUTO 6",
+            "ABRASIVOS": "-----------------------------------------------------------------",
+            "titulo": ""
+        },
+
+
+        {
+            "titulo": "Disco De Corte Elite 4.1/2'' - 115 X 1.0 X 22mm ",
             "segmento": "abrasivos",
-            "promocao": "true",
-            "preco": "37.00",
-            "imagem": "https://d31dtgi5yshghi.cloudfront.net/Custom/Content/Products/57/29/5729_parafusadeira-makita-de-impacto-dhp453sf-2319_m1_637376773425272809.jpg",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/189-pC4Jt7Rvo2MHtJAOvMT0IvMxtJpSOHALolTCh_Yo97puZjKyZPrHUqAk3v07ZgWEMs96PQKQ5tlsc7MQZb77NcUZml16QMS4BgcXjigrvnkmVn2kwW-UrIweyrvHfI5Qf8LZXyi1oYx-LO4e2d4R-lgeUnfEOOFmRxYJ-zsuE_DcxQ7I9OvIxFUwjt9hTSTDRSogkDPp2dnFHkmHdK-w9_0EOldcXgxNMFr6x3NiCSpmDcro4pHJuzHuWxKnrRik0yx_3hrlyFbdj2iX7wN_2akuQAkOw0eOYY2ECHkymwS2vSkfk0Ps9DhNhYrWN3R5qAnNF1-j5NE1wEE1Io3AGxc-Mm-vX51OB61ZbU1bmAN71z4APIiRrUsju1r7P6qdekJOsyfUNc2kTe6gMx2tyS3F2QbZWCoiDzz64f3KgJpNVC29zXPo-MYV9HX2qZRvCVBOYdWACJPm6u1JdfUGnbGKg2pH5UrYmjAl7OOKNJFzZVmTudEAOgrxji7SA7vsqRmvKYOwwIDx_7xUXty-_9MIEMJndZ0M6I5TcQSYY7O2DoxdQZsR7xHJvUFRAsy6zItFal0jaAk3ko09BgaYu8IpcpkVS6-WOX6jtAMLNN0Q6J9o0C5inOdXZ_gDCKb-d2U2QbUbC1vnmS_Mtwl_lgSqFVrteHfsFZdad99IgnN57RNzvjeLw8XrHuFZ7xMYsEdOYwfj4JwClFCMcKfroiNy7oP_WPn2Mi9bdQA1tkcFPOWt7PDB6pW7rfrkIzjkXnE-lIWdA6tTtI7NtMggDrX0ISUgCa0mD0h2WpPENSNZHd1FhFDRU31Uhb3o5_juFl-vRJwUNfT92_4Ym6hrqI63zqro7GDqfQgX6D8pEe7r4rTq8Ij_z0gVgpP-vLMB7Xwzsap9XLkc9OeQn5IMf-U3eyvX-r_a3s1v0suCQVM=w534-h493-no?authuser=0",
             "descricao": [
                 {
-                    "titulo": "PRODUTO 06",
-                    "texto": ["A Parafusadeira/Furadeira com Impacto DHP453X10 é indicada para soltar e apertar parafusos e fazer furos em madeiras, metais e/ou alvenaria.", "2 velocidades mecânicas.", "Velocidade variável.", "Rotação reversível.", "Freio instantâneo.", "16 níveis de torque.", "Mandril de aperto rápido.", "Bateria: 18V 1.5Ah.", "Bateria de íons de Lítio.", "Rotações por minuto: Alta: 0 - 1.300 / Baixa: 0 - 400 RPM.", "Impactos por minuto: Alta: 0 - 19.500 / Baixa: 0 - 6.000 RPM.", "Capacidades# Aço: 13mm# Madeira: 36mm# Concreto: 13mm.", "Torque: Junta rígida: 42Nm / Junta flexível: 27Nm.", "Simbologia: Dupla Isolação Fabricado no Brasil"]
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro externo: 115mm (4.1/2)", "Espessura: 1,0 mm (3/64)", "Diâmetro do furo: 22mm (7/8)", "Máxima RPM: 13300", "Velocidade máx. : 80m/s"]
+                }
+                
+            ]
+        },
+
+        {
+            "titulo": "Disco De Corte W-MAX Para Aço Inox e Aço ",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/lwsD7CMWiOmBYxq6PAvmjSbYsE5_6094Jxb_dDINZpetfXsV2aXEsXjAsdrzhpYKJNOJbN6VCL-lBKhFvNAcwmyEYqzYyVag3Td2mxE99myhXUF5Sk2uiY9pajx7WIzbniAjNSth7bF-ES4QOnCA0uL3UDefP88VG5Du4WT2QPATw4odGEgjBIzqU47QeYAy5ArfdO7MPnmacqz3SohopWLoUVXwDFKl7_5jOq42St5vXRl2Krr37Jc3AIVWO0xAUgZdB5BehxMK3OUwnURJXf_QR72W9OVAHqdE_szF77ZHENHWKbN7kxF_-s2LZFlS5_JnHxPB6-cmvHrsMreP4gVqIPO4ZpJa850_CJwk7Ybss6mSras4hlgKeuo4hYVu2Z6aF6kyGJiFFZQ7Mn1hewqTqAaknzFJ32y1RbBTMEIOqG5cKeuxWKuuIGNW4fRO7kueDFIECjLoWGtCAdb3kwkzfR_HPOyAuL6SDyOFvFXonBw-CykysEUK4vxpJE0tfBWPec3Vkm5xlxK5tyVHfARQ1rSnxJFdddAbx7KEyV2L132oG8ctFG_wvDoJSQI_uEv7yLG_RVPOySt9A5BdeOIS1mhqt6BeAof6keKkc6_qGI4_-iztslohHPUARjyK9v6C7u8djwVIRtzrt30fyiZPMXchsXprIhHsRxa0Xvv7DwcHXHKIsh-9mQrP_7CeY2pLIZSlZIkasVNW_niSsMgif7CXUVlSKYE9QZBiv8mGsPhCM4EnBcn_aPdDK2PgQnSn580jpMqfkTvrkBnlJUi02MAuNiIK9qf3Csf9Of2wQ7h0d3P7QMoOR4vlgR-e6dHkasjblFP99hhLCbfWahTUMfJx81ucloWVjsR74WXlBxtR0DyhsiEQXtvfASc_rLEoHPFxvqYC8JHL1f-sxDH-DtRV2XAe1VLgsf8hvJVHvaY=s657-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["- Norma: EN 12413 - Disco produzido com abrasivos, resinas e telas de fibra de vidro de alta qualidade, que proporcionam um baixo coeficiente de fricção, reduzindo a produção de calor durante a operação, aumentando a velocidade de corte e oferecendo uma perfeita estabilidade dinâmica do disco - Isento de ferro, cloro e enxofre que são pré requisitos importantes para evitar a contaminação do aço inox - Baixo nível de fumaça proveniente do corte."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Disco Flap - Grein Balance",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/SZ_S1pHL4fim0pa59IyyXNoZUiiThVU25AexokE-M10MDopRkLt9xkBF5Ax9PjIIzEAWB7aG0YU4MIiVwjG9n8FxmJ0ebewsJlCsKSGDZxP0udWggfT04XEjfiGP0T-7YHE5oeaF1EUGgfRc8ahC_DL8K3Ba56gWUrRQT2XoWyWAXo19Wwt3GzC8GX50ut7yT0pciUS-iChp4Igu1XYQTFri6qRTXJ8lRkRbw3YpKzQVVLc_p5ziAdTueDnLnqzD69qUXsbgaYSN15RMh0VbY3ACfIWn8YH4t_3ojokUFF6L7Kd7ewd4SeROxZikYGPfRbw35MEBO3LtpN_1T0hdP4nAsz74goXBQ44fUX9Npghk86txKTrO1xmJkbhMR9cBhpC7CCZokASK_PWYHyEpkjXke6VKydy9bafpCNyIviXn3QVws6BqfPp2Bi-SfF1vLN3SK5QUCPOsrQYiUc_gjQg_jcrxEMuGj6NtVZbalQX9H1hGOh4-wL4a_lnnDMNFQGJaio4eDzFrn6XYHTvm4AtgmKAK4IJrE3vAbBEgLmnqUC6YA_tMwEScJa6yeVt1EqhMvnEbJqq9bZxXzQaN6FZs87P4i61Ma3c1cmaXkqaF4XT0VDh4t0B2CyWEKhkauudzvcRU6vUACQzPRlCPYBrtXyi_xaEY8tgzwdsGVnxzwvkOdIrf2UIl6PtDnWp5Wz4srzEkaq9LOUa-lOPU4HpDzZkWNUuNonQ5YF9Xi-TGvGtaBNFh6o2tmts9bhSVXsddSmJQ4jn0JOYwBBGCVTyEzJvnvGF2-tmTjHOOX02kXbwlWzgDojAhk6gn2z2ooucPmmzSg0zM64H8-vasdim8NioZvOY79eJjQpf3e6kS91NEwLm1oUkJo5N-KEQReSUjFdEEvx5rMqixdaz-iObB-cVE3WWcw0sLcL1TwRYItvQ=w327-h305-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Opções:",
+                    "texto": ["Todos os tamanhos."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Disco de Corte Inox - Samurai",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/roFPOvvJfgtYi5uNzG8nHycJviY4yQM3c42YanJaGfC8mgG6RYMU7ms2w-VI8nM5K0GM2eZ_lBW7nOVpKPk2gpgp5XfgBUP1QAbcx2l0PY0e-ZxqU0p7G1J_fyW4aHlhnN_YI6KTKsF1F_nglbIpptP7FK_G8_JXpaUclNLiIC_6m24MgjR84cagDwfoTpFATUnqX78h2qtqR8ssIj8Zo-eJTY-SRhsmPRWPRShfVvBLjFsaF_4wtHAiPcptA7w2E78uCGnhAZJuI42WrlFju6ExzbvWwzSfkHqciK8E2x9Z1-21ivP0ry4nEOU7Jclp-y1jvrZX0AZyylNHPSIwHjlaogKeXbpc2gvpK098NrfZI8Bga6isxTwLN-w_MbSb7fNFx5JVsWcz3v7_8GtnvsnjSr7VAVFWCI5Cx6EnLdMay3eXPmRvHDYshG1tdmZxQZBEhaFIPh00xxIuCCpBOFtZDWjKubEqogM3f93H3flRgHgdW7BmhjJFd9GkTIIkQlGki5GxU0E9VSN6Dk7f25c9uYzBI_2azrpCyqv8G6ieELW38d7hAWHk3wcoNA-9BAnMOqfdUY3bNv44lrV4hBOglBSDKSghSyzdSlo3tRM8G_R63QPx3Pw7DvjE0UdAY7_c7Ugf9UdWey0yWgcT03Mze8LcpMtQyMglpPJBWWein5oZUS-L1eyhbEtrTgJNJ1pW8zWeTiUqx_pICZbASMsKRLcYNIXVdnW96KfiNnMZ3w1emwZ1QgPAcPjJoafSZDcA0mAooIgnTwJQQjjMnq9HpQagBvFsQWXeznEm1WiXqGtc7tjSHGt4MrGElWca8rWuL816quO4K4K-8qC9LI5t3g9ZWt2NBrVngLS9hJpxlKzOZ1g5gWiL9ocVb_4-UQ5TlJQQWsvqSK8goKqjwc5GVBMNYZBcZaw1UOLG-ouA648=s657-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Dimensões: 180 x 1,6 x 22 - 7pol x 1/16pol x 7/8pol"]
                 },
                 {
                     "titulo": "Informações complementares:",
-                    "texto": ["Acompanha: 1 bateria 18V 1.5Ah, carregador e bit phillips.", "Marca: Makita.", "Peso: 1.7kg.", "Tensão: Bivolt."]
+                    "texto": ["Aço inox / Alumínio / Aço carbono"]
                 }
             ]
+        },
+
+
+        {
+            "SOLDAGEM": "-----------------------------------------------------------------",
+            "titulo": ""
+        },
+
+
+        {
+            "titulo": "Eletrodo Vonder 2,5mm - AWS E60 13",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/JYk1B9LpIDGliAzAdhUrDxnQ7hoLrVoQ3SZHlNolKVUeC-jaTCmY6YuKrmGsoaGD9A4NLj1FMOs4_ebpRpp_rWNliL8WqbGas3x7F-TQYFPxqDyjcli2CGcz8V1J8oEF_DfTTM6KQ3H4IQ06iXGOIzUlj33bDmzLEsxS8qBeAzvsTBzBz6aPFsoad5gOHPB6NEMnxfsDT07jDUXAFjxttP_4hy-_OIZte5vdhAhATn5nOPyeNZ9jIl4klrintwBkl8Kp-I8RhXeI6kSKceHuJGYJLtBTO_8KU2FDUk9pkKcW-4n01vTiL_3D-Jx3bDTC75ZGuUgPyViFXgQ7SVGOYafAChqZihHaF9rVPodJ7MK6DSNOQkSf4sWveU2vDNXpTDOJSGWblnfO-aqlz4w_mtrSH1WOfoBH182EfvCH1AVgsU8nbZAlmu59_pwz235-CFPrhBkbXOLqDsq1xk7XTnEYufRTNdlnJetc0PEboiIUppuJhpbDJrvpqIfryRawzzkF5pz0DLstW9wJkXo3qcCVrdJ0pmUn8VJTnAS3qzSiryXDMBppS4ocyGpdLzDUlBWHYiT5TGAwBB36ITgPNmBTM3bbSVRcmA-4T4_3E9SkRY8pHQVcLJXYU8iIeDVePyh_DWT5CNPzOtT2mr7jvUAYqRUPZVwRGgUAsRIKELgr89811FCJG5l-lMNidJko-t8JU6s2nTlwAYOG7GLwzSeInFdezJWoh9y-WNU3Cevfnswx4XHBOrCd5yU9w8TPoffpBl-TkJM9-76UqClQ5GgEMdk1BGOwO8dLzJt-mCktoVy9fjvUlvciU44jVfuvGEfx8jp3itLwClvrketVJSz676F2J-e7AZiRklStNWZHYOSfdyVOEsv_WcNu75e2I3QtBIbsJB2JR6WB7zsNkq4KhKkaM9gszORSle2eOfpv-hE=s600-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Eletrodo para solda elétrica, E60 13, com 2,50mm", "De 20V a 30V", "De 75A a 110A", "CA >= 50V", "CC+ ou CC-", "Qualidades: auto rendimento", "Composição: metal, minério"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Worker 3,25mm - AWS E60 13",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/sMhyGF3ZVB8YnEUN0GvPO0ZLV2bSDUyZsPlrK7MuC7CoDny1ZXBX-d9VxyMgIS1AXeyPrzVe_3GboxcA17_3Hk4PkhtbULgDee-zXUsfvihOFTinhL46jedMH2XiKOWSC4xsHKcWgvYAfd6kT-4vZbsmXhsJu5fnXK4S7TQMb86vU__s_NMxhszBFXr6_8ZPlSIN0U9DgiO-4OM4Ur1YVueUgRsn4kDI1uXXW0dfMKy-tQAU-xjyKpMzCtQvkB45i8qXMR8MvnUk7deHgoazHWZq5ejur4pnP-Djmw_WS5uh4naSa5-3ApsR7pHbrpgOstDb4BNqC7-iZJXZ58O-TxzYsphP-L-NYtSRrAcQx9Qym1M5hX9jcBNzKMXplBoefTvjd5zj67LeRU2Sk4OMlQW4ID_c0BnyqEcCp0x38I8IS9wBdD0Fr5tcX2LU7FNzFU8LrYFexdmawOS514yrdUmriLWVNZIgwoZMoE9WqsYMXSTzwMItkGc43FVE8rQhSfDSWLwzq0Nx1A-7FhU2fKb22br5NHknWD-GNQyO1wmGZqFgx5C0mZN_m2hPFLFGEZE-a9E18QrDFLKu0ZR3K978R5Jm7Vy3rH_3wqSMWEMGFN3eEUQVTkF0twOuaJR2zz8RAjmfrj85tzk4fc0aWMo8va3fF1phj6yR9uSyk5y-WtnOJyR3Lt8wlJuLF0H0jnNrqolQXcx4Q9rq0crWXNM_f51BeGGxKzEG0e1u7t-k_AQsX1ZNywamh4pXYs8GY7YoTEmsKBCZ7nCeG6ZFCbce1zIy-KcPcvPQV5R8U1c0NWTYayHRtxn-vziFpQP2lBnNWKXkzkHiuOIKYmW06C-1aJKTnMiQYEZ0sRQTFFpuAwyqhPKVoXDE-jMQDCBmUSqyOa2GHaYKjkJpcSjnpTOf8OlcWbDoyx4ffjfwUApXf9s=s328-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Eletrodo para solda elétrica, E60 13, com 3,25mm x 350mm", "De 18V a 28V", "De 80A a 150A", "CA/AC > 50V", "CC+/DC+"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo ESAB 2,5mm - AWS E60 13",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/jZDQsq1f0K23ZFHO9-i2Uq1EaDg6PjeNS9IILGFNXkoWhtUobhmAeGEwnKKO77KZDD0A3SB-vuEkp44LyIOudj4_iJuUfI1KJ88OX4RupotUme7c2Sr7HxpPgO8RRamkMZOLjM7xNyPThTtm6l0TB7OLGx5nTWIvTmywkp2YAMm7Ws2lq3LvWnwJPRXcQR8kmnUr1yM5mGzC4tbBr9WHREqnUdvFUViSWvgNxolWj_WsxNVEJN4nPpOE1bBdWOvUPlQnTRzQhTmcdJxF1fivQ3EuPub9Zh3Vbp5wWKvypC_cPKkq8nU4TFEMrSIoiApf7lV-HiL2pezCwHb2K5QdVEy1ncGerRIO7B3XHOCXQl-2m2_fztjYVfddJl2Jqj8Su8XstN9DXE_KG3mr2OKRUmSr9SMefR-oKqA4i5-iQylai41ISy-F_YsEGdCb3TV6oc1uoxbWsPcXLsg3tZXC6tN0hj2mKXCQ6A2Cr7R1lwbGKVivvp3k99IpdkQ71wn0PED8RZm4lKtTgLbiuvvQwNtFQZP3Ev7f3w80Ny6CTCQW-88KCIEY0U1_lraFAiOpSdVMKCwjqJYj4p6aWdyadJ0-vLjNIKqzSMj9maNNfsyoqOcjL-Y3jtQ0-w-sFgqsQ8bMqAmA9bp-Z0PKkzW6H5d6XDOSkqSmKPKFqs_Np80g5wwyQIEvdsPo714QYNfQhR2WhhK9mw8YPdMfRHmVRA9EAkHKsjaHuSuvE5vRSE9sTCwmNv1kagm676_Cs84T8MR9HZM2lEysdZEyHiUhxYNHvf6Y1JFdyvZhkgJy3xljcrTj_Sg0ka_PPca0fmsIxDbcrW88gEDXGGbrN3lJVUkIvImZ0SQqfyTuCKb-G5dxVIbM9EBlBlLyKhIiv7bk5d1k04xaEIWmkdaRFgyo6Hj8oyZzQnjejc7dvdeUhy0TMzg=s657-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Eletrodo para solda elétrica, E60 13, com 2,5mm x 350mm", "De 20V a 30V", "De 75A a 110A", "CA/AC > 50V", "CC+/DC+"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo ESAB 2,5mm - AWS E30 8L-17",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/jZDQsq1f0K23ZFHO9-i2Uq1EaDg6PjeNS9IILGFNXkoWhtUobhmAeGEwnKKO77KZDD0A3SB-vuEkp44LyIOudj4_iJuUfI1KJ88OX4RupotUme7c2Sr7HxpPgO8RRamkMZOLjM7xNyPThTtm6l0TB7OLGx5nTWIvTmywkp2YAMm7Ws2lq3LvWnwJPRXcQR8kmnUr1yM5mGzC4tbBr9WHREqnUdvFUViSWvgNxolWj_WsxNVEJN4nPpOE1bBdWOvUPlQnTRzQhTmcdJxF1fivQ3EuPub9Zh3Vbp5wWKvypC_cPKkq8nU4TFEMrSIoiApf7lV-HiL2pezCwHb2K5QdVEy1ncGerRIO7B3XHOCXQl-2m2_fztjYVfddJl2Jqj8Su8XstN9DXE_KG3mr2OKRUmSr9SMefR-oKqA4i5-iQylai41ISy-F_YsEGdCb3TV6oc1uoxbWsPcXLsg3tZXC6tN0hj2mKXCQ6A2Cr7R1lwbGKVivvp3k99IpdkQ71wn0PED8RZm4lKtTgLbiuvvQwNtFQZP3Ev7f3w80Ny6CTCQW-88KCIEY0U1_lraFAiOpSdVMKCwjqJYj4p6aWdyadJ0-vLjNIKqzSMj9maNNfsyoqOcjL-Y3jtQ0-w-sFgqsQ8bMqAmA9bp-Z0PKkzW6H5d6XDOSkqSmKPKFqs_Np80g5wwyQIEvdsPo714QYNfQhR2WhhK9mw8YPdMfRHmVRA9EAkHKsjaHuSuvE5vRSE9sTCwmNv1kagm676_Cs84T8MR9HZM2lEysdZEyHiUhxYNHvf6Y1JFdyvZhkgJy3xljcrTj_Sg0ka_PPca0fmsIxDbcrW88gEDXGGbrN3lJVUkIvImZ0SQqfyTuCKb-G5dxVIbM9EBlBlLyKhIiv7bk5d1k04xaEIWmkdaRFgyo6Hj8oyZzQnjejc7dvdeUhy0TMzg=s657-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Eletrodo para solda elétrica, E30 8L-17, com 2,5mm x 300mm", "De 27V a 33V", "De 60A a 90A", "CA/AC > 52V", "CC+/DC+"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo ESAB 4,0mm - AWS E7018",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://lh3.googleusercontent.com/w9WbXGlygLY8zCnSE756bIpevuhqF21l8ZdI9WnceFdWMBIInLFAzeAhNLuQGjN1Q-8v5B8tjdnZNMBvYS6UI9WBvUb3eNpzLVUAcpyhKNHUnmnUy_7HmrtD9Lp1gr4GX9OiYZziz4Ivio-gtVLYj-yTgfJ2Rd2omVwoOTr_Z1wBhu3zIBjeCOasTuZv26DQCjQZE0gU7y8RicFAoh03TBh2Cb0KUF1m6xa2DeYnW3MFUsCFAJoYBABBMSzmhFvcu-tinJdrGzqsIbE__4SdImIe99E7Z7ZDXqeF7zPdE_igmgGFHOr39IB8TdVESwv4XDwvF16KCWemVlbkyFoor4ybI5iW4nTAeGCWtGW6XqZs206tFMNQnocJxg0llD11J86JsKyNUWjxnXkQ9TL-rgFeBjfhtHMvqsa6S9Ub7Mgs6XRz2J5wn7CsG2xxKpGAxnuWO4MnBtxRUD4utWL4RJYLLWMlDhn0g2hDxr__c1nGpnhv7ZUgeFXXxV--MHZoYq9o9oWxbAfhGukb__7H4xzksMZwqsWZNSqAGc6YA-QK6zcNP1X9XfCOFjBucRhtr01mg0E9HgHTl02qzw3GGsn5UtP6uGATbNt2fhqnEdWw2abo2K1EjFwtCF4PxKkeyPtckccW6YejcSBaey8F8wLFrJ6GTgYUzZosdTNXdqvqbhxX9JqgguY6M3AU4NXSfQPr950PB4gDqUoqBGOmcUSLuHE7F-_UcaoKzdm-oOIa-tutZcd8rgOAVWH9n2Lo85FdaGbPKZFRG89hdT54ijXwXzQEukDOd9yIRURXEBKX8UaLb6Z7BvPToTHmda0b-lBLDJF4RjMRGdy9e9guIMfirrddDbRyaJU9aGVdvdkC67WnuWVPQ0bP5qaomB8KVPyhPi7MGLFnIsT-BqfVAmKlTSeDyNf6cppf8xo_BRA78-I=w335-h235-no?authuser=0",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Eletrodo para solda elétrica, E7018, com 4,0mm x 450mm", "De 20V a 30V", "De 140A a 195A", "CA/AC > 70V", "CC+/DC+"]
+                }
+            ]
+        },
+
+
+        {
+            "TINTAS": "-----------------------------------------------------------------",
+            "titulo": ""
         }
+
     ]
 }

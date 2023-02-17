@@ -41,3 +41,21 @@
 
     </div>
 </div>
+
+{
+    "titulo": "",
+    "segmento": "",
+    "promocao": "false",
+    "preco": "0",
+    "imagem": "",
+    "descricao": [
+        {
+            "titulo": "Especificações:",
+            "texto": []
+        },
+        {
+            "titulo": "Informações complementares:",
+            "texto": []
+        }
+    ]
+},

@@ -123,14 +123,24 @@ function paginação(paginaAtual, itensPorPagina, listaDeItens) {
         paginaAtual--;
     
         let loopStart = itensPorPagina * paginaAtual;
-        for(let i = loopStart; i < loopStart + itensPorPagina; i++) {
-            let item = listaDeItens[i];
-            if(item) {
-                if(item.segmento == segmentoSelecionado) {
-                    criaProdutoComDescricao(item.titulo, item.imagem, item.descricao);
+        let loopStartIncrement = itensPorPagina * paginaAtual;
+        let loopFinish = itensPorPagina * (paginaAtual + 1);
+        let contador = 0;
+        
+        listaDeItens.forEach( item => {
+            if(contador >= loopStart) {
+                if(loopStartIncrement < loopFinish) {
+                    if(item.segmento == segmentoSelecionado) {
+                        criaProdutoComDescricao(item.titulo, item.imagem, item.descricao);
+                        loopStartIncrement++;
+                    }
                 }
             }
-        }
+
+            if(item.segmento == segmentoSelecionado) {
+                contador++;
+            }
+        } );
     } else {
         sectionProdutos.innerHTML = '<p class="produto-nao-encontrado">Nenhum produto foi encontrado.</p>';
     }
