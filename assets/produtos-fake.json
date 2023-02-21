@@ -483,6 +483,430 @@
                 }
             ]
         },
+        
+        {
+            "titulo": "Serrote Gesseiro - Lotus Plus - Ref: 6500",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/tL6BHdD/lotus-serrote-de-gesseiro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Uso: GESO","Material do cabo: Plástico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": [" TPR Serrote drywall profissional, cabo ergonômico, curvo e bicolor, em borracha termoplástica, comprimento total 30cm, lamina: largura 20mm comprimento 16cm, em aço carbono temperado, com travas super vivas, para facilitar o corte de gessos e cartonados"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Nível Alumínio Magnético 40mm 3 Bolhas Reforçado - Lotus - Ref: 8724",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/n3NX73z/nivel-aluminio-lotus-40mm.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Referência: 8724", "Polegadas: 16 Pol", "Tamanho régua: 40 cm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Nível Magnético com 3 Bolhas Lotus possui escala em milímetros e polegadas, bolhas para medição horizontal, vertical e inclinada, dois orifícios para pendurar.", "Nível Magnético com 3 Bolhas Lotus é ideal para verificar com precisão e facilidade o nivelamento de superfícies."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Nível Alumínio Grande Base Magnética 60cm Com 3 Bolhas - Lotus - Ref: 8726",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/MfnFYKD/regua-aluminio-60cm-lotus.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Nível de alumínio com 3 bolhas, régua de alumínio reforçado, resistente a corrosão, com escala em milímetros e polegadas, bolhas para medição horizontal, vertical e inclinada, dois orifícios para pendurar.","Tamanho: 60cm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Nível Alumínio  14 Pol - Com 3 Bolhas - Lotus - Ref: 5342",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/9GLRRMn/lotus-regua-aluminio-14pol.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Alumínio 14 Pol com 3 Bolhas", "Referência: 5342", "Polegadas: 14 Pol", "Comprimento: 35 cm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Nível Laser c/ Régua 15cm e Trena 2,5m - Ref: 3637 - Lotus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KKqDvbR/nivel-laser-profissional-lotus.pngd",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["O incrível Nível Laser projeta um feixe de luz na horizontal, vertical ou cruz em qualquer superfície facilitando o uso sem a necessidade de riscos."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Neste único nível 3 bolhas de diferentes ângulos para te auxiliar em serviços de instalação de prateleiras, pendurar quadros, colocar portas, azulejos, janelas e demais outras.", "A trena de 250 centímetro possui uma trava de segurança que não permite o recolhimento sem que o botão para liberar esteja apertado, tornando o uso mais seguro."]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Serrote Gesseiro Drywall Duplo Profissional Lotus 8727",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/n1nR8Lj/serrote-duplo-lotus-plus.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Serrote Gesseiro Drywall Profissional da Lotus, possui cabo ergonômico, bicolor em borracha termoplástica TPR, lâmina em aço carbono temperado com travas super vivas. Serrote indicado para facilitar o corte de gessos e cartonados."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Referência: 8727", "Tamanho do Serrote: 12 polegadas - 30cm", "Comprimento Total: 30cm", "Dimensões da Lâmina: 20mm x 170mm (L x C)."]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Alicate Prensa Terminais 0.1 mm a 2.5 mm - Vonder",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1vpqN1k/alicate-prensa-terminais.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Comprimento: 280 centímetros","Largura: 115 centímetros","Altura: 30 centímetros", "Material: Aço Carbono"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Alicate de Pressão - Mordente Reto 10 Pol - Kala",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dWd2cdm/alicate-de-pressao-mordente-reto-10pol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Alicate de pressão mordente reto 10 Pol", "Abertura máxima da boca: 1.1/8 Pol (28mm)", "Material : Aço carbono forjado", "Acabamento: niquelad", "Produto encartelado"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada 3/8 Pol R09110024 Gedore Red",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/B4NPctJ/gedores-chave-3x8.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Aplicações/dicas de uso Indicada para apertar e soltar porcas e parafusos sextavados.", "Nunca utilizar prolongadores sobre a chave, pois isso aumentará o torque aplicado e diminuirá a vida útil da ferramenta.", "Destaques/diferenciais (características) Possui acabamento cromado fosco, proporcionando resistência contra oxidação/corrosão.", "Combina na mesma chave um lado fixa e outro estrela, possibilitando aplicações em locais de difícil acesso.", "Massa aproximada (peso) (kg) 0,03 kg", "Garantia - E (CDC) Garantia legal: 90 dias", "Medida da chave combinada. (Pol) 3/8 Pol", "Material Aço cromo vanádio", "Acabamento Cromado fosco", "Comprimento aproximado (mm) 130,0 mm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada De 24mm - R09100240 Gedore Red",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ZHcrQxZ/gedores-chave-24.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave combinada GEDORE red", "Posição da cabeça (lado estrela) 15", "Posição da boca 15", "Acabamento cromado fosco", "Aço cromo-vanádio"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Marca: GEDORE red", "Modelo: R09100240", "Diâmetro: 24 mm", "Medida: 282 mm", "Altura da cabeça 1: 13,6 mm", "Altura da cabeça 2: 9 mm", "Largura da cabeça 1: 37 mm", "Largura da cabeça 2: 53,2 mm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada 26mm - Collins",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Lh6N0yq/chave-collins-26mm.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Aço cromado vanádio", "Indicada para apertar e afrouxar parafusos ou porcas com perfil quadrado ou sextavado", "Produzida de acordo com norma: DIN3113A."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Peso (Gr): 250", "Dimensões: 10 X 10 X 15", "Marca: Collins"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada 21mm - Collins",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Lh6N0yq/chave-collins-26mm.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Aço cromado vanádio", "Indicada para apertar e afrouxar parafusos ou porcas com perfil quadrado ou sextavado", "Produzida de acordo com norma: DIN3113A."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada 22mm - Gedore Red",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/NK4tCRz/gedore-red-22mm.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Fabricadas conforme normas DIN 3113 forma A, ISO 3318 e ISO 773", "Posição da cabeça (lado estrela) 15", "Posição da boca 15°", "Acabamento cromado fosco Aço cromo-vanádio GEDORE red"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combina 18mm - Collins",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Vv3zwBT/chave-18mm-collins.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["CHAVE COMBINADA COLLINS 18MM CR-V", "CROMADO - Aço cromo vanádio", "Indicada para apertar e afrouxar parafusos ou porcas com perfi l quadrado ou sextavado", "Produzida de acordo com norma DIN3113A.", "Descrição Medida: 18mm Embalagem: 10"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada 19mm - kala",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/DbCLjSW/chave-combinada-kala-19mm.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["A chave combinada é extremamente prática, pois possui em uma das extremidades uma boca fixa, e na outra extremidade uma boca estrela." ,"Medida: Comprimento: 200 mm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada 17mm Gedore Red",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/NK4tCRz/gedore-red-22mm.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": [" Fabricadas conforme normas DIN 3113 forma A, ISO 3318 e ISO 7738", "Posição da cabeça (lado estrela) 15°", "Posição da boca 15°", "Acabamento cromado fosco", "Aço cromo-vanádio GEDORE red"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Estriacrv 3/8x7/16 Gedore Red R01192428",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WgR76FD/chave-gedores-7x16-e-3x8.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave Estria CRV 3/8X7/16 Pol Gedore Red", "Referência: R01192428","Aço cromo-vanádio • Fabricadas conforme norma DIN 897 • Com paredes de espessura fina • Acabamento cromado fosco"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Combinada 6mm - Ref-4200 - Lotus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/tM8vwGK/chave-combinada-6mm-lotus.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Utilizada para aperto e desaperto de porcas, parafusos quadrados, sextavados e dodecagonais", "Medidas iguais na boca e na estrela", "Medida: 6mm", "Ref: 4200", "Marca: Lotus"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave de Fenda Toco 1/4 x 1.1/2 Pol -  Cr-V Imantada",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/v3FsbGy/Chave-de-Fenda-Toco-1x4-x-1-1x2-Cr-V-Imantada.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave de Fenda Toco 1/4 x 1.1/2 Pol Cromo Vanadium"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Philips Cromo Vanádio Imantada 3/16 X 1.1/2 Profissional",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/86wHcYY/cheve-phillips-lotus-3x16-x-1-x-1x2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": [" Linha Profissional.", "Haste em Cromo Vanádio.", "Acabamento Niquelado.", "Ponta Imantada, que facilita a inserção de parafusos em locais de difícil acesso.", "Cabo em emborrachado rígido injetado diretamente sobre a lâmina, que garante maior segurança e durabilidade ao apertar/afrouxar parafusos do tipo fenda cruzada."]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Chave Fenda CRV 1/4 x 6 Pol Plus Lotus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HqdvHWm/Chave-Fenda-CRV-6pol-lotus-plus.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave de Fenda 6 Pol com haste em aço cromo vanádio niquelado injetada diretamente sob a lâmina, ponta imantada e cabo transparente moldado em PVC rígido, resistente a ácidos, solventes e a impactos.", "Excelente qualidade para trabalhos profissionais pesados.","Atributos do produto","Material: Aço liga cromo vanádio niquelado Tamanho: 1/4 x 6” Tipo: Chave Fenda Peso produto:0,100g Peso líquido: 0,092g Largura: 2,3 cm Altura: 2,3 cm Comprimento: 25,5 cm  Linha: Plus Marca: Lotus",
+                    "Conteúdo da embalagem: 01 Chave Fenda 1/4Pol 6Pol Crv"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Phillips 1/4x 6 Pol - Lotus 4066",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pnDPxFp/Chave-Phillips-Lotus-4066.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave Phillips Lotus é ideal para uso em parafusos com a cabeça do mesmo tipo, formato tipo “x”.", "Características técnicas da Chave Phillips 1/4x6'' - Lotus 4066",
+                    "Referência: 4066","Polegadas: 1/4” x 6Pol"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Fenda Lotus Plus 1/4 x 5 Pol ",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/z6LvkWs/Chave-Fenda-Lotus-1x4-5-pol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave Fenda Lotus 1/4 x 5 ( 6,35mm x 127mm)", "Em aço liga cromo vanádio niquelado, injetada diretamente sob a lâmina, ponta imantada e cabo transparente, moldado em PVC rígido, resistente a ácidos, solventes, e a impactos, resistente a atritos e oxidação (ferrugem), sendo mais resistente e durável."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Fenda 1/8x4 Pol - Lotus Plus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3R0Stgt/lotus-chave-fenda-1x8-x-4pol.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave Fenda 1/8x4 - Lotus Plus",
+                    "Chave de fenda do tipo industrial possui haste produzida em aço cromo-vanádio temperado, com acabamento niquelado e cromado, oferecendo resistência e durabilidade.", "Conta com ponta oxidada, diminuindo a possibilidade de descascamento e proporcionando maior segurança ao usuário.", "Possui cabo feito em material com maior rigidez e resistência, que proporciona aumento de torque, tornando a chave ideal para trabalhos pesados."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Philips 1/8X4 Pol - Lotus Plus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JRWLjqq/CHAVE-PHILIPS-1x8-X4-LOTUS-PLUS.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Produzida em aço cromo vanádio, proporcionando maior resistência e durabilidade.", "Possui acabamento niquelado que confere maior resistência contra oxidação/corrosão.", "Conta com ponta magnetizada que facilita tanto a colocação quanto a retirada de parafusos em locais de difícil acesso, além de cabo anatômico em polipropileno que garante maior conforto para o operador.",
+                    "Indicada para fixar e soltar parafusos com fenda cruzada/phillips."]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Chave Fenda 3/16 x 5 Pol - Lotus Plus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/80dKc4f/Chave-Fenda-3x16-x-5-Pol-Lotus-Plus.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Fabricante; Lotus Utilização", "Utilizado para o aperto e remoção de parafusos, contem ponta imantada", "Dimensão; 5 Pol (127mm)", "Peso: Indisponível", "Composição; Cromo vanádio"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Philips 1/4 X 5 Pol- Lotus Plus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/smTvy1f/chave-phillips-lotus-3x16-x5-pol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Medida/Número da ponta da chave Phillips:No 2 - 1/4 Pol", "Comprimento da haste da chave:5 Pol - 127 mm", "Material da haste da chave:Aço cromo vanádio", "Acabamento da haste da chave:Niquelado"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave Philips Crv 3/16 X 6 Pol - Lotus Plus",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/RB0nMw6/chave-lotus-phillips-3x16x6.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Chave Philips CRV 3/16x6 Pol Profissional com Cabo Verde Lotus", "Cabo anatômico em PVC verde transparente.", "Haste em aço cromo-vanádio.", "Ponta magnetizada."]
+                }
+            ]
+        },
+
+
+
+
 
 
 
