@@ -21,6 +21,12 @@
         },
 
 
+
+
+
+        
+
+
         {
             "FERRAMENTAS": "-----------------------------------------------------------------",
             "titulo": ""
@@ -368,7 +374,115 @@
             ]
         },
 
+        {
+            "titulo": "Chave Inglesa Ajustável 10 Pol Aço Carbono",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/TKbd8my/lotus-plus-chave-inglesa-10pol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Comprimento da chave: 250 mm", "Material: AÇO CARBONO"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Chave inglesa, em aço carbono forjado e temperado, fosfatado, tipo Inglesa, com escala métrica esculpida na cabeça, ajustável, para porcas, canos e tubos, trabalhos profissionais pesados."]
+                }
+            ]
+        },
 
+        {
+            "titulo": "Alicate Desencapador De Fios 6 Pol 160mm - Feeling",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/09MkYZq/alicate-desencapdor-feelin.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["REF. A734006", "MATERIAL:Forjado em Aço Alto Carbono. Têmpera total no corpo e Têmpera por Indução no gume de corte.", "CARACTERÍSTICAS:Cabo anatômico, emborrachado e anti-deslizante. Isolamento 1000 Volts de acordo com a Norma ABNT-NBR-9699. Maior conforto e segurança.","FUNÇÃO: Desencapar fios com ajuste de diâmetro.","APLICAÇÃO: Telefonia e Eletrônica"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esquadro Magnético para Soldador 10Kg Worker",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/jh8dP3K/esquadro-magnetico-worker.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["indicação para posicionamento de peças de aço de até 10kg antes da soldagem, para ponteamento ou esquadrejamento; Oferece precisão em ângulos de 135°, 90° e 45°, segurando a peça e permitindo ao operador pontear com precisão e segurança."]
+                }
+            ]
+        },
+
+        {
+            "titulo": " Chave Teste Eletrônico Polaridade Automotivo Carro 6v A 24v",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/tJztRsy/teste-eletronico-western.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["- Composição: Aço Carbono, ABS.", "- Amplitude de Medida: 6 V - 12 V- 24 V", "- Acompanha: 01 Chave + 01 Cabo expiral c/ jacaré + 01 Fusivel (reserva)", "- Marca: Western"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Utilizada para detectar falhas em circuito de baixa tensão e em reparos e manutenção de veículos somente para uso automotivo."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Alicate Universal - Kofel - 8 Pol",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3d8JHQN/alicate-8pol-kofel.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Alicate Universal - Kofel - 8 Pol", "Cabo Isolado"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Alicate de Corte Diagonal 6 Pol - Mayleff",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/vLcGGMq/mayle-alicate-de-corte-diagonal.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Descrição do Produto", "- Fabricado em aço especial", "- Cabo em PVC", "- Ideal para cortes e pega materiais diversos", "- Dupla têmpera: Total + Especial no corte", "- Possui abas protetoras", "- Isolação: 1000V"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tamanho: 2.5 mm", "Abertura de mordaça: 1.5mm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Alicate De Corte Diagonal 6 Pol",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/RDtqzZ4/alicate-6pol-kalal.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Alicate De Corte Diagonal 6 Pol","Marca: Kala"]
+                }
+            ]
+        },
 
 
 
