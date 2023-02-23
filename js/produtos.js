@@ -12,7 +12,7 @@ async function fetchProdutos() {
 
         let produtos = await fetch('https://raw.githubusercontent.com/ThiagoAndrade07/Fercamp/main/assets/produtos-fake.json');
         let produtosConvertidos = await produtos.json();
-    
+
         return produtosConvertidos;
 
     } catch {
