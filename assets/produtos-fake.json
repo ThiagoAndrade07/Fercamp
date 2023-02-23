@@ -1151,6 +1151,2483 @@
         {
             "TINTAS": "-----------------------------------------------------------------",
             "titulo": ""
+        },
+        
+        {
+            "titulo": "Tinta Spray Alta Temperatura Preto Fosco 350ml Tekbond",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Km5sWMJ/tek-bond-at-preto-fosco.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": [" Resistente a altas temperaturas", "Ótima cobertura, acabamento e efeito decorativo", "Para áreas externas e superfícies metálicas", "Bico anatômico", "Amostra real da cor na lata."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Para uma melhor aderência da tinta a superfície/local a ser pintado deve estar limpo, sem restos de tinturas velhas, ferrugem, gordura e poeira.", "Nas embalagens há uma amostra da cor real da tinta, assim proporcionando maior conforto, e facilidade ao usuário."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Aerossol Preto Brilhant Alta Temperatura Tekbond",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g3F7d29/Tek-bond-at-preta.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Rendimento aproximado: 1,1 m2 a 1,3 m2 por embalagem.", "Modelo Preto Brilhante Alta Temperatura"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada. Armazenar a lata em pé. Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Supercolor Spray Alta Temperatura Preto 350ml Tekbond",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ZzswTNf/tekbond-preto.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["O TEKBOND SPRAY SUPERCOLOR USO GERAL foi desenvolvido com resinas acrílicas de secagem rápida e ótima resistência as intempéries, proporcionam excelentes acabamentos, poder de cobertura e efeito decorativo.", "Pode ser utilizada em ambientes internos e externos para aplicações em ferro, aço, madeira, cerâmica, gesso, entre outros."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata ", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray - Aluminio-alta Temperatura - Tekbond Super Color",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/K5qDbxG/tekbond-aluminio.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["É uma tinta desenvolvida com alta tecnologia, indicada para aplicações em áreas externas de objetos ou superfícies metálicas que serão submetidas a altas temperaturas.", "Pode ser utilizada em escapamento de motos, churrasqueiras, fogões, chaminés e lareiras.", "Resiste a temperaturas até a 600°C."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Agitar bem a lata antes do uso e entre as demãos. Se ocorrer o entupimento da válvula, retire o bico e mergulhe-o em thinner ou acetona.", "Se necessário desobstrua o orifício com uma agulha."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray - Fluorescente - Super Color Tek Bond - Verde - 350ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/W5FwDRX/tek-bond-flure-verde.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Marca: Tek Bond", "Composição: Resina de Petróleo | Resina Acrílica | Pigmentos orgânigos | Pigmentos metálicos | Solventes aromaticos | Cetônicos | Propelente butano/propano", "Unidade de Venda: 1 lata com 350ml | 250g."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tinta Spray Tek Bond é indicada para ambientes internos e externos para aplicações em superfícies metálicas, madeira, cerâmica, gesso, etc.", "Sua formulação à base de resinas acrílicas de secagem rápida proporciona excelente cobertura e acabamento.", "Instruções de Uso: Com movimentos circulares, agite bem a lata antes do uso e entre as demãos.", "Se ocorrer o entupimento da válvula, retire o bico e mergulhe-o em thinner ou acetona.", "Se necessário desobstrua o orifício com uma agulha."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray - Fluorescente - Super Color Tek Bond - Amarelo - 350ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/T8PHrSg/tek-bond-flure-amarelo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Marca: Tek Bond", "Composição: Resina de Petróleo | Resina Acrílica | Pigmentos orgânigos | Pigmentos metálicos | Solventes aromaticos | Cetônicos | Propelente butano/propano", "Unidade de Venda: 1 lata com 350ml | 250g."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tinta Spray Tek Bond é indicada para ambientes internos e externos para aplicações em superfícies metálicas, madeira, cerâmica, gesso, etc.", "Sua formulação à base de resinas acrílicas de secagem rápida proporciona excelente cobertura e acabamento.", "Instruções de Uso: Com movimentos circulares, agite bem a lata antes do uso e entre as demãos.", "Se ocorrer o entupimento da válvula, retire o bico e mergulhe-o em thinner ou acetona.", "Se necessário desobstrua o orifício com uma agulha."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray - Fluorescente - Super Color Tek Bond - Laranja - 350ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/cQZcHzt/tek-bond-flure-laranja.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Marca: Tek Bond", "Composição: Resina de Petróleo | Resina Acrílica | Pigmentos orgânigos | Pigmentos metálicos | Solventes aromaticos | Cetônicos | Propelente butano/propano", "Unidade de Venda: 1 lata com 350ml | 250g."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tinta Spray Tek Bond é indicada para ambientes internos e externos para aplicações em superfícies metálicas, madeira, cerâmica, gesso, etc.", "Sua formulação à base de resinas acrílicas de secagem rápida proporciona excelente cobertura e acabamento.", "Instruções de Uso: Com movimentos circulares, agite bem a lata antes do uso e entre as demãos.", "Se ocorrer o entupimento da válvula, retire o bico e mergulhe-o em thinner ou acetona.", "Se necessário desobstrua o orifício com uma agulha."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray - Fluorescente - Super Color Tek Bond - Rosa - 350ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/41L9GZk/tek-bond-flure-rosa.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Marca: Tek Bond", "Composição: Resina de Petróleo | Resina Acrílica | Pigmentos orgânigos | Pigmentos metálicos | Solventes aromaticos | Cetônicos | Propelente butano/propano", "Unidade de Venda: 1 lata com 350ml | 250g."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tinta Spray Tek Bond é indicada para ambientes internos e externos para aplicações em superfícies metálicas, madeira, cerâmica, gesso, etc.", "Sua formulação à base de resinas acrílicas de secagem rápida proporciona excelente cobertura e acabamento.", "Instruções de Uso: Com movimentos circulares, agite bem a lata antes do uso e entre as demãos.", "Se ocorrer o entupimento da válvula, retire o bico e mergulhe-o em thinner ou acetona.", "Se necessário desobstrua o orifício com uma agulha."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Azul",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/VmJBc94/tek-bond-metalic-azul.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Bronze",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/4KJ9X7g/tek-bond-metalic-bronze.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Cobre",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ns3nFVV/tek-bond-metalic-cobre.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Cromado",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dpKntgW/tek-bond-metalic-cromado.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Dourado",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/6BWT1XW/tek-bond-metalic-dourado.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Ouro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/qs71sHB/tek-bond-metalic-ouro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Preto",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g76L8Zz/tek-bond-metalic-preto.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Prata",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/QbDpK7q/tek-bond-metalic-prata.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Verde",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/f0Vdjfr/tek-bond-metalic-verde.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Rosé-Cobre",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3NcP2Hg/tek-bond-metalic-rosecobre.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Rosé-Gold",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pQrrQqD/tek-bond-metalic-rosegold.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Rosé-Millenium",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JmgrY7L/tek-bond-metalic-rosemilenium.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Metálico - 250g/350ml - Vermelho",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/vHTr0JV/tek-bond-metalic-vermelho.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original elacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição.", "Área coberta, fresca, seca e ventilada.", "Armazenar a lata em pé.", "Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Vermelho",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/TBw0rnW/tek-bond-ug-vermelho.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Aluminio",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/5WfBgj4/tek-bond-ug-aluminio.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Amarelo",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/nC99KX7/tek-bond-ug-amarelo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Azul",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/CmSHYDZ/tek-bond-ug-azul.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Azul-Claro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mvsxbtQ/tek-bond-ug-azul-claro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Azul-Escuro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/RQ1tkmL/tek-bond-ug-azul-escuro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Bege",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/9cWYsQ2/tek-bond-ug-bege.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Branco-Brilhante",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/D4KFb9W/tek-bond-ug-branco-brilhante.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Branco Fosco",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Xx7NL7K/tek-bond-ug-branco-fosco.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Dourado",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/CzKcmwT/tek-bond-ug-dourado.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Gelo",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HqC57f7/tek-bond-ug-gelo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Grafite",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KjnscF6/tek-bond-ug-grafite.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Laranja",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b20fsTD/tek-bond-ug-laranja.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Marrom",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Sy9zBd4/tek-bond-ug-marrom.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Platina",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/fxCvxMV/tek-bond-ug-platina.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Preto-Brilhante",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/QQxk2v6/tek-bond-ug-preto-brilhante.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Preto-Fosco",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/F8jF2RX/tek-bond-ug-preto-fosco.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Rosa",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/FD81ZF8/tek-bond-ug-rosa.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Verde",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/2561RBV/tek-bond-ug-verde.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray Tinta Super Color - Uso Geral - 250g/350ml - Verde-Escuro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0r9KmpF/tek-bond-ug-verde-escuro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C).", "Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Mocha",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ygYDht0/mocha.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Acácia",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/BGLcXZM/tek-expression-ac-cia.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Amerlo-Smile",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/LhctmPh/tek-expression-amarelo-smile.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Ameixa",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/FDTVTnp/tek-expression-ameixa.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Aveia",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/NK198vt/tek-expression-aveia.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Café-Com-Leite",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3df32Zz/tek-expression-caf-com-leite.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Capuccino",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/fXryRdj/tek-expression-capuccino.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Halloween",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/6tKPrJf/tek-expression-halloween.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Laranja",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mST0qCR/tek-expression-laranja.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Marrom-Ébano",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/RHSHHd2/tek-expression-marrom-bano.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Marrom-Terra ",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KzjsVdn/tek-expression-marrom-terra.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Marsala",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/RSL3vk8/tek-expression-marsala.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Marte",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/drTHWh6/tek-expression-marte.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Ocre",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b7ZCM7N/tek-expression-ocre.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Pérola",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dDnP3Qm/tek-expression-p-rola.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Salmão",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/tYKLD7x/tek-expression-salm-o.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Smoothie",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/GtDF1mb/tek-expression-smoothie.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Sol",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/288SSfv/tek-expression-sol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Sorvete-De-Baunilha",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/7S7nc54/tek-expression-sorvete-de-baunilha.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Trigo",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0sL0FVV/tek-expression-trigo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Blueberry",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WDPHbK5/tek-expression-blueberry.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Blush",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/88g3DxT/tek-expression-blush.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Cereja",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/17YS9K2/tek-expression-cereja.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Goiaba",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ZfLYGLB/tek-expression-goiaba.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Lilás",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KyL05Jq/tek-expression-lil-s.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Pantera",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/LYjZTJX/tek-expression-pantera.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Rosa-Aurora",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/8KgmrTY/tek-expression-rosa-aurora.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Rosa-Cabdy",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dtWL11Q/tek-expression-rosa-candy.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Rosa-Crush",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/jWw8q06/tek-expression-rosa-crush.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Rosa-Flerte",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/PNKvC22/tek-expression-rosa-flerte.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Rose",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/YtB9H02/tek-expression-rose.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Roxo-Médio",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/rctVGpq/tek-expression-roxo-m-dio.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Roxo-Puro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3SQs7P1/tek-expression-roxo-puro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Roxo-Vampiro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/55FN511/tek-expression-roxo-vampiro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Rubi",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/4Thv6N4/tek-expression-rubi.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Telha",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/VjmcX8N/tek-expression-telha.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Ultravioleta",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/8z1fM32/tek-expression-ultravioleta.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Uva",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g4FG15p/tek-expression-uva.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Vermelho-Pimenta",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/7QSz4Z1/tek-expression-vermelho-pimenta.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Vermelho-Tomate",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/x1G9XDH/tek-expression-vermelho-tomate.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Amazônia",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/yfKcNCs/tek-expression-amaz-nia.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Azul-Caribe",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mX1DKN0/tek-expression-azul-caribe.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Azul-Lunar",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/P92v820/tek-expression-azul-lunar.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Azul-Meia-Noite",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/8X7mcQ1/tek-expression-azul-meia-noite.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Azul-Royal",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/GRdP46k/tek-expression-azul-royal.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Azul-Sky",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/tBTKRH5/tek-expression-azul-sky.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Turquesa",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/TMY9CsS/tek-expression-azul-turquesa.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Branco",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/z52P7Y8/tek-expression-branco.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Branco-Técnico",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/SfkL0ww/tek-expression-branco-tecnico.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Brisa",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/TYm8Xth/tek-expression-brisa.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Celeste",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/DLBqJtR/tek-expression-celeste.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Ciano",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/X57c4J5/tek-expression-ciano.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Cinza-Petróleo",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ZcML8fQ/tek-expression-cinza-petr-leo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Cosmos",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/qWKJh9B/tek-expression-cosmos.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Esmeralda",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WVybkxJ/tek-expression-esmeralda.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Floresta",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/kJC6BJk/tek-expression-floresta.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Guacamole",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/PQngz4Y/tek-expression-guacamole.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Melão",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/TPNpKWh/tek-expression-mel-o.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Oceno-Atlântico",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dt3Nx13/tek-expression-oceano-atl-ntico.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Oceno-Índico",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/M6j89z7/tek-expression-oceano-ndico.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Oceno-Pacífico",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1QZtH42/tek-expression-oceano-pac-fico.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Preto",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dDFpZng/tek-expression-preto.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Preto-Técnico",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mXv70wN/tek-expression-preto-tecnico.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Recife",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/r5tHYkT/tek-expression-recife.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Relâmpago",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/12HDP8d/tek-expression-rel-mpago.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Selva",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HhQM2Jy/tek-expression-selva.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Sombra",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/zRZvVQ9/tek-expression-sombra.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Tempestade",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/K6F3cVr/tek-expression-tempestade.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Àgua",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/fCj9SXC/tek-expression-verde-gua.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Aquário",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/rbL9Hm2/tek-expression-verde-aquario.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Boreal",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/743D9xC/tek-expression-verde-boreal.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Camaleão",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/2dcK4N2/tek-expression-verde-camale-o.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Campo",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/4M7m4yL/tek-expression-verde-campo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Electro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Xty9r06/tek-expression-verde-electro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Escuro",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/6vGMJjK/tek-expression-verde-escuro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Gnomo",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mXtpbPx/tek-expression-verde-gnomo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Grama",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g7kmzy2/tek-expression-verde-grama.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Verde-Safari",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ckrC4zq/tek-expression-verde-safari.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Expression - 400ml - Violeta-Sensível",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/B4r7YmV/tek-expression-violeta-sens-vel.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Secagem:", "Ao toque em até 15 minutos, total após 24 horas e para testes mecânicos, orientamos aguardar 72 horas."]
+                },
+                {
+                    "titulo": "Informações complementares:", "texto": ["RENDIMENTO APROXIMADO:", "1,8m² a 2,7m² por embalagem/demão.", "COMPOSIÇÃO QUÍMICA:", "Nafta de petróleo, propanona, butil acetato, etil acetato e 2- (2-butoxietoxi) etanol.", "INFORMAÇÕES TÉCNICAS:", "Testado a 23 ℃ ± 2 ℃, RH50% ± 5%", "Aparência: Tinta líquida de cor intensa", "Odor: Solvente", "Temperatura de aplicação ℃: 15 a 40", "Taxa de pulverização %: ≥96", "Brilho° : ≤5", "Tempo de secagem da superfície: min. 20", "Ingredientes não voláteis %: ≥20", "Efeito de atomização: Ok", "Teste de vazamento: Ok"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "TekSpray - Super Color - Verniz - Fosco - 400ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HXTWGk9/tek-bond-uso-geral-veniz.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C). Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação.", "Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição. Área coberta, fresca, seca e ventilada. Armazenar a lata e Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Verniz - Fosco Brilhante - 400ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mDS6YXJ/veniz-brilhante.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Rendimento aproximado: 1,7 m2 a 2,1 m2 por embalagem."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Manter em local coberto e ventilado (temperatura inferior a 50° C). Nestas condições, o produto em sua embalagem original e lacrada tem garantia de 3 anos a partir da sua data de fabricação.", "Não exponha ou armazene este produto em temperatura superior a 50ºC (risco de explosão).", "Armazenar as embalagens em local bem ventilado, à temperatura ambiente, distante de fontes de ignição. Área coberta, fresca, seca e ventilada. Armazenar a lata e Estocar em temperaturas inferiores a 50°C."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Agrícola - 400ml - Amarelo",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/p2rD7DX/tek-agricola-amarelo.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Agite bem a lata em movimentos circulares antes e durante o uso.", "Antes do uso, teste o bico aplicador.", "Caso necessário lixe a superfície.", "Aplique com movimentos constantes e uniformes.", "Limpe a válvula virando a lata para baixo e pressione até sair apenas gás."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Entre demãos, de 1 a 3 minutos. Secagem total após 24h."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Agrícola - 400ml - Azul",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0CnvNH3/tek-agricola-azul.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Agite bem a lata em movimentos circulares antes e durante o uso.", "Antes do uso, teste o bico aplicador.", "Caso necessário lixe a superfície.", "Aplique com movimentos constantes e uniformes.", "Limpe a válvula virando a lata para baixo e pressione até sair apenas gás."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Entre demãos, de 1 a 3 minutos. Secagem total após 24h."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Agrícola - 400ml - Laranja",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1qWHy02/tek-agricola-laranja.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Agite bem a lata em movimentos circulares antes e durante o uso.", "Antes do uso, teste o bico aplicador.", "Caso necessário lixe a superfície.", "Aplique com movimentos constantes e uniformes.", "Limpe a válvula virando a lata para baixo e pressione até sair apenas gás."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Entre demãos, de 1 a 3 minutos. Secagem total após 24h."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Agrícola - 400ml - Verde",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/6YhFwnD/tek-agricola-verde.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Agite bem a lata em movimentos circulares antes e durante o uso.", "Antes do uso, teste o bico aplicador.", "Caso necessário lixe a superfície.", "Aplique com movimentos constantes e uniformes.", "Limpe a válvula virando a lata para baixo e pressione até sair apenas gás."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Entre demãos, de 1 a 3 minutos. Secagem total após 24h."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "TekSpray - Super Color - Agrícola - 400ml - Vermelho",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/gPG4dwt/tek-agricola-vermelho.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Agite bem a lata em movimentos circulares antes e durante o uso.", "Antes do uso, teste o bico aplicador.", "Caso necessário lixe a superfície.", "Aplique com movimentos constantes e uniformes.", "Limpe a válvula virando a lata para baixo e pressione até sair apenas gás."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Entre demãos, de 1 a 3 minutos. Secagem total após 24h."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray para Alta Temperatura Preto Brilhante 350ml Kala",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/jv4CnLn/kala-spray-preo-brilhante.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Pensada e desenvolvida para dar maior praticidade em seu trabalho, a marca Kala desenvolveu a Tinta Spray para uso geral preto brilhante.", "De fácil aplicação e de secagem rápida, este item confere um bico anatômico."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Amarelo Uso Geral 400 Ml 250g Chemicolor",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pby4LQT/chemi-color-amarelo-uso-geral.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Aplicação interna e externa. É incontável a variedade de aplicações possíveis! Customize e transforme objetos de cerâmica, papel, gesso, alumínio, ferro e madeira.", "Ótimo resultado e acabamento em geladeiras, bicicletas, móveis de aço, objetos artesanais e de decoração."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Uso Geral 400ml/250g Azul Escuro Chemicolor",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/vqCLjgf/chemi-color-azul-uso-geral.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Tinta spray elaborada com produtos de alta qualidade;- Indicada e aprovada para uso nos mais diversos tipos de pintura","Tinta Spray CHEMICOLOR garante uma boa cobertura, com alto rendimento e excelente secagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Alta Temperatura 315ml/215g Preto Fosco Chemicolor",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1b3Q8DX/chemi-color-preto-alta-temp.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Tinta Spray Alta Temperatura: Uso externo", "Até 600ºC", "Preto Fosco", "315ml / 215g."]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Tinta Spray 400ml Uso Geral Cinza Médio - Mundial Prime",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/4ZfcbYg/mundial-prime-cinza-medio.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Cor Predominante: Cinza Médio", "Agitar: Agite por 1 minuto antes de utilizar", "Densidade: 0,948", "Distância para aplicação: 20 a 25 cm", "Secagem Total: 24 horas", "Tempo entre as camadas: 5 a 10 minutos", "Viscosidade: 35 - 39s", "Conteúdo: 400 ml", "Acabamento: Brilhante", "Marca: Mundial Prime", "Modelo: Uso Geral - Cinza Médio"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Aplicações: Pode ser utilizada em superfícies como metais, madeiras, cerâmicas, tecidos e gessos.", "Indicada para pinturas em geral, artesanatos, decorações, reparos e uso profissional."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Uso Geral Cinza -  Mundial Primer - Metais Madeira Artesanato",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/F6J5NcB/mundial-prime-cinza.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Pode ser utilizada em superfícies como metais, madeiras, cerâmicas, tecidos e gessos. Indicada para pinturas em geral, artesanatos, decorações, reparos e uso profissional."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Para evitar entupimento, após a utilização, vire a lata de “cabeça para baixo” e pressione a válvula até que se note somente a saída de gás.", "Em caso de entupimento, retire a válvula e mergulhe em acetona ou tíner.", "Se necessário, limpe os orifícios com uma agulha bem fina."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray - Alta Temperatura - Preto Fosco 400ml - Mundial Prime",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Nn5fh2x/mundial-prime-alta-temp-600c.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Tinta formulada para a pintura de partes externas de objetos ou superfícies metálicas expostas a temperaturas elevadas.", "Resiste a temperaturas de até 300 °C contínuos e até 600 °C por curtos períodos de tempo."]
+                },
+                {
+                    "titulo": "Aplicações:",
+                    "texto": ["Ideal para a pintura de escapamentos de carros e motos, churrasqueiras, lareiras, aquecedores, estufas, exaustores, chaminés, motores, fogões e fornos"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Uso Geral Azul Claro 400ml Mundial Prime",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1Z2gjD3/mundial-prime-azul-claro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Pode ser utilizada em superfícies como metais, madeiras, cerâmicas, tecidos e gessos. Indicada para pinturas em geral, artesanatos, decorações, reparos e uso profissional."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Para evitar entupimento, após a utilização, vire a lata de “cabeça para baixo” e pressione a válvula até que se note somente a saída de gás.", "Em caso de entupimento, retire a válvula e mergulhe em acetona ou tíner.", "Se necessário, limpe os orifícios com uma agulha bem fina."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray - 400ml - Uso Geral - Azul Escuro - Mundial Prime",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mGvFqNc/mundial-prime-azul-escuro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Pode ser utilizada em superfícies como metais, madeiras, cerâmicas, tecidos e gessos. Indicada para pinturas em geral, artesanatos, decorações, reparos e uso profissional."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Cor Predominante:  Azul Escuro", "Agitar: Agite por 1 minuto antes de utilizar", "Densidade: 0,948", "Distância para aplicação: 20 a 25 cm", "Secagem Total: 24 horas", "Tempo entre as camadas: 5 a 10 minutos", "Viscosidade: 35 - 39s", "Conteúdo: 400 ml", "Acabamento: Brilhante", "Marca: Mundial Prime", "Modelo: Uso Geral - Azul Escuro"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray 350ml Alta Temperatura Preto Fosco",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/N3TGN70/paint-color-preto-fosco.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Marca: PAINTCOLOR", "Medidas: 24,5 x 5,0 x 5,0 cm", "Cor: Preto Fosco", "Conteúdo: 350ml"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["A tinta spray de alta cobertura é indicada e aprovada para uso em superfícies metálicas de alta temperatura de até 600ºC, escapamentos de motocilcetas e carros, lareiras.", "Garante uma boa cobertura, com alto rendimento e excelente secagem."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Spray Chemicolor - Metalico Cromado 400ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/S012J04/chemi-color-chrome.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["RENDIMENTO: 1,2m² a 1,6m² por Embalagem, por Demão", "APLICAÇÃO RECOMENDADA: 02 Demãos", "SECAGEM: entre demãos 01 a 03 minutos; Ao toque até 60 minutos; Total após 24h"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Aplicação: Elaborada com pigmentos especiais que proporcionam alto brilho e acabamento perfeito.", "Indicada para uso interno, proporciona um bom rendimento e secagem rápida.", "Pode ser aplicada em isopor, objetos artesanais, gesso, cerâmica, vitrines, vidro, madeira, ferro, metais, alvenaria, entre outros."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Uso Geral 400ml/250g Azul Claro Chemicolor",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/28pFgXH/chemi-color-blue-edition.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Tinta spray elaborada com produtos de alta qualidade- Indicada e aprovada para uso nos mais diversos tipos de pintura", "Tinta Spray CHEMICOLOR garante uma boa cobertura, com alto rendimento e excelente secagem"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Uso Geral - Kala - Azul Escuro - 350ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/CKrPWG0/kala-cor-azul-escuro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["USO GERAL", "SECAGEM RÁPIDA", "FÁCIL APLICAÇÃO", "BICO ANATÔMICO", "350ML/250G", "COR: AZUL ESCURO"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Uso Geral - Kala - Vermelho - 350ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/4Tz3stF/kala-cor-vermelho.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["USO GERAL", "SECAGEM RÁPIDA", "FÁCIL APLICAÇÃO", "BICO ANATÔMICO", "350ML/250G", "COR: VERMELHO"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tinta Spray Uso Geral - Kala - Vermelho - 350ml",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/kDq3QLv/kala-cor-azul-claro.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["USO GERAL", "SECAGEM RÁPIDA", "FÁCIL APLICAÇÃO", "BICO ANATÔMICO", "350ML/250G", "COR: AZUL-CLARO"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Pincel Trincha Pintura - Atlas 4 Pol",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3fYXFSQ/pincel-atlas-4pol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Comprimento do fio (mm): 42", "Comprimento (mm): 24", "Largura (mm): 102", "Altura (mm): 11."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Pincel Para Acrílica/Látex 395 3` - Atlas",
+            "segmento": "tintas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/2tbgZtD/pincel-atlas-3pol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Trincha de cerdas sintéticas."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Trincha sintética para melhor acabamento, maior durabilidade e recortes mais precisos. "]
+                }
+            ]
         }
 
     ]
