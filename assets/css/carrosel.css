@@ -38,23 +38,27 @@
 }
 
 .slide1 {
-    background-image: url(../img/maquinas.jpg);
+    background-image: url(https://i.ibb.co/FzswCJd/maquinas.jpg);
 }
 
 .slide2 {
-    background-image: url(../img/ferramentas.jpg);
+    background-image: url(https://i.ibb.co/ySBvVQ2/ferramentas.jpg);
 }
 
 .slide3 {
-    background-image: url(../img/soldagem.jpg);
+    background-image: url(https://i.ibb.co/2Yrty9G/soldagem.jpg);
 }
 
 .slide4 {
-    background-image: url(../img/tintas.jpg);
+    background-image: url(https://i.ibb.co/S6pSHVP/tintas.jpg);
 }
 
 .slide5 {
-    background-image: url(../img/abrasivos.jpg);
+    background-image: url(https://i.ibb.co/G38Nk8V/abrasivos.jpg);
+}
+
+.slide6 {
+    background-image: url(https://i.ibb.co/rmvQgCx/epi.jpg);
 }
 
 .slide-link {
