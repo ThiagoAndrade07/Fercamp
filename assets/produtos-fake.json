@@ -23,7 +23,7 @@
         {
             "titulo": "Martelete Gamma Pro GP1958 azul-celeste frequência de 60Hz com 1350W de potência 127V",
             "segmento": "máquinas",
-            "promocao": "True",
+            "promocao": "true",
             "preco": "200,00",
             "imagem": "https://i.ibb.co/DQzXtL6/gammapro-g19.png",
             "descricao": [
@@ -41,7 +41,7 @@
         {
             "titulo": "Serra Mármore 1300w - Gamma - 220v",
             "segmento": "máquinas",
-            "promocao": "True",
+            "promocao": "true",
             "preco": "200,00",
             "imagem": "https://i.ibb.co/Vm9NPCP/serra-marmore-gamma-220v-1300w.png",
             "descricao": [
@@ -55,7 +55,7 @@
         {
             "titulo": "Motoesmeríl Bancada 300w Bivolt 3450 Rpm + 2 Rebolos Kala",
             "segmento": "máquinas",
-            "promocao": "True",
+            "promocao": "true",
             "preco": "200,00",
             "imagem": "https://i.ibb.co/DwzzktZ/motoesmeril-kala.png",
             "descricao": [
@@ -73,7 +73,7 @@
         {
             "titulo": "Serra Mármore 1300w 110mm Worker",
             "segmento": "máquinas",
-            "promocao": "True",
+            "promocao": "true",
             "preco": "200,00",
             "imagem": "https://i.ibb.co/t2shC2y/serra-marmore-worker-1300w.png",
             "descricao": [
