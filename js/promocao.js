@@ -104,7 +104,7 @@ mostraProdutosEmPromocao();
 
 // ---------------------------- TIMER -------------------------------
 
-let dataFutura = new Date('December 31, 2023 00:00').getTime();
+let dataFutura = new Date('March 6, 2023 00:00').getTime();
 
 let dias, horas, minutos, segundos;
 function setValores(e) {

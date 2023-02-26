@@ -20,6 +20,74 @@
             ]
         },
 
+        {
+            "titulo": "Martelete Gamma Pro GP1958 azul-celeste frequência de 60Hz com 1350W de potência 127V",
+            "segmento": "máquinas",
+            "promocao": "True",
+            "preco": "200,00",
+            "imagem": "https://i.ibb.co/DQzXtL6/gammapro-g19.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Permite furar com percussão e cinzelar.", "Gira a uma velocidade mínima de 250rpm e uma velocidade máxima de 500rpm.", "Com 14J de impacto, ideal para a perfurações exigentes.", "Capacidade de perfurar concreto de até 40mm.", "Executa 3000 impactos por minuto.", "Usa soquete SDS Max de 19mm de diâmetro.", "Com empunhadura ergonômica que favorece a aderência.", "Pesa 7.4 kg.", "Ferramenta prática para todos os tipos de trabalho."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["É perfeito para usar no trabalho diário.", "É especialmente adequado para alvenaria, concreto, lajes e pisos.", "Além disso, ele usa o soquete SDS max que tem a mesma força e capacidade, mas com uma melhor conectividade."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Mármore 1300w - Gamma - 220v",
+            "segmento": "máquinas",
+            "promocao": "True",
+            "preco": "200,00",
+            "imagem": "https://i.ibb.co/Vm9NPCP/serra-marmore-gamma-220v-1300w.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Potência: 1300 W", "Profundidade máxima de corte: 3 cm", "Peso: 2.8 kg", "Tipo de produto: Cortador de parede", "Materiais aptos:Concreto,Granito,Mármore,Telha,tijolo.", "Fonte de energia: Eletricidade", "É industrial: Sim", "Com disco diamantado: Não", "Velocidade de rotação: 11 rpm", "Acessórios incluídos: Discos adaptadores", "Largura máxima de corte: 45Pol", "Diâmetro do disco de corte: 30 mm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Motoesmeríl Bancada 300w Bivolt 3450 Rpm + 2 Rebolos Kala",
+            "segmento": "máquinas",
+            "promocao": "True",
+            "preco": "200,00",
+            "imagem": "https://i.ibb.co/DwzzktZ/motoesmeril-kala.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Ideal para desbaste e afiação de ferramentas e peças metálicas com o auxílio de rebolos específicos para cada função.", "Possui visor de proteção, base de apoio para a peça a ser trabalhada e interruptor eletromagnético, proporcionando segurança e praticidade.", "Eficiência, Agilidade e Praticidade no Trabalho", "Bases de Apoio Ajustáveis", "Escudo para Proteção dos Olhos", "Chave Seletora de tensão (~127V / 220V)", "Aparador de Faíscas;"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Potência: 300 Watts", "Rotação: 3450 RPM", "Voltagem: Bivolt (127V / 220V)"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Mármore 1300w 110mm Worker",
+            "segmento": "máquinas",
+            "promocao": "True",
+            "preco": "200,00",
+            "imagem": "https://i.ibb.co/t2shC2y/serra-marmore-worker-1300w.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para uso na construção civil.", "Realiza o corte de diversos materiais como: mármore, granito, concreto, alvenaria, telha, madeira, pedras em geral, entre outros, desde que utilizando o disco adequado para cada material;"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Botão com trava de segurança", "Regulador de altura de corte", "Potência: 1300W", "Capacidade do Disco: 110mm (4.3/8Pol)", "Diâmetro do eixo: 20 mm", "Rotação: 13.000/min"]
+                }
+            ]
+        },
+
 
 
 
@@ -912,6 +980,107 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "FERRAGENS": "-----------------------------------------------------------------",
+            "titulo": ""
+        },
+
+        {
+            "titulo": "Sanfonada com 5 Gavetas - ORK",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/BnNgmcX/caixa-ork-5-gaveta.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para acondicionamento de ferramentas e afins", "Possui alça, trava e porta cadeado,Com 5 gavetas", "Material: Chapa de aço"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Comprimento X Largura X Altura:", "40cm x 20cm x 20,5cm", "Altura com Alça:", "32,5cm", "Capacidade de Carga:", "25Kgf", "Emb: 4","-----------------------------------", "Comprimento X Largura X Altura:", "50cm x 20cm x 20,5cm", "Altura com Alça:", "32,5cm", "Capacidade de Carga:", "25Kgf", "Emb: 4"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Sanfonada com 3 Gavetas - ORK",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Yy3JQ69/caixa-ork-3-gaveta.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para acondicionamento de ferramentas e afins", "Possui alça, trava e porta cadeado,Com 3 gavetas", "Material: Chapa de aço"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Comprimento X Largura X Altura:", "40cm x 20cm x 16cm", "Altura com Alça:", "28cm", "Capacidade de Carga:", "20Kgf", "Emb: 4","-----------------------------------", "Comprimento X Largura X Altura:", "50cm x 20cm x 16cm", "Altura com Alça:", "28cm", "Capacidade de Carga:", "20Kgf", "Emb: 4"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Sanfonada com 7 Gavetas - ORK",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mqyH5Vg/caixa-ork-7-gaveta.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para acondicionamento de ferramentas e afins", "Possui alça, trava e porta cadeado,Com 7 gavetas", "Material: Chapa de aço"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Comprimento X Largura X Altura:", "50cm x 20cm x 25,5cm", "Altura com Alça:", "37,5cm", "Capacidade de Carga:", "25Kgf", "Emb: 4"]
+                }
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         {
             "EPI": "-----------------------------------------------------------------",
             "titulo": ""
@@ -950,6 +1119,28 @@
                 }
             ]
         },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1022,6 +1213,52 @@
                 }
             ]
         },
+
+        {
+            "titulo": "Disco de corte 300 mm x 3,2 mm x 19,05 mm VDR02, VONDER",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Vm93wK8/disco-ded-corte-vonder-3-4pol.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Possui excelente performance em trabalhos intermitentes.", "Indicado para serralheiros e demais profissionais em geral.", "Ideal para cortar aços e materiais ferrosos (barras, tubos e chapas), manutenções e reparos leves."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Modelo:VDR 02", "Diâmetro do disco de corte:300 mm (12Pol)", "Espessura:3,2 mm (+/-1/8Pol)", "Tipo de disco:Tipo 41", "Diâmetro do furo:19,05 mm (3/4Pol)", "Grão:G 30", "Número de telas do disco:2", "Rotação máxima do disco (rpm):5.015/min", "Segue norma(s):ABNT NBR 15230 e ABNT NBR 16245", "Massa aproximada (peso):0.509 kg"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Disco Flap De Manta Abrasiva - Grão 40 - 4.1/2Pol X 7/8Po - 13300rpm - Worker",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/5TZV89k/disco-flap-abrasivo-worker.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Dimensões: 4.1/2Pol x 7/8Pol - 114,3x22,23mm", "Rotação: 13300rpm", "Velocidade: 80m/s", "Grão: 40", "Formato: Reto tipo 27."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["O Disco Flap de Manta Abrasiva da Worker é ideal para realizar trabalhos de limpeza, acabamento, polimento de aços e aços inoxidáveis."]
+                }
+            ]
+        },
+        
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1118,6 +1355,20 @@
                 }
             ]
         },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
