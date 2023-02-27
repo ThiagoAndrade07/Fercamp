@@ -7,20 +7,6 @@
 
 
         {
-            "titulo": "Ferton Professional Pro Series",
-            "segmento": "máquinas",
-            "promocao": "false",
-            "preco": "0",
-            "imagem": "https://i.ibb.co/yqJWscj/sem-imagem.png",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["220V/50-60Hz","velocidade sem carga: 0-400/0-1450RPM","Taxa de impacto: 0-600/0-21000BTM","Voltagem: 20V","Max Torque: 40N.m","Peso: 1.15KG"]
-                }
-            ]
-        },
-
-        {
             "titulo": "Martelete Gamma Pro GP1958 azul-celeste frequência de 60Hz com 1350W de potência 127V",
             "segmento": "máquinas",
             "promocao": "true",
@@ -88,6 +74,20 @@
             ]
         },
 
+        {
+            "titulo": "Ferton Professional Pro Series",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/89pv5Ds/professional-ferton.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["220V/50-60Hz","velocidade sem carga: 0-400/0-1450RPM","Taxa de impacto: 0-600/0-21000BTM","Voltagem: 20V","Max Torque: 40N.m","Peso: 1.15KG"]
+                }
+            ]
+        },
+
 
 
 
@@ -111,6 +111,74 @@
                 {
                     "titulo": "Itens:",
                     "texto": ["01 - Alicate universal 7pol isolado 1000v", "01 - Alicate de corte diagonal 6pol", "01 - Alicate de bico longo 6pol", "01 - Alicate bomba d'água 10pol", "01 - Alicate descascador de fios 6pol", "03 - Chaves philips isolada", "04 - Chaves de fenda isolada", "01 - Caixa com terminais de compressão"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Jogo De Chaves Combinadas 6 A 22mm 12 Peças Worker",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Czt7n5s/worker-chaves-combinadas-6mm-a-22mm.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Jogo de Chaves Combinadas 6 a 22mm 12 Peças Worker", "Indicada para apertar e desapertar porcas e parafusos em diversos setores, se destacando no segmento automotivo e manutenção de máquinas."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Aço carbono especial", "Acabamento cromado", "Embalagem em suporte plástico", "Composição: 6 mm - 7 mm - 8 mm- 9 mm - 10 mm - 11 mm - 12 mm - 13 mm - 14 mm - 17 mm - 19 mm - 22 mm."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Jogo De Chave Combinada 1/4 A 1.1/4 (16 Pçs) 102904my Mayle",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/DCXsbpH/mayle.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Forjadas em aço cromo vanádio com acabamento cromado", "De um lado possui boca e do outro estrela com as mesmas medidas", "Logotipo e medidas estampadas em alto relevo facilitando a identificação da ferramenta", "Utiliza o princípio da alavanca para apertar ou desapertar parafusos e porcas com perfil sextavado"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["1/4 , 5/16”, 3/8”, 7/16”, 1/2 , 9/16”, 5/8”, 11/16”, 3/4 , 13/16”, 7/8”, 15/16”, 1”, 1.1/16”, 1.1/8” e 1.1/4”"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Jogo Chaves Combinadas Cromada Collins 06-32mm 16 Peças Cr-v",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/tzGZw4R/collins.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Para uso nas mais variadas atividades, o jogo de chaves combinadas da Collins é fabricada com aço cromo vanádio de alta qualidade, garantindo melhor desempenho, precisão e o fino acabamento."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["6 mm - 7 mm - 8 mm - 9 mm - 10 mm - 11 mm, 12 mm - 13 mm - 14 mm - 17 mm - 19 mm, 22 mm - 24 mm - 27 mm - 30 mm e 32 mm.", "Aço cromo vanádio", "Maior resistência e durabilidade", "Uso profissional e industrial", "Produzida de acordo com as normas DIN3113A"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Jogo Chaves Combinadas 6-32mm Gedore Red 24 Peças Cr-v",
+            "segmento": "ferramentas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/9vfZNZX/gedore.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Posição da boca 15°", "Aço cromo-vanádio GEDORE red", "Acabamento niquelado cromado", "Com suporte especial GEDORE red", "Posição da cabeça (lado estrela) 15°", "Fabricadas conforme normas DIN 3113 forma A, ISO 3318 e ISO 7738", "COMPOSIÇÃO:", "6; 7; 8; 9; 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21; 22; 23; 24; 26; 27; 28; 30; 32 mm", "Marca: GEDORE RED", "Referência: R09105024"]
                 }
             ]
         },
@@ -1004,6 +1072,7 @@
 
 
 
+
         {
             "FERRAGENS": "-----------------------------------------------------------------",
             "titulo": ""
@@ -1265,6 +1334,277 @@
                 }
             ]
         },
+
+        {
+            "titulo": "D’ÁGUA - LDV 0023",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pPVwLbV/vonde-lx-d-agua-g80.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos de superfícies: metálicas, materiais compostos, massa plástica,massas rápidas e primers", "Possui costado de papel altamente impermeável, aliado à grãos com alto poder de corte, que proporcionam uma excelente relação, custo x benefício nas aplicações a úmido", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 80", "G 100", "G 120", "G 150","G 180","G 220", "G 240", "G 280", "G 320", "G 360", "G 400", "G 600", "emb./subemb: 500/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "MASSA - LMV 0057",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/9V6VBSH/vonde-LX-MASSA-g80.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos em alvenaria (massa corrida) e madeira", "Oferece alto rendimento na remoção de imperfeições e alinhamento de massa corrida e madeira", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 50", "G 60", "G 80", "G100", "G 120", "G 150", "G 180", "G 220", "emb./subemb: 500/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "FERRO - LFV 0046",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dc2sn8c/vonde-lx-ferro-g80.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos de metais em geral, ferro, preparação de superfícies, pinturas velhas, entre outros. Pode ser aplicada tanto em lixamento manual quanto com máquinas vibratórias.", "Possui costado de pano que proporciona maior resistência", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base pano", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 36", "G 40","G 50", "G 60", "G 80 ","G 100","G 120 ","G 150","G 180 ","G 220 ","G 240 ","G 280 ","G 320", "emb./subemb: 200/25"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "D’ÁGUA - T277 - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/7k0mRt8/norton-lx-d-agua-t277.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos de superfícies metálicas, materiais compostos, massa plástica, massas rápidas e primers", "Possui costado de papel altamente impermeável, aliado à grãos com alto poder de corte, que proporcionam excelente relação custo x benefício nas aplicações a úmido", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 230 mm x 280 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 60", "G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "G 280", "G 320", "G 360", "G 400", "G 600", "emb./subemb: 200/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "D’ÁGUA - T223 - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Dg5Pgqc/norton-lx-d-agua-t223.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos a úmido em peças metálicas e de materiais compostos como massas plásticas, massas rápidas e primers. Suas principais aplicações são na reparação automotiva para preparo de superfícies, na indústria automobilística e na construção civil.", "Apresenta alto rendimento quando a lixa permanece imersa na água por algumas horas antes do uso", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "G 240", "G 280", "G 320", "G 360", "G 400", "G 500", "G 600 ", "emb./subemb: 500/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "D’ÁGUA - T401 - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/gtLxc10/norton-lx-d-agua-t401.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamento a úmido de vernizes, microacabamento superficial e preparação para polimento", "Proporciona acabamento, rendimento e qualidade diferenciados", "Tipo de grão abrasivo: carbeto de silício", "Tipo de costado: base papel", "Dimensões da lixa: 230 mm x 280 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 1200", "G 1500", "G 2000", "G 2500", "emb./subemb: 200/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "D’ÁGUA - T499 - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/gdKVXqY/norton-lx-d-agua-t499.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamento a úmido de vernizes, microacabamento superficial e preparação para polimento", "Proporciona acabamento, rendimento e qualidade diferenciados", "Tipo de grão abrasivo: carbeto de silício", "Tipo de costado: base papel", "Dimensões da lixa: 230 mm x 280 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 1500", "G 2000", "G 2500", "emb./subemb: 125/25"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "NOFIL - A219 - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ns0H00X/nofil-a219.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos de pinturas, lacas, vernizes e seladores de madeira. Pode ser utilizada também após aplicação de primers em automóveis, entre outras onde produtos abrasivos convencionais empastam facilmente. Pode ser aplicada através de lixamento manual ou lixadeiras vibratórias.", "Possui uma camada especial antiempastante que atua como lubrificante e evita o acúmulo de material na lixa", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 100", "G 120", "G 150", "G 180", "G 220", "G 240", "G 280", "G 320", "G 360", "G 400", "emb./subemb: 500/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "MASSA - A257 - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/9pMR5k1/massa-a257.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos em alvenaria (massa corrida) e madeira", "Oferece alto rendimento na remoção de imperfeições e alinhamento da massa corrida", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 50", "G 60", "G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "emb./subemb: 500/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "MADEIRA - A237 - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/zsqtQyQ/madeira-a237.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos em madeira", "Proporciona um excelente rendimento com baixo custo", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 50", "G 60", "G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "emb./subemb: 500/50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "FERRO - K246",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ZBmtb6P/ferro-k246.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos de metais em geral, ferro, preparação de superfícies, pinturas velhas, pode ser aplicada tanto em lixamento manual quanto com maquinas vibratórias", "Possui costado de pano, proporcionando maior resistência", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base pano", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 36", "G 40", "G 50", "G 60", "G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "G 240", "G 280", "G 320", "emb./subemb: 200/25"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "CHAMPAGNE - A275 NO-FIL - NORTON",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/CHjzcQR/champagne-a275.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos a seco de chapas, primers, lacas, seladores e vernizes automotivos e moveleiros", "Proporciona ótimo rendimento e acabamento", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 230 mm x 280 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "G 240", "G 280", "G 320", "G 400", "G 600", "G 800", "G 1200", "emb./subemb: 200/25"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "LIXAS SECO - 326U - 3M",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/K7vMDcq/3m-326u.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamento a seco na reparação automotiva", "Possui um costado mais resistente e um mineral premium, oferecendo uma maior durabilidade e resistência do abrasivo, além de um ótimo acabamento", "Tipo: lixa seco", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:","G 80", "G 120", "G 150", "G 180", "G 220", "G 320", "G 400", "G 600", "emb: 50"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "LIXA FERRO 221T - 3M",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/7S7V8Yj/3m-221t.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para rebarbações em geral, desbaste até acabamento de massas plástica e alumínio. Remoção de defeitos em funilaria, eliminação de ferrugem e limpeza em geral.", "Alto poder de corte com alta resistência do costado, garante excelente rendimento e durabilidade, não solta mineral. Não descasca.", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: costado de pano", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 36", "G 40", "G 50", "G 60", "G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "emb. / subemb: 200/50"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "LIXA MASSA 230U - 3M",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/sgQhZs7/3m-230U.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Para lixamento de tintas, massa corrida e rebocos de paredes em geral, lixamento de madeiras.", "Desenvolvida para operações do desbaste ao acabamento para os mercados de construção, no lixamento de rebocos, argamassas, gessos, pinturas de paredes em geral e em madeiras em geral.", "Tipo de lixa: massa/madeira", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: costado de papel", "Dimensões da lixa: 225 mm x 275 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Grão:", "G 60", "G 80", "G 100", "G 120", "G 150", "G 180", "G 220", "emb. / subemb: 200/50"]
+                }
+            ]
+        },
+        
         
 
 
@@ -1363,7 +1703,7 @@
             "segmento": "soldagem",
             "promocao": "false",
             "preco": "0",
-            "imagem": "https://i.ibb.co/w7sVgP1/eletrodo-ESAB-grande.jpg",
+            "imagem": "https://i.ibb.co/0j17Fcn/eletrodo-ESAB-grande.jpg",
             "descricao": [
                 {
                     "titulo": "Especificações:",
