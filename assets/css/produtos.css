@@ -171,20 +171,20 @@ h5 {
 
 .page-button {
     font-family: var(--font-family-padrao);
-    width: 20px;
     height: 20px;
     color:#0044ff;
     border: 1px solid #0044ff;
+    cursor: pointer;
 }
 
 .page-button-active {
     font-family: var(--font-family-padrao);
-    width: 20px;
     height: 20px;
     color:var(--cor-branca);
     background-color: #0044ff;
     border: 1px solid #0044ff;
     transform: scale(1.2);
+    cursor: pointer;
 }
 
 .page-number:last-child {
@@ -204,6 +204,18 @@ h5 {
     text-align: center;
     padding-bottom: 30px;
     font-size: 13px;
+}
+
+.page-number-after::after {
+    content: '...';
+    margin-left: 10px;
+    letter-spacing: 1px;
+}
+
+.page-number-before::before {
+    content: '...';
+    margin-right: 10px;
+    letter-spacing: 1px;
 }
 
 /* Barra de navegação da descrição dos produtos  */
