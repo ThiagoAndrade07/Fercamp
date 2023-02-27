@@ -31,7 +31,6 @@ async function listaDeProdutos() {
     
     let paginaAtual = 1;
     let quantidadeDeProdutosPorPagina;
-    let limiteDePaginasEmDisplay = 9;
 
     if(screen.width < 768) {
         quantidadeDeProdutosPorPagina = 6;
@@ -95,7 +94,6 @@ async function listaDeProdutos() {
 
     let botoesPagina = document.querySelectorAll('#page-button');
     let listaDePaginas = document.querySelector('.lista-paginas').childNodes;
-    console.log(listaDePaginas);
 
     botoesPagina.forEach( botao => {
 
