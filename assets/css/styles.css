@@ -83,6 +83,10 @@ h2 {
     width: 70%;
 }
 
+.esconde {
+    display: none;
+}
+
 @media screen and (min-width: 768px) {
     .link-whatsapp {
         height: 70px;
