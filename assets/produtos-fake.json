@@ -1063,6 +1063,36 @@
             ]
         },
 
+        {
+            "titulo": "Cinta Catraca MAVE 1.5T / 5M - NBR: 15883-2",
+            "segmento": "epi",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/r4jHDfH/cinta-catraca-mave-1-5.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Fator de Segurança: 2:1", "Elasticidade da cinta: 7%", "Não utilizar para suspender carga ou em cantos vivos.", "Temperatura de utilização: -40 C e +100 C"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Corda Pet Trançada - 8mm - Collins -",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KxY9t7j/corda-collins.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": [" Corda Pet Trançada", "100% POLIÉSTER", "Tipo seda", "Multifilamento trançado", "Resistente a raios UV"]
+                }
+            ]
+        },
+
+
+
 
 
 
@@ -1086,20 +1116,6 @@
             "titulo": ""
         },
 
-
-        {
-            "titulo": "Cinta Catraca MAVE 1.5T / 5M - NBR: 15883-2",
-            "segmento": "epi",
-            "promocao": "false",
-            "preco": "0",
-            "imagem": "https://i.ibb.co/r4jHDfH/cinta-catraca-mave-1-5.jpg",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["Fator de Segurança: 2:1", "Elasticidade da cinta: 7%", "Não utilizar para suspender carga ou em cantos vivos.", "Temperatura de utilização: -40 C e +100 C"]
-                }
-            ]
-        },
 
 
         {
@@ -3867,7 +3883,124 @@
                     "texto": ["Trincha sintética para melhor acabamento, maior durabilidade e recortes mais precisos. "]
                 }
             ]
-        }
+        },
 
+        {
+            "VEDANTES": "-----------------------------------------------------------------",
+            "titulo": ""
+        },
+
+        {
+            "titulo": "Silicone Alta Temperatura - Siloc - vermelho 280gr",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/VT8JCpW/siloc-silicone-alt-temp-verm.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Silicone Alta Temperatura Siloc 605008B vermelho 280gr", "O Silicone Alta Temperatura Siloc é um silicone acético, quimicamente inerte.", "O Siloc Silicone Alta Temperatura além de ser resistente a água, lubrificantes, óle transmissão liquido de freio, fluidos hidráulicos entre outros, suporta temperaturas contínuas de trabalho de até 260°C e em casos de operações não contínuas suport 320°C.", "Quando curado, cola e veda a maior parte dos materiais de maneira durável, tendo suas propriedades físicas inalteradas pelo tempo, agentes climáticos, UV e o ","Não indicado para juntas de tamp ilindros ou em peças que estejam em contato com combustíveis."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Composição Silicone", "Cor Vermelho", "Densidade 0,97 a 1,03 g/cm³ (23oC, 50% UR)", "Sistema de cura Umidade do ar", "Tempo de formação de película 10 a 20min (23oC, 50% UR)", "Velocidade de secagem 5mm em 24h (23oC, 50% UR)", "Temperatura de aplicação 5 a 35°C", "Tempo total de cura 24 h para espessura de 3 mm", "Pós Curado", "Resistência a tração (ISO 8339) 0,6 MPa", "Alongamento de ruptura (ISO 8339) 200 a 250%", "Alongamento de serviço (ISO 11600) 20%", "Temperatura de trabalho contínuo -60 a 260°C", "Dureza (ISO 868) 18 a 22 Shore A", "Aplicação:", "Aplicações em juntas automotivas que necessitam de uma vedação, que absorva impactos e tenha resistência a altas temperatura, como por exemplo junta de cárter, jun tampa de válvulas, junta da bomba de óleo, entre outras."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Silicone Acético Multiuso Incolor 250ml Unipega",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/zJbddcM/unipega-acetico.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["A Unipega é uma marca renomada por oferecer soluções de qualidade e eficiência para vedação e colagem. Um dos seus produtos de destaque é o Silicone Acético Multiuso Incolor 250ml. Ele é indicado para vedação e colagem de materiais como alumínio, vidro, azulejo, louça sanitária e box de banheiro.", "Esse silicone é incolor, o que o torna uma excelente opção para aplicações onde a estética é fundamental, pois ele não afeta a cor dos materiais.", "Ele também é fácil de aplicar e possui boa resistência à umidade e ao calor."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Cor Predominante: Transparente / Incolor", "Multiuso: Sim", "Cura total: 24 horas", "Embalagem: Tubo (250ml)", "Tipo: Acético", "Conteúdo: 250 ml", "Marca: Unipega", "Modelo: Multiuso"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Silicone acético multiuso incolor solusil multi 280 cartucho com 260g - Solufix",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/cYsnSXK/solusul-multi.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Silicone acético multiuso incolor solusil multi 280 cartucho com 260g - Solufix",
+                    "Solusil Multiuso Acético é um silicone monocomponente para uso geral, permanentemente elástico, e com capacidade de movimentaçao de até 25%.", "De cura rápida possui ótima resistência à condições climáticas extremas, sendo ideal para vedação em áreas que terão contato constante com umidade e variações de temperatura, como cozinhas e banheiros, e vedações em geral na construção.", "Pode ser utilizado em ambientes internos e externos.", "De fácil aplicação, pode ser utilizado com aplicadores simples de baixa viscosidade."]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Pu Construção Adesivo Cola Vedação 400gr Wurth",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/6HZxBn3/pu-wurth.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["O PU Construção é um adesivo monocomponente base de poliuretano modificado, livre de solventes, com excelente pega inicial e força elástica.", "Produto desenvolvido para colagens e vedações na maioria dos materiais utilizados na construção civil e na indústria.", "Tem grande resistência à intempéries e pode ser aplicado em interiores e exteriores."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Excelente aderência em diversos materiais.", "Elasticidade permanente.", "Aceita pintura após acabado.", "Não escorre.", "Não corrosivo."]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Selante Pu Poliuretano Preto 400g Dureza 40 Pu Flex Unipega",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dMktrJs/unipega-puflex.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Veda madeira, aço, alumínio, cerâmica, concreto, calhas e rufos.", "Com propriedades de não escorrimento, cura com a umidade atmosférica, transformando-se em uma borracha flexível e resistente.", "Após a cura, pode ser pintado."]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Adesivo Selante Monocomponente Pu 40 W-max Branco",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/VYrFnWm/pu40-wmax.jpg",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["O Adesivo Selante monocomponente PU 40 W-Max da WURTH é ideal para uso à base de polímero PU modificado de alta performance", "Indicado para colagens e vedações resistentes e duráveis sem perda de elasticidade Especialmente desenvolvido para colagem e vedações de elementos de construção", "Resistentes À agentes químicos, intempéries, e ação de raios U.V.", "isento de solventes com odor neutro, não corrosivo em superfícies metálicas", "Pode ser utilizado em granito, concreto, madeira, superfícies metálicas, substratos lisos ou porosos presentes na construção civil", "Características: Com fácil aplicação e alta resistência", "Não escorre, pode ser aplicado na vertical", "Possui elasticidade permanente", "Aderência em diversos substratos", "Alta resistência à intempéries", "Aceita pintura após curado", "Produto não corrosivo", "Resistente a temperaturas entre -40°C até 90°C"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Silicone Bsse D´água - Kala - Branco - 305gr",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/y8pXXsx/silicone-kala.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["RESISTE DE -20ºC ATÉ 150ºC", "Silicone a base dágua, não possui solventes, não possui fortes agentes químicos.", "Não agride o meio ambiente", "Possui excelente resistência ás variações climáticas como temperatura, chuva e raios UV", "Aceita pintura", "Alta flexibilidade", "Pode ser aplicado em torno de janelas, box de banheiros, vitrôs, rodapés, alumínios e vários substratos porosos.", "Descrição 305g", "Cor: Branco"]
+                }
+            ]
+        }
+        
+        
     ]
 }
