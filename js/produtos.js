@@ -1,3 +1,5 @@
+// VARIÁVEIS
+
 let segmentoSelecionado = localStorage.getItem('segmento');
 
 const sectionProdutos = document.querySelector('.super-container-produtos');
@@ -5,6 +7,8 @@ const tituloDaPagina = document.querySelector('.produtos-titulo');
 const displayDaPaginaAtual = document.querySelector('.display-pagina-atual');
 const barraDePesquisa = document.querySelector('.pesquisa');
 const botaoPesquisa = document.querySelector('.botao-pesquisa');
+
+// REQUISIÇÃO DA LISTA DE PRODUTOS
 
 async function fetchProdutos() {
 
@@ -22,9 +26,12 @@ async function fetchProdutos() {
 
 async function listaDeProdutos() {
     const lista = await fetchProdutos();
+
+    // DEFINIÇÃO DA QUANTIDADE DE PRODUTOS P/ PÁGINA COM BASE NO VIEWPORT DO USUÁRIO
     
     let paginaAtual = 1;
     let quantidadeDeProdutosPorPagina;
+    let limiteDePaginasEmDisplay = 9;
 
     if(screen.width < 768) {
         quantidadeDeProdutosPorPagina = 6;
@@ -35,6 +42,8 @@ async function listaDeProdutos() {
     } else {
         quantidadeDeProdutosPorPagina = 16;
     }
+
+    // LOAD INICIAL DA PÁGINA
 
     tituloDaPagina.innerHTML = segmentoSelecionado;
     displayDaPaginaAtual.innerHTML = `Página: ${paginaAtual}`;
@@ -51,6 +60,8 @@ async function listaDeProdutos() {
 
     paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista.produtos);
 
+    // CRIAÇÃO INICIAL DOS BOTÕES DE PAGINAÇÃO
+
     let ul = document.createElement('ul');
     ul.classList.add('lista-paginas');
     sectionProdutos.parentNode.appendChild(ul);
@@ -61,15 +72,30 @@ async function listaDeProdutos() {
         button.setAttribute('id', 'page-button');
         button.classList.add('page-button');
         button.innerHTML = i
-
         
         li.appendChild(button);
         li.classList.add('page-number');
 
+        if(ul.childElementCount >= 4 && ul.childElementCount < quantidadeDePaginas - 1) {
+            li.classList.add('esconde');
+        }
+
         ul.appendChild(li);
+
+        if(i == 1) {
+            li.classList.add('page-number-after');
+        }
+
+        if(i == quantidadeDePaginas) {
+            li.classList.add('page-number-before');
+        }
     }
 
+    // FUNCIONALIZAÇÃO DOS BOTÕES DE PAGINAÇÃO
+
     let botoesPagina = document.querySelectorAll('#page-button');
+    let listaDePaginas = document.querySelector('.lista-paginas').childNodes;
+    console.log(listaDePaginas);
 
     botoesPagina.forEach( botao => {
 
@@ -79,6 +105,36 @@ async function listaDeProdutos() {
         }
 
         botao.addEventListener('click', () => {
+
+            if(botao.parentNode.nextElementSibling && botao.parentNode.nextElementSibling.classList.contains('esconde')) {
+                for(let i = 0; i < 4; i++) {
+                    let botaoIndex = Array.prototype.indexOf.call(listaDePaginas, botao.parentNode);
+                    let paginaIncrement = i + botaoIndex;
+                    let paginaDecrement = botaoIndex - i;
+
+                    if(botao.parentNode.parentNode.children[paginaDecrement] && botao.parentNode.parentNode.children[paginaDecrement].textContent != '1') {
+                        botao.parentNode.parentNode.children[paginaDecrement].classList.add('esconde');
+                    }
+                    if(botao.parentNode.parentNode.children[paginaIncrement]) {
+                        botao.parentNode.parentNode.children[paginaIncrement].classList.remove('esconde');
+                    }
+                }
+            }
+
+            if(botao.textContent == '1') {
+                let contador = 0;
+
+                listaDePaginas.forEach( element => {
+                    if(element.classList.contains('esconde')) {
+                        element.classList.remove('esconde');
+                    }
+
+                    if(contador > 3 && element.nextElementSibling) {
+                        element.classList.add('esconde');
+                    }
+                    contador++;
+                });
+            }
 
             botoesPagina.forEach( elemento => {
                 if(elemento.classList.contains('page-button-active')) {
@@ -98,12 +154,16 @@ async function listaDeProdutos() {
         });
     });
 
+    // TEXTO "PÁGINAS" ABAIXO DOS BOTÕES DE PAGINAÇÃO
+
     if(ul.childNodes.length > 0) {
         let p = document.createElement('p');
         p.classList.add('page-text');
         p.innerHTML = 'Páginas';
         sectionProdutos.parentNode.appendChild(p);
     }
+
+    // EVENT LISTENER DA BARRA DE PESQUISA
 
     barraDePesquisa.addEventListener('input', event => {
         let termoDePesquisa = event.target.value.toLowerCase().trim();
@@ -115,6 +175,8 @@ async function listaDeProdutos() {
     });
 
 }
+
+// FUNÇÃO DE PAGINAÇÃO E EXIBIÇÃO DOS PRODUTOS
 
 function paginação(paginaAtual, itensPorPagina, listaDeItens) {
     
@@ -145,6 +207,8 @@ function paginação(paginaAtual, itensPorPagina, listaDeItens) {
         sectionProdutos.innerHTML = '<p class="produto-nao-encontrado">Nenhum produto foi encontrado.</p>';
     }
 }
+
+// FUNÇÃO DE EXIBIÇÃO DA DESCRIÇÃO DO PRODUTO
 
 function mostraDescricao(botao, titulo, imagem, descricao) {
 
@@ -193,6 +257,8 @@ function mostraDescricao(botao, titulo, imagem, descricao) {
 
 }
 
+// FUNÇÃO PARA RETORNAR À EXIBIÇÃO INICIAL DO PRODUTO QUANDO ESTIVER NA TELA DE DESCRIÇÃO
+
 function voltarProdutoInicial(card, titulo, imagem) {
 
     card.innerHTML = '';
@@ -216,6 +282,8 @@ function voltarProdutoInicial(card, titulo, imagem) {
 
 }
 
+// FUNÇÃO PARA ADICIONAR EVENT LISTENER NO BOTÃO DE DESCRIÇÃO
+
 function adicionaEscutadorNoBotaoDescricao(card, titulo, imagem, descricao) {
     
     let botaoDescricao = card.children[1].children[1];
@@ -223,6 +291,8 @@ function adicionaEscutadorNoBotaoDescricao(card, titulo, imagem, descricao) {
     botaoDescricao.addEventListener('click', () => mostraDescricao(botaoDescricao, titulo, imagem, descricao));
 
 }
+
+// FUNÇÃO PARA CRIAÇÃO DE PRODUTO COM DESCRIÇÃO NA PÁGINA
 
 function criaProdutoComDescricao(titulo, imagem, descricao) {
     let templateDoProdutoComDescricao = `
@@ -250,6 +320,8 @@ function criaProdutoComDescricao(titulo, imagem, descricao) {
     sectionProdutos.appendChild(div);
 }
 
+// FUNÇÃO PARA FILTRAR PRODUTOS DA LISTA COM BASE EM UM TERMO
+
 function filtraProdutos(lista, termo) {
     let produtosFiltrados = [];
     
@@ -262,5 +334,7 @@ function filtraProdutos(lista, termo) {
     return produtosFiltrados;
 
 }
+
+// INICIALIZAÇÃO DA PÁGINA
 
 listaDeProdutos();
