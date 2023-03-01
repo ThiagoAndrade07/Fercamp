@@ -5,6 +5,821 @@
             "titulo": ""
         },
 
+        {
+            "titulo": "HP 1630K - Makita - Furadeira Com Impacto",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/7twh3Kq/makita-hp1630k.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.",
+                    "Punho emborrachado com design ergonômico. Caixa do motor robusta e em formato cilíndrico.", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Potência: 710 W", "Rotação - velocidade 1 (rpm): 0 - 3.200/min", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 30,0 mm", "em concreto: 16,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-1", "Acompanha: 1 chave de mandril, 1 punho auxiliar e 1 maleta plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "HP 1640 - Makita - Furadeira Com Impacto",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/L5JbYvF/makita-hp1640.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.", "Novo sistema reversível que confere maior vida útil à escova de carvão, sem redução de potência (ainda que funcione no sistema de reversão). Design do punho em linha, maximizando a potência de impacto, além de gatilho de fácil operação.", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Potência: 760 W", "Rotação - velocidade 1 (rpm): 0 - 2.800/min", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 30,0 mm", "em concreto: 16,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-1", "Acompanha: 1 chave de mandril, 1 limitador de profundidade e 1 punho auxiliar"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "HP 2070X - Furadeira Com Impacto",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/SNyRVv7/makita-hp2070x.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.", "Alta potência, com corpo compacto e caixa de engrenagens em alumínio. Limitador de torque para prevenir contragolpe quando a broca entra em contato com vergalhões. Novo sistema reversível que confere maior vida útil à escova de carvão, sem redução de potência (ainda que funcione no sistema de reversão).", "Capacidade do mandril: 5/8” - 16 mm", "Tipo de velocidade: variável (2 velocidades)", "Sistema de reversão: reversível", "Potência: 1.010 W", "Rotação - velocidade 1 (rpm): 0 - 1.200/min", "Rotação - velocidade 2 (rpm): 0 - 2.900/min", "Capacidade máxima de furação: - em aço: 16,0 mm", "em madeira: 40,0 mm", "em concreto: 20,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-1", "Acompanha: 1 chave de mandril, 1 limitador de profundidade, 1 punho auxiliar e 1 maleta plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira angular - Makita - GA 7020",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/gmjvMhw/ga7020.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Possui maior durabilidade e resistência à altas temperaturas. Contém estrutura superior antipoeira e engrenagens usinadas para maior potência.", "Capacidade (disco): 7” - 180 mm", "Potência: 2.200 W", "Rotação (rpm): 8.500/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 3 posições", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 punho auxiliar e 1 chave 2 pinos"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira angular - Makita - GA 9020",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/nRSWz2N/ga9020.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Maior durabilidade e elevada resistência ao calor. Conta com engrenagens usinadas para maior potência e punho emborrachado para maior conforto e controle durante o manuseio.", "Capacidade (disco): 9” - 230 mm", "Potência: 2.200 W", "Rotação (rpm): 6.600/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 3 posições", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 punho auxiliar e 1 chave 2 pinos"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira angular - Makita - GA 4530",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HhQj0Yj/ga4530.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Possui estrutura de pequena circunferência, com punho lateral ergonômico, facilitando o manuseio. Construção em labirinto, protegendo o motor e os rolamentos contra poeira e resíduos.", "Motor de alta qualidade com elevada resistência ao calor. Caixa de engrenagens pequena, proporcionando fácil manuseio e elevada manobrabilidade. Estator protegido com verniz especial que impede a entrada de poeira.", "Capacidade (disco): 4.1/2” - 115 mm", "Potência: 720 W", "Rotação (rpm): 11.000/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 2 posições", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 punho auxiliar e 1 chave 2 pinos"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira angular - Makita - GA 4530K",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0GPsxrX/ga4530k.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Possui estrutura de pequena circunferência, com punho lateral ergonômico, facilitando o manuseio. Construção em labirinto que protege o motor e os rolamentos contra poeira e resíduos. Conta com motor de alta qualidade com elevada resistência ao calor e caixa de engrenagens pequena, facilitando o manuseio e manobras. Possui ainda estator protegido com verniz especial, que impede a entrada de poeira.", "Capacidade (disco): 4.1/2” - 115 mm", "Potência: 720 W", "Rotação (rpm): 11.000/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 2 posições", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 flange, 1 chave pino, 1 punho lateral e 1 maleta"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira angular - Makita - 9557 HNG",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/SfVMgLV/9557hng.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Possui dupla isolação e gatilho deslizante", "Capacidade (disco): 4.1/2” - 115 mm", "Potência: 840 W", "Rotação (rpm): 11.000/min", "Rosca do eixo: M 14", "Tipo de velocidade: fixa", "Número de posições de ajuste do punho: 2 posições", "Ajuste do cabo: fixo", "Acompanha: punho auxiliar e chave 2 pinos"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "SA 7000C - Makita - Lixadeira Angular",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JRWRy5x/sa7000c.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos em geral", "Possui velocidade variável podendo ser utilizada como politriz", "Possui punho auxiliar com duas posições de fixação que atua como apoio durante o manuseio da ferramenta, adaptando-se em diferentes situações e locais de uso, muitas vezes de difícil acesso. Conta ainda com botão de trava do eixo, interruptor com trava de segurança e motor com dupla isolação, garantindo maior segurança ao operador.", "Capacidade (disco): 7” - 180 mm", "Potência: 1.600 W", "Rotação (rpm): 0 - 4.000/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 2 posições", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        
+        {
+            "titulo": "SA 7000 - Makita - Lixadeira Angular",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/K62RCq8/sa-7000.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos em geral, principalmente utilizada para lixamento de metais", "Possui punho auxiliar com duas posições de fixação que atua como apoio durante o manuseio da ferramenta, adaptando-se em diferentes situações e locais de uso, muitas vezes de difícil acesso. Conta ainda com botão de trava do eixo, interruptor com trava de segurança e motor com dupla isolação, garantindo maior segurança ao operador.", "Capacidade (disco): 7” - 180 mm", "Potência: 1.400 W", "Rotação (rpm): 5.500/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 2 posições", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 disco de borracha e 1 punho auxiliar"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Lixadeira De Cinta - Makita - 9920",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WgffCKF/9920.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixar madeiras em geral", "Sistema de autotrajeto da cinta, alta capacidade de coleta de pó e baixo ruído, somente 85 dB. Base estendida para permitir o fluxo no lixamento.", "Potência: 1.010 W", "Velocidade: 210 m/min - 440 m/min", "Largura da cinta de lixa: 76,0 mm", "Comprimento da cinta de lixa: 610,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-4", "Acompanha: 1 cinta de lixa e 1 coletor de pó"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Lixadeira Vertical - Makita - GV 5010",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Y0XVCz2/gv-5010.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos em geral", "Possui empunhadura emborrachada e confortável para manuseio, proporcionando maior controle da ferramenta e diminuindo a fadiga e dores na mão", "Potência: 440 W", "Rotação (rpm): 4.500/min", "Capacidade (disco): 5” - 125 mm", "Segue norma:", "ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: disco de lixa, disco de plástico, punho lateral, parafuso soquete sextavado, arruela e chave allen"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensâo:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Lixadeira Vertical - Makita - GV 7000",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Vp05twM/gv-7000.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixamentos em geral.", "Possui corpo compacto com excelente balanceamento para maior controle operacional e redução da fadiga do operador. Botão de trava para uso contínuo.", "Diâmetro do disco de lixa (pol/mm): 180 mm", "Potência: 500 W", "Rotação (rpm): 4.700/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: disco de lixa, disco de borracha, punho lateral, chave de pino e chave allen"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensâo:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Lixadeira Orbital - Makita - BO 4556",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/drwwfpC/bo-4556.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Lixadeira oscilante", "Indicada apenas para lixamento e acabamento em madeiras e derivados", "Possui punho ergonômico com elastômeros que proporciona maior conforto no manuseio, motor potente e baixa vibração e ruído. Proporciona facilidade na troca de lixas e conta com resistente base em alumínio com proteção contra pó, proporcionando maior vida útil.", "Potência: 200 W", "Oscilação (opm): 14.000/min", "Comprimento da superfície de lixamento: 112,0 mm", "Largura da superfície de lixamento: 102,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-4", "Acompanha: 1 coletor de pó, 1 furador de lixas e 3 folhas de lixa"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Politrizes Roto-Orbital - Makita - PO 6000C",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Ss393Wp/po-6000c.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para diversas aplicações, desde remoção de arranhões até acabamento final", "Possui 2 modos rotacionais, modo rotação + vibração (ação orbital com rotação + vibração da base para polimento como remoção de arranhões) e modo rotação (ação orbital com rotação da base para excelente acabamento). Conta também com base de fixação autoaderente, velocidade variável e partida suave.", "Potência: 900 W", "Rotação (rpm): 0 - 780/min", "Oscilações por minuto: 0 - 6.800 opm", "Diâmetro do disco/base: 6” - 150 mm", "Acompanha: 1 punho lateral e 1 base com fixação autoaderente de 6Pol"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Retificas - Makita - GD 0601",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/vDHLPzt/GD-0601.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para retíficas, matrizes, moldes, furos e engrenagens", "Possui cabo emborrachado, proporcionando maior conforto", "Diâmetro da pinça: 1/4” - 6,3 mm", "Potência: 400 W", "Rotação (rpm): 25.000/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-14", "Acompanha: 1 pinça 1/4” e 1 chave"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Retificas - Makita - GD 0800",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/fd8kW30/GD-0800.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para retíficas, matrizes, moldes, furos e engrenagens", "Produzida ergonomicamente, com corpo reto para retificar regiões estreitas.", "Possui sistema Super Joint System exclusivo Makita, ajudando a prevenir o contragolpe.", "Diâmetro da pinça: 6 mm", "Potência: 500 W", "Rotação (rpm): 28.000/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-14", "Acompanha: 1 pinça de 6 mm e 1 chave"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Motoesmiril - Makita - GB 801",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ZJ0QyyR/GB-801.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Ideal para desbaste e afiação de ferramentas e peças metálicas com o auxílio de rebolos específicos para cada função", "Possui visor de proteção, sendo que em 1 dos lados este visor possui uma lupa, que facilita o trabalho com peças de menor diâmetro e bases de apoio com iluminação para a peça a ser trabalhada, proporcionando maior segurança e praticidade.", "Equipamento pronto para uso, pois acompanha inclusive óculos de segurança.", "Potência: 550 W", "Rotação (rpm): 3.450/min", "Diâmetro do eixo: 5/8” - 15,8 mm", "Medidas do rebolo indicado (diâmetro x espessura x furo): 8” x 3/4” x 5/8”", "Acompanha: 2 rebolos, sendo 1 com grão fino e 1 com grão grosso, 2 apoios de trabalho, 2 visores de proteção, sendo 1 com lupa e outro sem e 1 óculos de segurança"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Tico-Tico - Makita - 4327",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/2FqJBgf/4327.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para madeiras, metais, plásticos, entre outros, utilizando a lâmina apropriada", "Punho emborrachado com design ergonômico, proporcionando maior controle e conforto. Possui protetor de poeira que também previne a dispersão de lascas e variador de velocidade por seletor que assegura ótima velocidade de corte. Conta ainda com sistema de contrapeso que balanceia e reduz a vibração, conferindo maior conforto, além de conexão para aspirador de pó.", "Potência: 450 W", "Capacidade de corte: - em aço 90º: 6 mm", "em madeira 90°: 65 mm", "Tipo de encaixe da lâmina: tipo ”T”", "Ângulo de inclinação da base: 45º", "Tipo de velocidade: variável", "Número de golpes por minuto (gpm): 500/min - 3.100/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-11", "Acompanha: 1 lâmina e 1 chave allen"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Tico-Tico - Makita - 4350 FCT",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/74twKgv/4350-FCT.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para madeiras, metais, plásticos, entre outros, utilizando a lâmina apropriada", "Punho emborrachado com design ergonômico, proporcionando maior controle e conforto. Possui engate rápido para fácil troca de lâminas, sem a necessidade de outras ferramentas. Baixa vibração, conferindo maior conforto no manuseio.", "Potência: 720 W", "Capacidade de corte: - em aço 90º : 10 mm", "em alumínio 90º: 20 mm", "em madeira 90°: 135 mm", "Tipo de encaixe da lâmina: tipo “T”", "Ângulo de inclinação da base: 45º", "Tipo de velocidade: variável", "Número de golpes por minuto (gpm): 800/min - 2.800/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-11", "Acompanha: 1 maleta, 1 chave allen e dispositivo antilasca"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Tico-Tico - Makita - SJ 401",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/nB3GJyd/SJ-401.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortes retos ou chanfros em madeiras, plásticos e metais", "Serra tico-tico com chanfrado em até 45º para a direita e 15º para a esquerda. Adapta lâminas de encaixe liso (simples) ou rápido (pinado), ajusta rapidamente a tensão da lâmina por meio de alavanca de tensão. Robusta base de ferro fundido para estabilizar a eliminação de vibração no corte além de se silenciosa. Botão seletor de velocidade, tubo para expirar ar sobre a peça, limpando a durante o corte.", "Potência: 130 W", "Número de golpes por minuto (gpm): 400/min - 1.600/min", "Capacidade de corte: - 0º: 50,0 mm", "45º: 28,6 mm", "Comprimento da mesa: 406,0 mm", "Largura da mesa: 235,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-11", "Acompanha: 1 jogo de lâminas e chave allen"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Plaina - Makita - KP 0800",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/jLjvdCK/KP-0800.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para desbastar e plainar madeiras", "Punho com ângulo e formato de fácil pegada, manuseio e transporte, proporcionando maior controle e conforto. Precisão no corte.", "Potência: 620 W", "Rotação (rpm): 17.000/min", "Largura de corte: 82,0 mm", "Profundidade de corte: 2,5 mm", "Profundidade de rebaixo: 9 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-14", "Acompanha: conjunto do calibrador da faca, 1 guia reta, 1 faca plaina e 1 chave soquete"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tupia - Makita - 3709",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/yhm5wRZ/3709.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortes e acabamentos em fórmicas e entalhes em madeira", "Possui ajuste de profundidade suave e preciso, com mecanismo de pinhão e cremalheira. Acompanha punho emborrachado, proporcionando maior controle e conforto no manuseio. Possui base plástica transparente para fácil visualização da linha de corte.", "Tipo da tupia: tupia laminadora", "Potência: 530 W", "Rotação (rpm): 30.000/min", "Diâmetro da pinça: 6,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e IEC 60745-2-17", "Acompanha: conjunto de guia reta, 1 fresa ST-6 (6 mm), 2 chaves fixas e guia padrão"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Circular - Makita - 5902B",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/5jjXwhs/5902B.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar somente madeiras e derivados", "Carcaça do motor plana para facilitar a troca de discos. Tampa em aço robusta, proporcionando grande durabilidade.", "Diâmetro da serra indicada: 9.1/4” - 235 mm", "Rotação (rpm): 4.100/min", "Para lâminas com furo de: 25,4 mm", "Capacidade de corte: - 90º: 85,0 mm", "45º: 60,0 mm", "Ângulo de inclinação da serra: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-5", "Acompanha: 1 lâmina de serra com 40 dentes, 1 punho auxiliar, 1 adaptador para aspirador de pó e chaves para troca do disco"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Circular - Makita - HS 7010",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/TqNmW6q/HS-7010.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar somente madeiras e derivados", "Possui base com ajuste de ângulo, punho emborrachado, base de alumínio e adaptador para coletor/aspirador de pó", "Diâmetro da serra indicada: 7.1/4” - 185 mm", "Potência: 1.600 W", "Rotação (rpm): 5.500/min", "Para lâminas com furo de: 20 mm", "Capacidade de corte: - 90º: 65,0 mm", "45º: 44,0 mm", "Ângulo de inclinação da serra: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-5", "Acompanha: guia reta e lâmina de serra de vídea 185 mm com furo de 20 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Circular - Makita - 5007N",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JBqS2cJ/5007N.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar somente madeiras e derivados", "Punho emborrachado que proporciona maior controle e conforto. Função soprador: sopra a serragem para fora da linha de corte, melhorando a visibilidade. Possui escala de profundidade de corte que facilita a leitura.", "Diâmetro da serra indicada: 7.1/4” - 185 mm", "Potência: 1.800 W", "Rotação (rpm): 5.800/min", "Para lâminas com furo de: 20 mm", "Capacidade de corte: - 90º: 63,5 mm", "45º: 45,0 mm", "Ângulo de inclinação: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-5", "Acompanha: 1 guia reta, 1 lâmina de serra e 1 chave allen"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Circular - Makita - 5007MG",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HBC9X81/5007MG.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar somente madeiras e derivados", "Punho emborrachado que proporciona maior controle e conforto. Função soprador: sopra a serragem para fora da linha de corte, melhorando a visibilidade. Possui escala de profundidade de corte que facilita a leitura. LED duplo embutido para facilitar o corte de peças em locais escuros.", "Diâmetro da serra indicada: 7.1/4” - 185 mm", "Potência: 1.800 W", "Rotação (rpm): 5.800/min", "Para lâminas com furo de: 20 mm", "Capacidade de corte: - 90º: 63,5 mm", "45º: 45,0 mm", "Ângulo de inclinação: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-5", "Acompanha: 1 guia reta e 1 lâmina de serra de", "vídea 185 mm, com 16 dentes e furo de 20 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Sabre - Makita - JR 3070CT",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3r0yy6s/jr-3070ct.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para madeira, plástico e metal, utilizando a lâmina apropriada. Pode realizar cortes retos e curvos.", "Maior potência e máxima redução de vibração. Possui mecanismo para redução de vibração, garantindo maior conforto ao operador. Conta com controle eletrônico de velocidade para otimização do tempo de corte e uma ampla gama de aplicações.", "Potência: 1.510 W", "Golpes por minuto (gpm): 0 - 2.800/min", "Comprimento do golpe: 32 mm", "Capacidade máxima: - tubos 130 mm", "madeira 255 mm", "Acompanha: 1 maleta e 3 lâminas (1 para madeira e 2 para metal)"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra de Esquadra - Makita - LS 1040F",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Kw5800c/ls-1040f.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar madeiras e derivados.", "Pode cortar alumínio utilizando o disco apropriado.", "Possui base giratória para cortes em ângulo de 45º para ambos os lados, braço (cabeça de corte) com botão para regulagem de inclinação de até 45º para a esquerda, protetor de lâmina em acrílico transparente, morsa e apoios laterais que facilitam o corte em peças de maior comprimento, além de lâmpada para iluminação da área de trabalho", "Diâmetro da serra indicada: 10” - 254 mm", "Potência: 1.650 W", "Rotação (rpm): 4.600/min", "Para lâminas com furo de: 16 mm", "Capacidade de corte:", "com a base em 0º e com a cabeça de corte em 90º: largura 90 mm x altura 95 mm", "com a base em 0º e com a cabeça de corte em 45º: largura 90 mm x altura 67 mm", "Ângulo de inclinação da serra: base com ângulo de 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-10", "Acompanha: 1 lâmina de serra, 1 coletor de pó, conjunto de suportes,1 morsa e 1 chave fixa"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra de Esquadra - Makita -LS 1221",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/hcz0dfG/ls-1221.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar madeiras e derivados. Pode cortar alumínio utilizando o disco apropriado.", "Possui base giratória para cortes em ângulo de 45º para ambos os lados, braço (cabeça de corte) com botão para regulagem de inclinação de até 45º para a esquerda, protetor de lâmina em acrílico transparente e sistema de parada rápida", "Diâmetro da serra indicada: 12” - 300 mm", "Potência: 1.650 W", "Rotação (rpm): 4.000/min", "Para lâminas com furo de: 25,4 mm", "Capacidade de corte:", "com a base em 0° e com a cabeça de corte em 90º: largura 98 mm x altura 153 mm", "com a base em 0° e com a cabeça de corte em 45º: largura 70 mm x altura 149 mm", "Ângulo de inclinação da serra: base com ângulo de 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-10", "Acompanha: 1 adaptador do coletor de pó, trava de segurança, 1 esquadro, 1 coletor de pó, conjunto de suportes, 1 chave fixa e 1 lâmina de serra"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra de Esquadra - Makita - MLS 100",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/DWDZCv4/mls-100.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar madeiras e derivados. Pode cortar alumínio utilizando o disco apropriado.", "Possui base giratória para cortes em ângulo de 45º para ambos os lados, braço (cabeça de corte) com botão para regulagem de inclinação de até 45º para a esquerda, protetor de lâmina em acrílico transparente, morsa e apoios laterais que facilitam o corte em peças de maior comprimento", "Diâmetro da serra indicada: 10” - 254 mm", "Potência: 1.500 W", "Rotação (rpm): 4.200/min", "Para lâminas com furo de: 25,4 mm", "Capacidade de corte:", "com a base em 0º e com a cabeça de corte em 90º: largura 130 mm x altura 75 mm", "com a base em 45º e com a cabeça de corte em 90º: largura 120 mm x altura 48 mm", "com a base em 0º e com a cabeça de corte em 45º: largura 90 mm x altura 75 mm", "com a base em 45º e com a cabeça de corte em 45º: largura 90 mm x altura 48 mm", "Ângulo de inclinação da serra: base com ângulo de 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-10", "Acompanha: 1 coletor de pó, 1 lâmina de serra, 1 suporte, 1 morsa e 1 chave fixa"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tesoura Faca - Makita - JS 3201",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0YWbVDZ/js-3201.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortes curvos, com raio mínimo de corte de 50 mm, ou retos em chapas metálicas. Utiliza as mesmas lâminas do modelo JS-3200.", "Fácil manuseio, baixo nível de ruído e punho revestido, proporcionando melhor pega e maior conforto ao operador. Possui um canal na parte superior da mesa que serve para verificar a espessura de corte para aço comum ou aço inox. Se a chapa passar por este canal, significa que a máquina possui capacidade para realizar o corte. Conta ainda com protetor que confere um corte mais suave e impede que a caixa do motor risque a peça que está sendo trabalhada, além de compartimento para chave allen que oferece maior praticidade.", "Potência: 710 W", "Capacidade de corte:", "aço de até 400 N/mm²: 3,2 mm", "aço de até 600 N/mm²: 2,5 mm", "aço de até 800 N/mm²: 1,5 mm", "alumínio de até 200 N/mm²: 4,0 mm", "Golpes por minuto (gpm): 1.600/min", "Segue norma: ABNT NBR IEC 60745-1", "Acompanha: 1 conjunto de lâminas, 1 chave allen e 1 calibrador de espessura"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cortador De Parede - Makita - SG 1251J",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/sRJ6Vyw/sg-1251j.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortes curvos, com raio mínimo de corte de 50 mm, ou retos em chapas metálicas. Utiliza as mesmas lâminas do modelo JS-3200.", "Fácil manuseio, baixo nível de ruído e punho revestido, proporcionando melhor pega e maior conforto ao operador. Possui um canal na parte superior da mesa que serve para verificar a espessura de corte para aço comum ou aço inox. Se a chapa passar por este canal, significa que a máquina possui capacidade para realizar o corte. Conta ainda com protetor que confere um corte mais suave e impede que a caixa do motor risque a peça que está sendo trabalhada, além de compartimento para chave allen que oferece maior praticidade.", "Potência: 710 W", "Capacidade de corte:", "aço de até 400 N/mm²: 3,2 mm", "aço de até 600 N/mm²: 2,5 mm", "aço de até 800 N/mm²: 1,5 mm", "alumínio de até 200 N/mm²: 4,0 mm", "Golpes por minuto (gpm): 1.600/min", "Segue norma: ABNT NBR IEC 60745-1", "Acompanha: 1 conjunto de lâminas, 1 chave allen e 1 calibrador de espessura"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Mármore - Makita - 4100 NH2Z",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/F55pMzX/4100nh2z.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar mármore, granito, ardósia, pedras em geral, entre outros materiais, utilizando o disco adequado. Não indicada para madeira ou derivados e metais.", "Possui base com regulagem de profundidade e ângulo (até 45°) que confere cortes mais precisos e melhor acabamento. Pode utilizar disco diamantado de até 125 mm e disco côncavo.", "Diâmetro do disco: 5” - 125 mm", "Potência: 1.450 W", "Rotação (rpm): 12.000/min", "Diâmetro do eixo: 20,0 mm", "Capacidade de corte: - 90º: 32,5 mm", "45º: 21,5 mm", "Ângulo de inclinação da serra: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR 15910", "Massa aproximada: 3,0 kg", "Acompanha: 2 chaves para troca do disco"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Mármore - Makita - 4100 NH2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/F8G2sNy/4100-nh2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar mármore, granito, ardósia, pedras em geral, entre outros materiais, utilizando o disco adequado. Não indicada para madeira ou derivados e metais.", "Possui base com regulagem de profundidade e ângulo (até 45°) que confere cortes mais precisos e melhor acabamento. Pode utilizar disco diamantado de até 125 mm e disco côncavo.", "Diâmetro do disco: 5” - 125 mm", "Diâmetro do eixo: 20,0 mm", "Potência: 1.450 W", "Rotação (rpm): 12.000/min", "Capacidade de corte: - 90º: 32,5 mm", "45º: 21,5 mm", "Ângulo de inclinação da serra: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR 15910", "Massa aproximada: 3,0 kg", "Acompanha: 1 kit refrigeração e 2 chaves para troca do disco"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Mármore - Makita - 4100 NH3ZX2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/YyJTGW8/4100-nh3zx2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar mármore, granito, ardósia, pedras em geral, entre outros materiais, utilizando o disco adequado. Não acompanha kit refrigeração.", "Não indicada para madeira ou derivados e metais.", "Possui dupla isolação e interruptor com dispositivo de segurança. Para acionar o equipamento é necessário destravar o interruptor através de um botão, evitando acionamentos involuntários e proporcionando maior segurança ao operador. Conta ainda com regulagem de profundidade que confere cortes mais precisos e com melhor acabamento. Possui a extremidade traseira plana, auxiliando na substituição do disco diamantado, além de sistema de ventilação otimizado e ranhuras na base para evitar o acúmulo de pó, facilitando o deslizamento da máquina.", "Diâmetro do disco: 4.3/8” - 110 mm", "Diâmetro do eixo: 20,0 mm", "Potência: 1.300 W", "Rotação (rpm): 13.800/min", "Capacidade de corte 90º: 32,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR 15910", "Massa aproximada: 2,9 kg", "Acompanha: 2 chaves para troca do disco e 2 discos diamantados segmentados"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Soprador/Aspirador Elétricos - Makita - UB 1103",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/PhHgnb8/ub1103.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Ideal para pequenas áreas. Indicado para soprar e aspirar pó e pequenas folhas.", "Possui maior fluxo de ar, controle de fluxo de ar no gatilho, punho emborrachado, antienergia estática, dupla isolação e velocidade variável", "Potência: 600 W", "Volume de saída de ar: 0 - 246 m³/h", "Rotação (rpm): 0 - 16.000/min", "Segue norma: ABNT NBR IEC 60335-1 e IEC 60335-2-100", "Acompanha: 1 tubo de borracha e 1 saco coletor"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Martelete Perfurador Rompedor - Makita - HR 2630J",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/FqBR4v0/hr-2630j.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para perfurar e romper concreto e alvenaria. Utilizando haste adaptadora tipo SDS Plus e mandril adequado, pode-se perfurar madeira, metal, plástico, entre outros. Não acompanha haste e mandril.", "Possui interruptor eletrônico com velocidade variável que permite controlar a rotação da máquina, possibilitando iniciar um furo com uma rotação baixa e aumentar gradativamente de acordo com a necessidade. Conta também com rotação com impacto/sem impacto e função rompedor, adequando-se a diferentes necessidades de uso. Possui ainda encaixe tipo SDS PLUS, que facilita a troca rápida do acessório, além de sistema reversível, que auxilia na retirada da broca caso a mesma trave durante a perfuração. Tem também cabo com revestimento emborrachado para maior conforto no manuseio, punho auxiliar e limitador de profundidade, conferindo maior praticidade nas operações.", "Tipo de encaixe: tipo SDS PLUS", "Potência: 830 W", "Força de impacto: 3,0 J", "Capacidade máxima de perfuração: - em concreto: 26,0 mm", "em madeira: 32,0 mm", "em aço: 13,0 mm", "Impacto por minuto (ipm): 0 - 4.600/min", "Rotação (rpm): 0 - 1.200/min", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Ajuste do sistema de trabalho: rotação / rotação com impacto / impacto", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-6", "Acompanha: punho lateral, limitador de profundidade, jogo de brocas para concreto com 5 peças, ponteiro e talhadeira e maleta MAK-PAC"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Martelete Perfurador Rompedor - Makita - HR 2470",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/XVZmwT2/hr-2470.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para perfurar e romper concreto e alvenaria. Utilizando haste adaptadora tipo SDS PLUS e mandril adequado, pode-se perfurar madeira, metal, plástico, entre outros. Não acompanha haste e mandril.", "Dispõe de interruptor eletrônico com velocidade variável que permite controlar a rotação da máquina, possibilitando iniciar um furo com uma rotação baixa e aumentar gradativamente de acordo com a necessidade. Possui rotação com impacto/sem impacto e função rompedor, adequando-se a diferentes situações de uso. Conta com encaixe tipo SDS PLUS que facilita a troca rápida do acessório, além de sistema reversível que auxilia na retirada da broca caso ela trave durante a perfuração. Possui ainda cabo com revestimento emborrachado para maior conforto no manuseio, punho auxiliar e limitador de profundidade, conferindo maior praticidade.", "Tipo de encaixe: tipo SDS PLUS", "Potência: 800 W", "Força de impacto: 2,7 J", "Capacidade máxima de perfuração: - em concreto: 24,0 mm", "em madeira: 32,0 mm", "em aço: 13,0 mm", "Impacto por minuto (ipm): 0 - 4.500/min", "Rotação (rpm): 0 - 1.100/min", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Ajuste do sistema de trabalho: rotação / rotação com impacto / impacto", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-6", "Acompanha: 1 punho auxiliar, 1 limitador de profundidade e 1 maleta plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Martelo Demolidor - Makita - HM 1306",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/xzRjWdh/hm-1306.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para demolir e romper concreto", "Punho emborrachado, proporcionando maior controle e menor fadiga nas mãos, além de punho auxiliar regulável que confere maior controle e conforto na operação", "Tipo de encaixe: encaixe sextavado 30 mm", "Potência: 1.510 ", "Impacto por minuto (ipm): 1.450/min", "Força de impacto: 28,8 J", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 6074", "Acompanha: 1 chave, 1 punho auxiliar e 1 maleta de aço"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Martelos Rompedores - Makita - HM 1203C",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/ykXTvrs/hm-1203c.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para remoção de pisos e rebocos em trabalho de demolição", "Controle eletrônico de velocidade para máxima performance. Possui LED de alerta que indica quando trocar a escova de carvão.", "Tipo de encaixe: tipo SDS MAX", "Potência: 1.510 W", "Impacto por minuto (ipm): 950/min - 1.900/min", "Força de impacto: 25 ,5 J", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-6", "Acompanha: 1 maleta, 1 punho auxiliar e 1 ponteiro"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Martelos Rompedores - Makita - HM 0870C",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Rpy6Tx3/hm-0870c.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para remoção de pisos e rebocos em trabalho de demolição", "Alta durabilidade e excelente performance na demolição. Possui LED de alerta que indica quando trocar a escova de carvão.", "Tipo de encaixe: tipo SDS MAX", "Potência: 1.100 W", "Impacto por minuto (ipm): 1.100/min - 2.650/min", "Força de impacto: 11,4 J", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-6", "Acompanha: 1 maleta, 1 punho auxiliar e 1 tubo de graxa"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Chave De Impacto A Bateria - Makita - DTW 1001RTJ",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/sRq9G9N/dtw-1001rtj.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para fixar e soltar porcas e parafusos", "Maior autonomia das baterias com motor BL. Resistente à água e poeira com a tecnologia XPT. Conta com controle eletrônico de velocidade, velocidade variável, rotação reversível, freio instantâneo e iluminação de trabalho.", "Capacidade: parafuso padrão: M14 - M30 / parafuso alta tensão: M12 - M24", "Encaixe: 3/4”", "Tipo de velocidade: variável (3 velocidades)", "Sistema de reversão: reversível", "Rotação (rpm): alta: 0 - 1.800/min - média: 0 - 1.000/min - baixa: 0 - 900/min", "Impactos por minuto (ipm): alta: 0 - 2.200/min - média: 0 - 2.000/min - baixa: 0 - 1.800/min", "Torque máximo: 1.050 N.m", "Torque de reversão: 1.700 N.m", "Bateria: 18 V - 5,0 Ah - Íons de lítio", "Acompanha: 2 baterias 18 V - 5,0 Ah, 1 carregador de bateria bivolt e 1 maleta MAK-PAC"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira a Bateria - Makita - DF 001DW",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/M5MpqpK/df-001dw.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para apertar e soltar parafusos em geral", "Compacta e prática, possui bateria de íons de lítio que confere alta eficiência de operação, recarregável na tomada 127 V~ - 220 V~ e também no computador ou veículo, via cabo USB", "Bateria: 3,6 V - íons de lítio", "Tipo do encaixe: sextavado - 1/4” - 6,35 mm", "Rotação (rpm): 220/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-2", "Acompanha: adaptador AC bivolt, cabo USB e maleta com 81 acessórios"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+        
+
 
         {
             "titulo": "Martelete Gamma Pro GP1958 azul-celeste frequência de 60Hz com 1350W de potência 127V",
@@ -87,6 +902,9 @@
                 }
             ]
         },
+
+        
+        
 
 
 
