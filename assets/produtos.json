@@ -1618,9 +1618,549 @@
                 }
             ]
         },
+
+        {
+            "titulo": "Furadeira com Impacto - Bosh - 11B5 - GSB 450",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pymV4jP/11b5-gsb-450.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.", "Possui formato compacto e ergonômico que facilita o trabalho, evitando o cansaço mesmo durante uso prolongado. Possui controle de velocidade eletrônica e mandril em metal de qualidade.", "Potência: 450 W", "Capacidade do mandril: 3/8” - 10 mm", "Tipo de velocidade: variável", "Rotação - velocidade 1 (rpm): 0 - 3.100/min", "Sistema de reversão: reversível", "Capacidade máxima de perfuração:", "em aço: 10,0 mm", "em madeira: 20,0 mm", "em concreto: 10,0 mm", "Segue norma: IEC 60745-2-1", "Acompanha: 1 chave de mandril"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Furadeira com Impacto - Bosh - 11B6 - GSB 550 RE",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JpKQLKF/11b6-gsb-550-re.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.", "Possui formato compacto e ergonômico que facilita o trabalho, evitando cansaço mesmo durante o uso prolongado", "Potência: 550 W", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável", "Rotação - velocidade 1 (rpm): 0 - 3.100/min", "Sistema de reversão: reversível", "Capacidade máxima de perfuração:", "em aço: 10,0 mm", "em madeira: 25,0 mm", "em concreto: 13,0 mm", "Segue norma: IEC 60745, CCE 20, DIN 57740, VDE 0740, DIN 44720", "Acompanha: 1 chave para mandril"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Furadeira com Impacto - Bosh - 123D - GSB 13 RE",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/m5BL1Sw/123d-gsb-13-re.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.", "Possui botão trava, velocidade variável e reversível, ajuste do punho auxiliar, botão deslizante de duas funções (com e sem impacto), engrenagens de alto torque, carcaça altamente resistente e rolamento de esferas no eixo do mandril, aumentando a vida útil", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Potência: 650 W", "Rotação - velocidade 1 (rpm): 0 - 3.150/min", "Capacidade máxima de perfuração:", "em aço: 10,0 mm", "em madeira: 25,0 mm", "em concreto: 13,0 mm", "Acompanha: 1 chave para mandril, 1 limitador de profundidade e 1 punho auxiliar"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Furadeira com Impacto - Bosh - 1228.1 - GSB 16 RE",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/N6YPLHN/1228-1-gsb-16re.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.", "Possui porta-escovas rotativo para maior durabilidade do motor e caixa de embreagem tipo copo, garantindo maior resistência e precisão", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Potência: 750 W", "Rotação - velocidade 1 (rpm): 0 - 3.250/min", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 30,0 mm", "em concreto: 16,0 mm", "Acompanha: 1 chave para mandril, 1 limitador de profundidade, 1 punho auxiliar e 1 maleta"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Furadeira com Impacto - Bosh - 11A21 - GSB 20-2 RE",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/cX0VzdH/11a21-gsb-20-2-re.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para metal e madeira na função sem impacto e na função com impacto para concreto e alvenaria. Deve ser utilizada com acessórios adequados.", "Interruptor eletrônico com pré-seleção de velocidade e comutador de sentido de giro, permitindo maior precisão e gama de aplicações. Possui botão trava para trabalhos contínuos e embreagem mecânica de segurança (sistema antirrotação), oferecendo proteção no caso de bloqueio súbito do acessório.", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável (2 velocidades)", "Sistema de reversão: reversível", "Potência: 800 W", "Rotação - velocidade 1 (rpm): 0 - 1.100/min", "Rotação - velocidade 2 (rpm): 0 - 3.000/min", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 40,0 mm", "em concreto: 20,0 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-1", "Acompanha: 1 mandril 1/2” (13 mm) com chave, 1 limitador de profundidade e 1 punho auxiliar"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Furadeira sem Impacto - Bosh - GBM 16-2 RE",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KjrcGNg/gbm-16-2-re.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["A ferramenta é destinada para furar em madeira, metal, cerâmica e plástico. Ferramentas com regulagem eletrônica e rotação à direita/à esquerda também são apropriadas para aparafusar e fazer roscas. Uso profissional, ideal para serralheiros, indústrias metal mecânicas, construção civil, metalúrgico, instaladores de portas e janelas, fabricantes de móveis e carpinteiros.", "A Furadeira sem impacto reversível Bosch GBM 16-2 RE é a opção profissional e segura nas diversas perfurações. Possui 800 W de potência e garante um trabalho confortável com punho emborrachado e seguro, design robusto com carcaça de metal e precisão nas perfurações sem impacto. Possui controle de velocidade variável, para ajuste e seleção da velocidade ideal em cada tipo de perfuração e material. Além disso, possui embreagem de segurança, protegendo o operador e bloqueando o giro em caso de travamento do acessório. Design ergonômico: maior conforto e segurança durante o trabalho com punho emborrachado. Ajuste de velocidade variável, se adequando a diferentes materiais. Alta durabilidade: carcaça de metal e design robusto. Sistema de reversão rotativo: mesma potência em ambos os sentidos de giro.", "Potência: 800 W", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de mandril: com chave", "Tipo de velocidade: variável (2 velocidades)", "Sistema de reversão: reversível", "Rotações por minuto (rpm): 0 - 1.100/min / 0 - 3.000/min", "Capacidade máxima de perfuração: - em aço: 16,0 mm",  "em madeira: 45,0 mm", "Acompanha: 1 chave de mandril"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Furadeira/Parafusadeira - Bosh - 1447.0D0 - GSR7-14E",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/18TQPt5/1447-0d0-gsr7-14e.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para soltar e apertar parafusos, e fazer furos em madeiras ou metais", "A única furadeira/parafusadeira com cabo que possui controle de torque (24+1) posições. Duas velocidades, melhor combinação de torque e velocidade para parafusamentos e perfurações. Interruptor eletrônico, velocidade sob controle nos parafusamentos. Cabo de 4 metros, conta com embreagem para maior segurança em aplicações mais pesadas.", "Potência: 400 W", "Capacidade do mandril: 0,8 mm - 10 mm", "Tipo de velocidade: variável (2 velocidades)", "Rotação (rpm): 0 - 450/min - 1.400/min", "Sistema de reversão: reversível", "Torque máximo: 10,3 N.m", "Capacidade máxima de perfuração: - em aço: 14,0 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - 18F4-GWS 25-230",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/5TTnPCV/18f4-gws-25-230.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Este modelo traz o interruptor Tri-Control, que evita acionamento involuntário da esmerilhadeira, aumentando a segurança do operador. Esta ferramenta é produzida no Brasil, sendo facilmente reparável, uma vez que grande parte das peças de reposição são intercambiáveis entre o modelo antigo e a nova família. Além de leve, vem com punho antivibração, permitindo aumento do controle da ferramenta durante o uso e mais conforto ao operador.", "Capacidade (disco): 9” - 230 mm", "Potência: 2.500 W", "Rotação (rpm): 6.500/min", "Rosca do eixo: M 14", "Tipo de velocidade: fixa", "Número de posições de ajuste do punho: 2 posições", "Ajuste do cabo: fixo", "Acompanha: capa de proteção, punho auxiliar antivibração e chave de aperto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - 18F2-GWS2200-230",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pv4TV0x/18f2-gws2200-230.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Este modelo traz o interruptor Tri-Control, que evita acionamento involuntário da esmerilhadeira, aumentando a segurança do operador", "Capacidade (disco): 9” - 230 mm", "Potência: 2.200 W", "Rotação (rpm): 6.500/min", "Rosca do eixo: M 14", "Tipo de velocidade: fixa", "Número de posições de ajuste do punho: 2 posições", "Ajuste do cabo: fixo", "Acompanha: 1 punho auxiliar, 1 chave de aperto, 1 porca de apoio, 1 porca de aperto e 1 capa protetora"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - 18F3-GWS25-180",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/yg9JVHt/18f3-gws25-180.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "A esmerilhadeira 2.500 W mais leve no mercado e com a melhor proporção entre potência e peso. Fácil de reparar, grande parte das peças de reposição são intercambiáveis entre a ferramenta atual e a nova família.", "Capacidade (disco): 7” - 180 mm", "Potência: 2.500 W", "Rotação (rpm): 8.500/min", "Rosca do eixo: M 14", "Tipo de velocidade: fixa", "Número de posições de ajuste do punho: 3 posições", "Ajuste do cabo: fixo", "Acompanha: 1 punho auxiliar, 1 chave de aperto, 1 porca de apoio, 1 porca de aperto e 1 capa protetora"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - 18F1-GWS220-180",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/stPzqGQ/18f1-gws220-180.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para corte, desbaste e acabamento em superfícies metálicas", "Este modelo traz o interruptor Tri-Control, que evita acionamento involuntário da esmerilhadeira, aumentando a segurança do operador", "Capacidade (disco): 7” - 180 mm", "Potência: 2.200 W", "Rotação (rpm): 8.500/min", "Rosca do eixo: M 14", "Tipo de velocidade: fixa", "Número de posições de ajuste do punho: 2 posições", "Ajuste do cabo: fixo", "Acompanha: capa de proteção, 1 punho auxiliar e 1 chave de aperto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - 17E0 - GWS 13-125 CI",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/PrVzd3h/17eo-gws-13-125-ci.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para corte, desbaste e acabamento em superfícies metálicas", "Possui motor Constant Electronic que garante o número de rotações constante, inclusive com carga. Conta ainda com KickBack Stop (microprocessadores que desligam a máquina assim que detectam o travamento do disco), proteção de ligação que evita que a ferramenta volte a ligar sozinha após ser desconectada da fonte de alimentação e engrenagens helicoidais, garantindo alto torque, menor ruído e maior durabilidade.", "Capacidade (disco): 5” - 125 mm", "Potência: 1.300 W", "Rotação (rpm): 11.500/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 1 posição", "Acompanha: punho auxiliar, conjunto de flange de aperto, capa de proteção e chave para troca de disco"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - GWS 9 -125S",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/2dvPPnJ/gws-9-125s.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para realização de cortes e desbastes em materiais metálicos, como ferro e aço. Também pode ser utilizada para corte em alvenaria e concreto. A Esmerilhadeira GWS 9-125 S é indicada para uso industrial. Trabalho intenso.", "A Esmerilhadeira Angular Bosch GWS 9-125 S conta com capa de proteção de 5” - 125 milímetros com sistema de fixação por meio de parafuso, que garante que a capa não se desloque em caso de rompimento do disco, dando mais segurança ao operador da ferramenta. Conta também com empunhadura auxiliar e corpo mais delgado em forma redonda. Essas características geram praticidade e trabalhos menos cansativos ao usuário. Seletor de velocidades (6 níveis) para trabalhos em diferentes aplicações e tipos de acessórios, (tais como lixamentos ou aplicações em aço inoxidável). Por ser compacta facilita aplicações em locais de menor tamanho e de difícil acesso. Carcaça de engrenagens em alumínio, extremamente robusta. Interruptor bloqueável.", "Potência: 900 W", "Rotação (rpm): 2.800/min - 11.000/min", "Rosca do eixo: M 14", "Capacidade da esmerilhadeira (disco): 5” - 125 mm", "Tipo de velocidade: variável", "Ajuste do cabo da esmerilhadeira: fixo", "Número de posições de ajuste do punho: 2 posições", "Acompanha: 1 esmerilhadeira, 1 empunhadura lateral, 1 capa de proteção, 1 chave de aperto de disco"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - 1396 - GWS 9-125",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/5YjDS1W/1396-gws-9-125.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para corte, desbaste e acabamento em superfícies metálicas.", "Leve, compacta e ergonômica", "Capacidade (disco): 5” - 125 mm", "Potência: 900 W", "Rotação (rpm): 11.000/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 2 posições", "Segue norma: IEC 60745, CCE 20, DIN 57740, VDE 0740, DIN 44720", "Acompanha: capa de proteção, punho auxiliar e chave 2 pinos"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - 1377.5 - GWS 850",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/h8tPhGW/1377-5-gws-850.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para corte, desbaste e acabamento em superfícies metálicas.", "Leve, compacta e ergonômica", "Capacidade (disco): 4.1/2” - 115 mm", "Potência: 850 W", "Rotação (rpm): 11.000/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 2 posições", "Segue norma: IEC 60745, CCE 20, DIN 57740, VDE 0740, DIN 44720", "Acompanha: capa de proteção, punho auxiliar e chave 2 pinos"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esmerilhadeira Angular - Bosh - GWS 700",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JkFbFrR/gws-700.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para realização de cortes e desbastes em materiais metálicos, como ferro e aço. Utilizada para uso profissional.", "Esmerilhadeira angular profissional GWS 700, com desempenho confiável com qualidade BOSCH. Extraordinária capacidade de sobrecarga ao nível dos trabalhos difíceis. Com design compacto e fino para um fácil manuseamento. Conta com interruptor bloqueável.", "Capacidade (disco): 4.1/2” - 115 mm", "Potência: 700 W", "Rotação (rpm): 12.000/min", "Rosca do eixo: M 14", "Número de posições de ajuste do punho: 2 posições", "Acompanha: 1 punho auxiliar e 1 chave 2 pinos"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Retificadeira Reta - Bosh - 1224 - GGS 28 L",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/7zFbNcX/1224-ggs-28l.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para retíficas, matrizes, moldes, furos e engrenagens.", "Compacta, com formato ergonômico e de fácil manuseio, reduz a fadiga do operador e garante o controle efetivo da ferramenta. Possui sistema de ventilação otimizado que assegura o resfriamento do motor, pescoço em alumínio com revestimento em borracha, além de interruptor de 2 estágios que proporciona mais praticidade e segurança (conforme norma ABNT IEC 60745-2-3).", "Potência: 500 W", "Rotação (rpm): 33.000/min", "Diâmetro da pinça: 1/4” - 6,3 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 pinça 1/4”, 1 chave de boca, 1 porca de aperto e 1 alfinete"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Lixadeira Roto-Orbital - Bosh - 1387.5 - GEX 125",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HtwtsK3/1387-5-gex-125.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Lixadeira excêntrica", "Linha Heavy duty. Indicada para lixar a seco madeiras, plásticos, metais, argamassa, assim como superfícies envernizadas", "Possui sistema microfiltro Bosch que recolhe até 90% do pó gerado, mantendo o ambiente mais limpo, além de sistema de velcro microplast, que proporciona fixação rápida e fácil da lixa.", "Capacidade (disco): 5” - 125 mm", "Tipo de velocidade: variável", "Potência: 250 W", "Rotação em vazio (rpm): 7.500/min - 12.000/min", "Oscilação (opm): 15.000/min - 24.000/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 microfiltro, 1 suporte para lixa de 125 mm e 1 folha de lixa de 125 mm"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Lixadeira Orbital-Oscilante - Bosh - 12A8 - GSS 140",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Wx9Y8kg/12a8-gss-140.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para lixamentos e acabamentos em madeiras e derivados, parede, drywall, tinta velha, primer antes do acabamento, entre outros", "Possui design ergonômico com múltiplas opções de agarre, baixa vibração e baixo peso, começo suave, alta eficiência de lixamento, sistema mecânico resistente à poeira e proteção do interruptor", "Potência: 220 W", "Oscilação da lixadeira (opm): 14.000/min", "Comprimento da superfície de lixamento: 112,0 mm", "Largura da superfície de lixamento: 101,0 mm", "Segue norma: IEC 60745, CCE 20, DIN 57740, VDE 0740, DIN 44720", "Acompanha: 3 folhas de lixa"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Politriz Angular - Bosh",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WGWt6qr/politriz-angular.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para polimentos em geral, como: automóveis, motos, móveis, entre outros.", "Possui seletor de velocidade, tamanho reduzido com apenas 405 mm, facilitando o trabalho em locais de difícil acesso e conta ainda com punho em arco, proporcionando maior ergonomia para o operador", "Diâmetro do disco de borracha/PVC: 7” - 180 mm", "Diâmetro da boina de lã: 8” - 203 mm", "Rotação (rpm): 750/min - 3.000/min", "Rosca do eixo: M 14", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-3", "Acompanha: 1 disco de PVC rígido com saliências, 1 boina de lã, 1 punho em arco e 1 conjunto de chaves"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["ref: 1389.0 - GPO 12 CE Tensão: 127 V~ Potência: 1.250 W", "Ref: 1389.0 - GPO 14 CE Tensão: 220 V~ Potência: 1.400 W"]
+                }
+            ]
+        },
         
+        {
+            "titulo": "Plaina - Bosh - GHO 700 - 15A9",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/X3Mj3L6/gho-700-15a9.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para desbastar e plainar madeiras", "Aplainamento controlado devido ao design compacto e ao centro de gravidade otimizado para um aplainamento firme. Possui dupla saída de cavacos.", "Potência: 700 W", "Rotação (rpm): 16.500/min", "Largura de corte: 82,0 mm", "Profundidade de corte por passada: 0 - 2,6 mm", "Profundidade de rebaixo: 9 mm", "Acompanha: 1 saco coletor de pó, guia paralelo e chave"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
         
+        {
+            "titulo": "Serra Circular - Bosh - 157A - GKS 235",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/QFXWGph/157-A-GKS-235.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Heavy duty. Indicada para cortar somente madeiras e derivados.", "Possui design compacto, exclusivo encaixe articulado do cabo de força, ajuste de profundidade de corte e corte em ângulo de até 45º", "Diâmetro da serra indicada: 9.1/4” - 235 mm", "Para lâminas com furo de: 25,4 mm", "Potência: 2.100 W", "Rotação (rpm): 5.000/min", "Capacidade de corte: - 90º: 85,0 mm", "45º: 65,0 mm", "Ângulo de inclinação da serra: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-5", "Acompanha: 1 guia paralelo e 1 disco de serra 235 mm (9.1/4”) com 60 dentes"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V"]
+                }
+            ]
+        },
         
+        {
+            "titulo": "Serra Circular - Bosh - GKS 150",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/j8Dddn7/GKS-150.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para cortar somente madeiras e derivados.", "Fácil de usar, possui visor de corte visível na placa de base, aumentando a precisão do corte, e alça auxiliar robusta, que permite estabilidade no corte. Prática e ergonômica, é compacta, mais forte e mais leve, com o design ergonômico e material robusto, que aumentam sua durabilidade.", "Diâmetro da serra indicada: 7.1/4” - 185 mm", "Potência: 1.500 W", "Rotação (rpm): 6.000/min", "Para lâminas com furo de: 16 mm", "Capacidade de corte 90º: 65,0 mm", "Capacidade de corte 45º: 45,0 mm", "Ângulo de inclinação da serra: até 45º", "Segue norma: IEC 60745, CCE 20, DIN 57740, VDE 0740, DIN 44720", "Acompanha: 1 disco de serra com 24 dentes, 1 guia paralelo e 1 chave allen"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Circular com Mesa - Bosh - GTS 254",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Xxdgff2/gts-254.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para realizar cortes longitudinais e transversais em percurso de corte reto, em madeira dura e macia.", "É possível cortar chapas de alumínio e plástico, desde que sejam usados discos de serra adequados.", "Serra Circular de bancada, potente, com motor de 1.800 W com torque elevado e capacidade de sobrecarga ideal. Mesa com suporte de metal robusto que assegura a estabilidade durante o trabalho. Extensão de mesa de 265 mm com roda deslizante para um maior alcance de corte. Com grande capacidade de corte longitudinal de 545 mm, profundidades de corte de 80 mm a direito e 55 mm em ângulo. A escolha ideal quando são necessários cortes potentes e exatos.", "Potência: 1.800 W", "Diâmetro da lâmina: 10” - 254 mm", "Diâmetro do eixo: 30 mm", "Capacidade de corte 90º: 80 mm", "Capacidade de corte 45°: 55 mm", "Ângulo de inclinação da serra: até 45° (esquerda) e 0° (direita)", "Rotações por minuto (rpm): 4.300/min", "Comprimento da mesa: 690 mm", "Largura da mesa: 620 mm", "Altura da mesa: 1.000 mm", "Acompanha: 1 manual de instruções, 1 disco de 80 dentes, 1 guia para corte em ângulo, 1 chave de aperto/troca de acessório, 1 régua paralela"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tupia de Mão - Bosh",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/cwnH1hk/tupia-de-mao.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Ideal para diversas aplicações em marcenaria e carpintaria, como chanfros, encaixes, ranhuras, rebaixos, entalhes, molduras, contornos e acabamentos em cantos, tanto com madeira quanto em materiais sintéticos.", "Possui carcaça de alumínio resistente e leve, facilitando as operações. Prática e versátil para perfilar, alinhar, ranhurar ou embutir ferragens de portas. Excelente manuseio devido ao formato compacto e à empunhadeira ergonômica com revestimento emborrachado. Conta com microajuste simples e rápido: o seletor e a escala nítida garantem especial precisão nas fresagens.", "Potência: 550 W", "Diâmetro da pinça: 6,0 mm", "Rotação (rpm): 33.000/min", "Acompanha: 1 pinça de 6 mm, 1 guia paralelo e 1 guia copiador"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: 16A0.0D0 - GKF 550  Tensão: 127V", "Ref: 16A0.0E0 - GKF 550   Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Tico-Tico - Bosh - 12A7 - GST 650",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JqgbB0k/12a7-gst-650.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para madeiras, metais, plásticos, entre outros, utilizando a lâmina apropriada.", "Possui número de cursos ajustável para diversos materiais, roda individual de seleção da velocidade para um manuseio simples, além de design compacto, vibrações reduzidas e construção leve para facilidade de uso.", "Potência: 450 W", "Capacidade de corte: - em aço 90º: 3 mm", "em alumínio 90º: 10 mm", "em madeira 90º: 65 mm", "Tipo de encaixe da lâmina: tipo ”U” e tipo ”T”", "Ângulo de inclinação da base: 90º", "Tipo de velocidade: variável", "Número de golpes por minuto (gpm): 800/min - 3.100/min", "Segue norma: IEC 62841 - 1", "Acompanha: 1 chave allen e 1 lâmina para madeira encaixe T-U"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Tico-Tico - Bosh - 12A7-GST 700",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/JKz0yz7/12a7-gst-700.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Linha Standart. Indicada para madeiras, metais, plásticos, entre outros, utilizando a lâmina apropriada.", "Possui ação pendular de 4 estágios, velocidade variável e seleção de pré-velocidade. Permite a troca da lâmina sem chave (sistema SDS).", "Potência: 500 W", "Capacidade de corte: - em aço 90º: 6 mm", "em alumínio 90º: 10 mm", "em madeira 90º: 70 mm", "Tipo de encaixe da lâmina: tipo SDS", "Ângulo de inclinação da base: 45º", "Tipo de velocidade: variável", "Número de golpes por minuto (gpm): 1.450/min - 3.200/min", "Segue norma: IEC 60745, CCE 20, DIN 57740, VDE 0740, DIN 44720", "Acompanha: 1 lâmina de serra, 1 chave allen e 1 proteção anticavaco"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Sabre - Bosh - GSA 120",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/k2VGScr/gsa-120.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para moldar materiais plásticos, aplicar películas, trabalhos com artesanatos, remover tintas, fixação ou remoção de etiquetas, colagem e secagem de vidros, secar e remover adesivos, aplicação e remoção de papéis de parede, entre outras aplicações.", "Possui ”Termo Stop”, que desliga o aparelho em caso de altas temperaturas. Conta com 3 níveis para ajuste da vazão de ar 150 - 300 - 500 L/min independente do controle da temperatura, e ajuste da temperatura de 50ºC a 630ºC, para adequação do material e superfície que será trabalhada. Nível padrão/inicial de 50ºC de temperatura, para trabalhos em superfícies e materiais sensíveis e/ou frágeis. ”Soft Grip”, punho emborrachado para maior conforto do usuário, proporcionando maior firmeza no empunhamento, não escorrega. Display digital que mostra claramente a temperatura pré-selecionada ou o nível de temperatura que se está trabalhando.", "Número de estágios: 3 estágios", "Segue norma: IEC 60745-2-1", "1º ESTÁGIO", "Potência 1° estágio: 2.000 W", "Temperatura 1º estágio: 50°C a 630°C", "Fluxo de ar 1º estágio: 150 Litros/min", "2º ESTÁGIO", "Potência 2º estágio: 2.000 W", "Temperatura 2º estágio: 50°C a 630°C", "Fluxo de ar 2º estágio: 300 Litros/min", "3º ESTÁGIO", "Potência 3º estágio: 2.000 W", "Temperatura 3º estágio: 50°C a 630°C", "Fluxo de ar 3º estágio: 500 Litros/min"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:","127V", "220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Soprador Térmico - Bosh - 12A6.2E0 - GHG 20-63",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/6PnLQM5/12a62e0-ghg-20-63.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para moldar materiais plásticos, artesanatos e remover tintas", "Possui proteção contra sobreaquecimento, proporcionando mais segurança ao usuário em caso de bloqueio do fluxo de ar e fazendo com que a ferramenta reinicie em 15 segundos. Conta com tampa de isolamento térmico, garantindo que o usuário não possa tocar nos elementos de aquecimento. Acompanha bico redutor.", "Número de estágios: 3 estágios", "1º ESTÁGIO", "Temperatura 1º estágio: 60ºC", "Fluxo de ar 1º estágio: 350 Litros/min", "2º ESTÁGIO", "Temperatura 2º estágio: 350ºC", "Fluxo de ar 2º estágio: 300 Litros/min", "3º ESTÁGIO", "Temperatura 3º estágio: 550ºC", "Fluxo de ar 3º estágio: 500 Litros/min"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão:", "220V", "Produto com certificação Compulsória, conforme Portaria Inmetro n° 371 de 29/12/2009 com foco nos requisitos de segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro."]    
+                }
+            ]
+        },
+
+        {
+            "titulo": "Soprador Térmico - Bosh",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/PNDg2Yj/soprador-termico.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para moldar materiais plásticos, artesanatos e remover tintas", "Possui proteção contra sobreaquecimento, proporcionando mais segurança ao usuário em caso de bloqueio do fluxo de ar e fazendo com que a ferramenta reinicie em 15 segundos. Conta com tampa de isolamento térmico, garantindo que o usuário não possa tocar nos elementos de aquecimento. Acompanha bico redutor.", "Número de estágios: 3 estágios", "1º ESTÁGIO", "Temperatura 1º estágio: 60ºC", "Fluxo de ar 1º estágio: 350 Litros/min", "2º ESTÁGIO", "Temperatura 2º estágio: 350ºC", "Fluxo de ar 2º estágio: 300 Litros/min", "3º ESTÁGIO", "Temperatura 3º estágio: 550ºC", "Fluxo de ar 3º estágio: 500 Litros/min"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["ref: 194DOD Tensão: 127 V~ Potência 1º estágio: 1.600 W Potência 2º estágio: 1.600 W potência 3º estágio:1.600 W", "ref: 19DOE Tensão: 220 V~ Potência 1º estágio: 1.800 W Potência 2º estágio: 1.800 W potência 3º estágio:1.800 W", "Produto com certificação Compulsória, conforme Portaria Inmetro n° 371 de 29/12/2009 com foco nos requisitos de segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro."]
+                }
+            ]
+        },
+
+        
+
         
         
 
