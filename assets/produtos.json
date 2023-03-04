@@ -2754,6 +2754,484 @@
             ]
         },
 
+        {
+            "titulo": "Martelete Perfurador Rompedor - DeWalt - D 25133 KBR - D 25133 KB2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/f8ZfDqj/D-25133-KBR-D-25133-KB2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para perfurar e romper concreto e alvenaria. Utilizando haste adaptadora tipo SDS Plus e mandril adequado, pode perfurar madeira, metal, plástico, entre outros. Não acompanha haste e mandril. Na função rompedor, deve ser utilizado somente para pequenas operações.", "Possui interruptor eletrônico com velocidade variável, que permite o controle da rotação da máquina, possibilitando, por exemplo, iniciar uma perfuração com baixa rotação e aumentar gradativamente conforme a necessidade. Rotação com ou sem impacto e função rompedor, adequando-se às diferentes necessidades de uso. Seu sistema de encaixe tipo SDS PLUS facilita a troca rápida do acessório e o sistema reversível auxilia na retirada da broca caso a mesma trave durante a perfuração.", "Tipo de encaixe: tipo SDS PLUS", "Potência: 800 W", "Força de impacto: 2,9 J", "Impacto por minuto (ipm): 0 - 5.550/min", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Rotação (rpm): 0 - 1.500/min", "Capacidade máxima de perfuração: - em concreto: 26,0 mm", "em madeira: 30,0 mm", "em aço: 13,0 mm", "Ajuste do sistema de trabalho: rotação / rotação com impacto / impacto", "Acompanha: 1 punho auxiliar, 1 limitador de profundidade e 1 maleta plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: D 25133 KBR Tensão:127V", "Ref: D 25133 KB2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Martelo Rompedor - DeWalt - D 25832K B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/5h2q3Sy/D-25832-K-B2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para remoção de pisos e rebocos em trabalhos de demolição", "Possui controle de velocidade variável e sistema antivibração, com empunhadura emborrachada", "Potência: 1.350 W", "Impacto por minuto (ipm): 1.450/min - 2.900/min", "Força de impacto: 10,5 J", "Tipo de encaixe: encaixe tipo SDS MAX", "Massa aproximada: 7,4 kg", "Acompanha: 1 maleta e 1 punho auxiliar"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: D 25832K B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Mármore - DeWalt - DW 862 BSBR - DW 862 BSB2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/C8rwPmq/DW-862-BSBR-DW-862-BSB2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar mármore, granito, concreto, alvenaria, telha, tijolo, ardósia, pedras em geral, entre outros, utilizando disco de corte apropriado para cada material. Não indicada para cortes em madeira.", "Equipamento com alta performance, potência e durabilidade. Totalmente rolamentada, possui motor com dupla isolação, garantindo maior segurança ao operador, e base com regulagem, para limitação da profundidade de corte.", "Diâmetro do disco: 4.3/8” - 110 mm", "Potência: 1.270 W", "Capacidade de corte 90º: 34,0 mm", "Diâmetro do eixo: 20,0 mm", "Ângulo de inclinação: base fixa", "Rotação (rpm): 13.000/min", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR 15910", "Massa aproximada: 3,0 kg", "Acompanha: 1 chave de aperto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DW 862 BSBR Tensão:127V", "Ref: DW 862 BSB2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra de Esquadria - DeWalt - DW 714 BR - DW 714 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/m4fCY2r/DW-714-BR-DW-714-B2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar madeiras e similares. Pode cortar alumínio utilizando o disco apropriado.", "Possui base giratória para cortes em ângulo de 0º a 50º para ambos os lados e braço (cabeça de corte) com regulagem de inclinação de -3º a 48º para a esquerda", "Diâmetro da serra indicada: 10” - 250 mm", "Potência: 1.600 W", "Rotação (rpm): 5.000/min", "Para lâminas com furo de: 16 mm", "Capacidade de corte: com a base em 0º e com a cabeça de corte em 90º: largura 162 mm x altura 89 mm", "Ângulo de inclinação: base com ângulo de 50º", "Acompanha: 1 lâmina de serra, 1 coletor de pó e 1 chave de aperto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DW 714 BR Tensão:127V", "Ref: DW 714 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra de Esquadria - DeWalt - DWS 715 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/CvRqP0L/DWS-715-B2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar madeiras e derivados. Pode cortar alumínio utilizando o disco apropriado.", "Possui base giratória para cortes em ângulo de 0º a 45º e potente motor com arranque progressivo. Conta com sistema de esquadria preciso, mesa, base e grade usinadas para otimizar a precisão de corte; escala de ângulos do braço com 3 paradas; placa de retenção de ângulo sobreposta em aço inox com 11 paradas, permitindo ajuste fino e ângulos precisos. Possui ainda travamento da mesa para posicionamento rápido e preciso da esquadria, e empunhadeira horizontal, que proporciona mais conforto durante a operação.", "Diâmetro da serra indicada: 12” - 300 mm", "Potência: 1.600 W", "Rotação (rpm): 4.000/min", "Para lâminas com furo de: 1”", "Capacidade de corte:", "com a base em 0º e com a cabeça de corte em 90º: largura 165 mm x altura 89 mm", "com a base em 45º e com a cabeça de corte em 90º: largura 120 mm x altura 89 mm", "com a base em 0º e com a cabeça de corte em 45º: largura 140 mm x altura 66 mm", "com a base em 45º e com a cabeça de corte em 45º: largura 170 mm x altura 58 mm", "Ângulo de inclinação: base com ângulo de 48º a esquerda", "Acompanha: 1 lâmina de serra , 1 coletor de pó e 1 chave dupla (soquete 13 mm, torx 30)"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DWS 715 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Esqiadria com Braço Telescópico - DeWalt - DWS 780 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/K6DbBQP/DWS-780-B2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar madeiras e derivados. Pode cortar alumínio utilizando o disco apropriado.", "Possui motor potente e durável com freio elétrico. Conta com LED XPR™ sistema de iluminação com LED integrado que indica o posicionamento preciso e visível da linha de corte e sistema de contenção de pó supereficiente que coleta mais de 75% da poeira gerada. Leve e compacta possui alça integrada, facilitando o transporte e a armazenagem.", "Conta ainda com trilho horizontal duplo (braço telescópico) em aço com inovador sistema de grampo e rolamentos lineares, entregando uma serra precisa, durável e compacta; sistema de esquadria preciso, mesa, base e grade usinadas que otimizam a durabilidade e a precisão do corte; escala de ângulo do braço com 3 paradas; placa de retenção de ângulo sobreposta em aço inox com 10 paradas, que permite ajuste fino e ângulos precisos; travamento da mesa para o posicionamento rápido e preciso da esquadria; desenho inovador da caixa de engrenagem e transmissão por correia, melhorando a capacidade de cortes verticais.", "Diâmetro da serra indicada: 12” - 300 mm", "Potência: 1.675 W", "Rotação (rpm): 3.800/min", "Para lâminas com furo de: 1”", "Capacidade de corte:", "com a base em 0º e com a cabeça de corte em 90º: largura 345 mm x altura 76 mm", "com a base em 45º e com a cabeça de corte em 90º: largura 244 mm x altura 76 mm", "com a base em 0º e com a cabeça de corte em 45º: largura 345 mm x altura 44 mm", "com a base em 45º e com a cabeça de corte em 45º: largura 345 mm x altura 28 mm", "Ângulo de inclinação: base com ângulo de 50º", "Acompanha: 1 lâmina de serra 12’’ 60 dentes ATB, 1 morsa vertical, 1 coletor de pó e 1 chave dupla - soquete 13 mm / Torx 30"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DWS 780 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Circular - DeWalt - DWE 560 BR - DWE 560 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/C8Z04Qc/dwe-560-br-dwe-560-b2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar somente madeiras e derivados. Utilizada em marcenarias, carpintarias, fábricas de móveis, tapeçarias, instaladores, departamentos de manutenção e construção civil.", "Possui guarda super-resistente de 3 mm de espessura, sistema de travamento do disco mais robusto, alavanca de ajuste rápido de profundidade, sistema de guarda inferior com sistema retrátil de alta durabilidade. Desenho de guarda com proteção que permite cortes em todos os ângulos.", "Diâmetro da serra indicada: 7.1/4” - 185 mm", "Potência: 1.400 W", "Rotação (rpm): 5.500/min", "Para lâminas com furo de: 16 mm", "Capacidade de corte: - 90º: 65,0 mm", "45º: 47,0 mm", "Ângulo de inclinação da serra: base com inclinação de até 45º", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-5", "Acompanha: 1 lâmina de serra e 1 chave"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DWE 560 BR Tensão:127V", "Ref: DWE 560 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Circular com Mesa - DeWalt - DWE 7492 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/hYrc4GS/dwe-7492-b2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortar madeiras e derivados", "Realiza cortes transversais, longitudinais, cortes em esquadrias e biselamento de modo versátil", "Potência: 2.000 W", "Rotação (rpm): 4.800/min", "Para lâminas com furo de: 30 mm", "Ângulo de inclinação da serra: até 45°", "Diâmetro da serra indicada: 250 mm", "Capacidade de corte: - 90º: 77 mm", "45º: 55 mm", "Comprimento da mesa: 560,0 mm", "Largura da mesa: 825,0 mm", "Altura da mesa: 500,0 mm", "Acompanha: 1 lâmina de serra com 24 dentes, 1 chave de eixo, 1 chave de pino, 1 régua de corte, 1 proteção para lâmina, 1 suta e 1 suporte"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DWE 7492 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tupia Laminadora - DeWalt - DWE 6000 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/W3fkzTQ/dwe-6000-br.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortes e acabamentos em fórmicas e entalhes em madeira", "Possui trava do eixo e ajuste de profundidade", "Potência: 450 W", "Diâmetro da pinça: 6,0 mm e 1/4”", "Tipo de velocidade: direta", "Rotação (rpm): 30.000/min", "Segue norma: ABNT NBR IEC 60745-1 e IEC 60745-2-17", "Acompanha: 1 guia paralela e 2 pinças (6 mm e 1/4”)"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DWE 6000 BR Tensão:127V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Serra Tico-Tico - DeWalt - DWE 300 BR - DWE 300 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/t3FVmD7/dwe-300-br-dwe-300-b2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para cortes em madeira, metal, plástico, entre outros, utilizando a lâmina apropriada. Possui ação orbital com movimento de lâmina mais rápido e agressivo, projetada para cortes em materiais mais macios, como plástico ou madeira.", "Possui 6 velocidades garantindo alta eficiência e qualidade ao trabalho e dispõe de sapata ajustável com inclinação para direita ou esquerda até 45°.", "Potência: 650 W", "Capacidade de corte: - em aço 90º: 10 mm", "em alumínio 90º: 20 mm", "em madeira 90°: 130 mm", "Tipo de encaixe da lâmina: tipo ”T”", "Ângulo de inclinação da base: 45º", "Tipo de velocidade: variável - 6 velocidades (1, 2, 3, 4, 5 e máxima)", "Número de golpes por minuto (gpm): 0 - 3.200/min", "Acompanha: 1 lâmina e 1 protetor da base"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DWE 300 BR Tensão:127V", "Ref: DWE 300 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Soprador termico - DeWalt - D26411 BR - D26411 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/F6XCWz5/d26411-br-d26411b2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para moldar materiais plásticos, artesanatos e remover tintas", "Possui suporte que permite utilizar o equipamento apoiado, interruptor com controle de temperatura e desligamento automático do aparelho em altas temperaturas para evitar queima", "Número de estágio: 2 estágios", "Acompanha: 2 bocais, sendo: 1 plano e 1 ponta", "1° ESTÁGIO", "Temperatura 1º estágio: - 127 V~: 50º C - 400º C", "220 V~: 50º C - 600º C", "Fluxo de ar 1º estágio: 250 litros/min", "2° ESTÁGIO", "Potência 2º estágio: - 127 V~: 1.550 W", "220 V~: 2.000 W", "Temperatura 2º estágio: - 127 V~: 50º C - 400º C", "220 V~: 50º C - 600º C", "Fluxo de ar 2º estágio: 500 litros/min", "Produto com certificação Compulsória, conforme Portaria Inmetro n° 371 de 29/12/2009 com foco nos requisitos de segurança. Certificado pelo Organismo de Certificação de Produto SGS ICS Certificadora Ltda, n° 0040, acreditado pelo Inmetro."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: D26411 BR Tensão:127V", "Ref: D26411 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Soprador/Aspirador Elétrico - DeWalt - DWB 800 BR - DWB 800 B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/5Kz1Mf0/dwb-800-br-dwb-800-b2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Ideal para limpeza de quintal e galpões e sucções leves. Uso indicado após o corte de gramas, folhas secas e outros detritos.", "Possui velocidade variável para um melhor controle e interruptor com bloqueio para fácil utilização durante longas horas de trabalho. Conta também com empunhadura emborrachada, para um maior controle e conforto.", "Potência: 800 W", "Volume de saída de ar: 270 m³/h", "Rotação (rpm): 0 - 16.000/min", "Acompanha: 1 bico e 1 saco coletor"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DWB 800 BR Tensão:127V", "Ref: DWB 800 B2 Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira a Bateria - DeWalt - DCF 620 D2-BR - DCF 620 D2-B2",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/kcKYQ9d/dcf-620-d2-br-dcf-620-d2-b2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": [" Indicada para fixar e soltar parafusos. Utilizada na aplicação de drywall.", "Mais leve, menor e mais potente. Nova geração Brushless, com motor sem escova de carvão, que controla eletronicamente a transferência de energia de forma eficiente dentro da ferramenta, permitindo funcionamento por mais tempo entre as cargas.", "Bateria: 20 V - Íons de lítio", "Rotação (rpm): 0 - 4.400/min", "Tipo do encaixe: sextavado - 1/4”", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-1", "Acompanha: 2 baterias de 20 V, 1 carregador e 1 clip para cinto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DCF 620 D2-BR Tensão do carregador de bateria:127V", "Ref: DCF 620 D2-B2 Tensão do carregador de bateria: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira a Bateria - DeWalt - DCF 809 D2 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3sjK1N9/dcf-809-d2-br.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para fixar e soltar parafusos", "Este kit de parafusadeira de impacto ultra compacta, sem fio e sem escova de carvão, inclui 2 baterias de íons de lítio 20 V MAX, um carregador e uma bolsa de nylon. Com apenas 130 mm de comprimento, possui motor sem escova de carvão de alto desempenho que fornece 360 N.m de torque e 3 luzes LED para iluminar bem enquanto você trabalha. Para maior conforto, o corpo da ferramenta possui um design ergonômico, oferecendo maior equilíbrio e controle, juntamente com um clipe de cinto.", "Bateria: 20 V - íons de lítio", "Rotação (rpm): 0 - 2.800/min", "Tipo do encaixe: sextavado - 1/4” - 6,35 mm", "Acompanha: 2 baterias de 20 V, 1 carregador bivolt, 1 bolsa de nylon e 1 clip para cinto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DCF 809 D2 BR Tensão do carregador de bateria:127V", "Ref: DCF 809 D2 BR Tensão do carregador de bateria: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira a Bateria - DeWalt - DCF 008 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/kSZwRh8/dcf-008-br.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para fixações leves de parafusos e porcas", "Compacta e prática, possui bateria de íons de lítio integrada, que confere alta eficiência de operação. Conta ainda com LED mais potente, que facilita o trabalho em locais com pouca iluminação, via cabo USB.", "Bateria: 8 V - íons de lítio integrada", "Rotação (rpm): velocidade 1 : 180/min /", "velocidade 2 : 600/min", "Tipo do encaixe: sextavado - 1/4” - 6,35 mm", "Segue norma: ABNT NBR IEC 60745-1 e ABNT NBR IEC 60745-2-2", "Acompanha: 1 carregador bivolt, 45 acessórios diversos e 1 maleta plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DCF 008 BR Tensão do carregador de bateria:127V", "Ref: DCF 008 BR Tensão do carregador de bateria: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira de Impacto - DeWalt - DCF 7871 D2 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0ZPgwgB/dcf-7871-d2-br.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para fixar e soltar parafusos que necessitam de alto torque, entre outros.", "Com a tecnologia sem escovas de carvão BRUSHLESS, a Parafusadeira de Impacto sem fio 20V MAX DEWALT conta com muito mais eficiência, proporcionando mais tempo de uso e menos manutenções.", "Bateria: 20 V", "Rotação (rpm): 0 - 2.800/min", "Tipo do encaixe: sextavado - 1/4” - 6,35 mm", "Tipo de velocidade: variável", "Sistema de reversão: reversível", "Acompanha: 1 carregador de bateria bivolt, 2 baterias 2 Ah, 1 caixa plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Ref: DCF 7871 D2 BR", "Tensão: 127V", "Tensão: 220V"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira a Bateria - DeWalt - DCD 7771 D2 MOTOR BRUSHLESS",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/YthsQtc/dcd-7771-d2-motor-brushless.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para soltar, apertar parafusos e fazer furos em madeiras ou metais.", "Com a tecnologia sem escovas de carvão (BRUSHLESS), a Parafusadeira/Furadeira sem fio de 20 V MAX DEWALT conta com muito mais eficiência, proporcionando mais tempo de uso e menos manutenções.", "Bateria: 20 V - 2.0 Ah - Íons de lítio", "Capacidade do mandril: 1/2” - 13,0 mm", "Tipo de velocidade: variável (2 velocidades)", "Tipo de mandril: aperto rápido", "Rotação (rpm): 0 - 500/min / 0 - 1.750/min", "Sistema de reversão: reversível", "Capacidade máxima de perfuração:", "em aço: 13 mm", "em madeira: 25 mm", "Acompanha: 1 carregador de bateria bivolt, 2 baterias 2 Ah, 1 caixa plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão do carregador de bateria: Bivolt"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira a Bateria - DeWalt - DCD 708 D2 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/SrJ5Y2v/dcd-708-d2-br.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para soltar e apertar parafusos e porcas e fazer furos em madeiras ou metais", "Este kit de furadeira/parafusadeira ultra compacta sem fio e sem escova de carvão inclui 2 baterias de íons de lítio 20 V MAX, carregador e bolsa de nylon. Possui apenas 160 mm de comprimento e motor brushless de alto desempenho, oferece saídas de 340 unidades de watts (UWO). O LED fornece uma iluminação ideal em espaços escuros. O corpo do produto é ergonomicamente projetado para maior conforto, equilíbrio e controle da ferramenta. Conta ainda com clipe de cinto.", "Bateria: 20 V máximo - 2 Ah - Íons de lítio", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável (2 velocidades)", "Tipo de mandril: aperto rápido", "Rotação: 0 - 500/min / 0 - 1.650/min", "Sistema de reversão: reversível", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 28,0 mm", "Acompanha: 2 baterias, 1 carregador de baterias bivolt, 1 bolsa de nylon e 1 clipe do cinto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão do carregador de bateria: Bivolt"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira a Bateria - DeWalt - DCD 700 LC1 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HGNQ6fW/DCD-700-LC1-BR.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para soltar e apertar parafusos e fazer furos em madeiras ou metais", "Possui 16 posições de torque para todo tipo de trabalho, transmissão de duas velocidades para inúmeras aplicações, maior durabilidade para uso constante e prolongado, além de design compacto para trabalhos em lugares pequenos. De fácil manuseio, conta também com luz de LED para melhor visibilidade em locais escuros e bateria de íons de lítio, que não possui efeito memória e carrega em pouco tempo.", "Bateria: 12 V máximo - Íons de lítio", "Capacidade do mandril: 3/8” - 10 mm", "Tipo de velocidade: variável (2 velocidades)", "Tipo de mandril: aperto rápido", "Rotação (rpm): 0 - 400/min / 0 - 1.500/min", "Sistema de reversão: reversível", "Capacidade máxima de perfuração:", "em aço: 10,0 mm", "em madeira: 19,0 mm", "Segue norma: ABNT NBR IEC 60745-2-1:2009", "Acompanha: 1 bateria 12 V (1,3 Ah) e 1 carregador de bateria 12 V bivolt (127 V~ - 220 V~"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão do carregador de bateria: Bivolt"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira com Impacto a Bateria - DeWalt - DCD 7781 L1 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/wLBnRk5/DCD-7781-L1-BR.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para perfuração e aparafusamento de alto desempenho em alvenaria, madeira, metal e plástico.", "Leve, compacta e ergonômica. Possui empunhadura emborrachada, velocidade variável e reversível, mandril de aperto rápido com catraca, gancho para cinto e motor BRUSHLESS, que garante maior eficiência e menor manutenção. Bateria de 3 Ah, proporcionando maior tempo de operação.", "Bateria: 20 V - 3,0 Ah - Íons de lítio", "Tipo de mandril: aperto rápido", "Capacidade do mandril: 1/2” - 13 mm", "Sistema de reversão: reversível", "Tipo de velocidade: variável (2 velocidades)", "Rotações por minuto (rpm): 0 - 500/min / 0 - 1.750/min", "Capacidade máxima de perfuração:", "em aço: 13 mm", "em madeira: 38 mm", "no concreto/alvenaria: 13 mm", "Acompanha: 1 carregador de baterias (bivolt), 1 bateria 20 V MAX 3 Ah e 1 bolsa para transporte"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão do carregador de bateria: Bivolt Automático"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira - DeWalt - DCD 7781 D1 BR MOTOR BRUSHLESS",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/YQHXrt9/DCD-7781-D1-BR.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para perfuração e aparafusamento de alto desempenho em alvenaria, madeira, metal e plástico.", "Leve, compacta e ergonômica. Possui empunhadura emborrachada, velocidade variável e reversível, mandril de aperto rápido com catraca, gancho para cinto e motor BRUSHLESS, garantindo maior eficiência e menor manutenção.", "Bateria: 20 V - 2,0 Ah - Íons de lítio", "Tipo de mandril: aperto rápido", "Capacidade do mandril: 1/2” - 13 mm", "Sistema de reversão: reversível", "Tipo de velocidade: variável (2 velocidades)", "Rotações por minuto (rpm): 0 - 500/min / 0 - 1.750/min", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 25,0 mm", "no concreto/alvenaria: 6,5 mm", "Acompanha: 1 carregador de baterias (bivolt), 1 bateria 20 V MAX 2.0 Ah e 1 bolsa para transporte"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão do carregador de bateria: Bivolt Automático"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira - DeWalt - DCD 7781 D2 BR MOTOR BRUSHLESS",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/hYgbNh1/DCD-7781-D2-BR.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para soltar e apertar parafusos, e fazer furos em madeiras ou metais.", "Motor Brushless sem escovas de carvão, mandril de ajuste rápido, interruptor de velocidade variável, design leve e compacto, luz LED.", "Bateria: 20 V - 2,0 Ah - Íons de lítio", "Tipo de mandril: aperto rápido", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável (2 velocidades)", "Sistema de reversão: reversível", "Rotações por minuto (rpm): 0 - 500/min - 0 - 1.750/min", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 25,0 mm", "no concreto/alvenaria: 13,0 mm", "Acompanha: 1 carregador de bateria bivolt, 2 baterias 2 Ah, 1 caixa plástica"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão do carregador de bateria: Bivolt Automático"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira com Impacto a Bateria - DeWalt - DCD 709 D2 BR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/wy2KB12/709-d2-br.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para soltar e apertarparafusos e porcas e fazer furosem madeiras ou metais,na função sem impacto, e emalvenaria, na função com impacto","Este kit de furadeira/parafusadeira ultra compactasem fio e sem escova de carvão inclui 2 baterias de íonsde lítio 20 V MAX, carregador e bolsa de nylon. Possuiapenas 160 mm de comprimento e motor brushlessde alto desempenho, oferece saídas de 340 unidadesde watts (UWO). O LED fornece uma iluminaçãoideal em espaços escuros. O corpo do produto éergonomicamente projetado para maior conforto,equilíbrio e controle da ferramenta.Conta ainda com clipe de cinto.","Bateria: 20 V máximo - 2 Ah - Íons de lítio","Capacidade do mandril: 1/2” - 13 mm","Tipo de velocidade: variável (2 velocidades)","Tipo de mandril: aperto rápido","Rotação: 0 - 500/min / 0 - 1.650/min","Sistema de reversão: reversível","Capacidade máxima de perfuração:","em aço: 13,0 mm","em madeira: 28,0 mm","no concreto/alvenaria: 13,0 mm","Acompanha: 2 baterias, 1 carregador debaterias bivolt, 1 bolsa de nylon e 1 clipe do cinto"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Tensão do carregador de bateria: Bivolt Automático"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Parafusadeira/Furadeira com Impacto a Bateria - DeWalt - DCD 776B B3 SEM CARREGADOR E SEM BATERIA",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Dpx38zL/DCD-7768-B3.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para perfuração e parafusamento de alto desempenho em alvenaria, madeira, metal e plástico", "Possui tamanho compacto e baixo peso, que permitem parafusar em áreas de difícil acesso e reduzem a fadiga do operador. Motor que permite a substituição das escovas de carvão, LED para ambientes escuros e empunhadura emborrachada.", "Capacidade do mandril: 1/2” - 13 mm", "Tipo de velocidade: variável (2 velocidades)", "Tipo de mandril: aperto rápido", "Rotação: 0 - 450/min / 0 - 1.500/min", "Sistema de reversão: reversível", "Capacidade máxima de perfuração:", "em aço: 13,0 mm", "em madeira: 30,0 mm", "no concreto/alvenaria: 13,0 mm", "Segue norma: ABNT NBR IEC 60745-1", "Não acompanha bateria e carregador de bateria"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Multiferramenta Oscilante a Bateria - DeWalt - DCS 356 B SEM BATERIA E SEM CARREGADOR",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/jL5wYhB/DCS-356-B.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para lixar, serrar, raspar e cortar madeira, placas de gesso, plásticos macios e metais", "Possui motor Brushless (sem escova de carvão). Conta com sistema de acessórios Quick-Change, que permite trocar as lâminas de maneira rápida e prática, e acionador de velocidade variável Dual-Grip, que fornece melhor controle na operação. Possui ainda luz de LED para melhor iluminação da área de trabalho.", "Bateria: 20 V - Lítio", "Oscilação (opm): 13.000/min - 17.000/min - 20.000/min", "Ângulo de oscilação: 3,2°", "Velocidade variável", "Não acompanha bateria e carregador de bateria", "Acompanha: 2 lâminas de corte para madeira e 1 adaptador universal de acessórios"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Bateria - DeWalt - MAX DCB 127",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pXJX6Ft/max-dcb-127.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para alimentar ferramentas 12 V Dewalt. Possui tempo médio de recarga de 40 minutos, com o carregador DCB107.", "Bateria de íons de lítio, garantindo alta eficiência de operação"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["TIPO: BATERIA DE ÍONS DE LÍTIO", "TENSÃO: 12,0 V", "CAPACIDADE: 2,0 Ah"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Bateria - DeWalt - MAX DCB 200 B3",
+            "segmento": "máquinas",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/FmfpwxW/dcb-200-b3.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para alimentar ferramentas 20 V Dewalt", "Bateria de íons de lítio, garantindo alta eficiência de operação"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["TIPO: BATERIA DE ÍONS DE LÍTIO", "TENSÃO: 20,0 V", "CAPACIDADE: 3,0 Ah"]
+                }
+            ]
+        },
+
         
         
 
