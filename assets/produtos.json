@@ -4846,6 +4846,60 @@
                 }
             ]
         },
+
+        {
+            "titulo": "Folha Bear Tex - Verde - Norton",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/StdjZW4/folha-bear-tex-Verde-g280.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para limpeza pós-obra para remoção de rejunte, tinta e concreto em azulejos e pisos", "São duráveis e resistentes, pois não rasgam e não soltam fibras. A ação flexível da manta produz contato constante e uniforme do produto com a peça trabalhada.", "Medida da folha abrasiva: 100 mm x 260 mm", "Acompanha: 3 folhas Bear Tex"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["grão | emb", "G 280 | 24"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cinta de Lixa - vonder -  100 mm x 610 mm - Madeira/Metal",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/hH7cWBB/cinta-lixa-vonder.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["LARGURA x COMPRIMENTO: 100 mm x 610 mm INDICADO PARA: MADEIRA E METAL", "Indicada para reposição nas Lixadeiras de Cinta LIV 1200 VONDER e LID 1200 DWT e para Lixadeiras de Cinta compatíveis com as dimensões da cinta de lixa. Pode ser usada para lixamentos de madeiras e metais.", "Possui costado de pano que proporciona maior resistência", "Tipo de grão abrasivo: óxido de alumínio", "Tipo de costado: base pano", "Pacote com 10 cintas de lixa"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["grão | emb.", "G 40 | 10", "G 60 | 10", "G 80 | 10", "G 100 | 10", "G 120 | 10"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Suporte/Discos de PVC - Vonder",
+            "segmento": "abrasivos",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/pZQtgFG/suporte-discos.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Suporte para disco de lixa com pluma (sistema fixa fácil).", "Diâmetro 4.1/2” - 115 mm: indicado para uso em esmerilhadeira angular. Pode ser utilizado como peça de reposição no jogo de discos para lixamento, código 12.40.412.000. Rosca M14.", "Diâmetro 7” - 180 mm: indicado para uso em lixadeiras e esmerilhadeiras angulares. Pode ser utilizado como peça de reposição no jogo de discos para lixamento, código 12.40.700.000. Rosca M14.", "Possui rosca metálica para fixação na máquina, proporcionando maior durabilidade", "Material: PVC com sistema fixa fácil"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâmetro | rotação máxima (rpm) | emb", ",4.1/2Pol - 115 mm | 12.500/min | 25", ",7Pol - 180 mm | 6.500/min | 10"]
+                }
+            ]
+        },
         
         
 
@@ -7762,8 +7816,295 @@
                     "texto": ["RESISTE DE -20ºC ATÉ 150ºC", "Silicone a base dágua, não possui solventes, não possui fortes agentes químicos.", "Não agride o meio ambiente", "Possui excelente resistência ás variações climáticas como temperatura, chuva e raios UV", "Aceita pintura", "Alta flexibilidade", "Pode ser aplicado em torno de janelas, box de banheiros, vitrôs, rodapés, alumínios e vários substratos porosos.", "Descrição 305g", "Cor: Branco"]
                 }
             ]
-        }
+        },
+
+        {
+            "titulo": "Adesivo de Contato - Cascola - SEM TOLUOL",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/7j64nZp/adesivo-de-contato-sem-toluol.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado especialmente para a colagem de laminados decorativos, pisos de borracha, couro, metais, lambris e diversos materiais sintéticos em madeiras compensadas, aglomerados, MDF, HDF, concreto, cimento, entre outros. Não adere materiais à base de polietileno, polipropileno e PTFE (resina antiaderente).", "Aplicação simples, proporcionando total aderência e excelente acabamento", "Tipo de embalagem: lata"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["massa líquida emb.", "195 g 24", "400 g 12", "730 g 12", "2,8 kg 4", "14,0 kg 1"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Adesivo de Contato - Cascola Extra Forte - SEM TOLUOL",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/bRQ43Q9/adesivo-de-contato-sem-toluol-EXTRA-FORTE.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para colar diversos tipos de materiais como lâminas decorativas, couro, tecido, lambris e diversos materiais sintéticos, mdf, hdf, concreto, entre outros. Ideal para Post-Forming (laminado decorativo de alta pressão termo-moldável) e colagem de vidros. Não adere materiais à base de polietileno, polipropileno e PTFE (resina antiaderente).", "Adesivo de alto desempenho e secagem rápida, proporcionando total aderência e excelente acabamento"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["massa líquida tipo de embalagem emb.", "30 g tubo de alumínio - cartela 24", "195 g lata 24", "730 g lata 12", "2,8 kg lata 4", "14,0 kg lata 1"]
+                }
+            ]
+        },
         
+        {
+            "titulo": "Diluente Reducola para CASCOLA - SEM TOLUOL",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HdtNRYJ/diluente-reducola-para-cascola.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para diluição de adesivo de contato", "Cor: incolor"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["volume emb.", "900 ml 12"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cola Branca Extra - VONDER",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/z2NnCW7/cola-branca-vonder.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para colagem de madeiras de baixa e média densidade, tacos, laminados, plásticos, tecidos, papel, cortiça, couro, materiais porosos em geral e também na montagem ou conserto de móveis", "Adesivo a base de PVA com alto grau de aderência, ideal para materiais que requerem durabilidade de colagem a acabamento perfeito, proporciona transparência, alto rendimento e durabilidade da colagem. Alta força de colagem, excelente flexibilidade, não adere materiais à base de Polietileno, Polipropileno e PTFE (resina antiaderente).", "Tipo de embalagem: frasco plástico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["conteúdo da embalagem emb", "500 g 12", "1 kg 12"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Espuma expansiva de Poliuretano - NOVE 54",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dMY7Rtt/espuma-expansiva-nove54.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicada para vedar, fixar, chumbar, selar e calafetar objetos e superfícies, como: caixilhos (batentes) de portas, janelas e ar-condicionado. Também é indicada para isolar tubos de água quente, fixar dutos, juntas de dilatação, entre outros. Fixa sem viscosidade em 40 minutos, dependendo da espessura poderá ser cortada após 1 ou 2 horas da aplicação, porém o tempo total de secagem varia de 4 a 7 horas. Rendimento: até 11 litros.", "Contribui para a eliminação de vibrações e ruídos. Não encolhe e não cede às variações climáticas."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["conteúdo da embalagem emb", "500 ml/340 g 12"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Durepoxi - LOCTITE",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/hWy0NPd/durepoxi-loctite.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para colar e unir materiais, soldar a frio, reparar e fixar. Aplicável em diversos materiais, como: madeira, metal, cerâmica, vidro, concreto, ladrilho, entre outros. Secagem lenta: 2 horas.", "Resiste à temperaturas entre -50ºC e 150ºC"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["massa líquida emb./subemb", "50 g 48/12", "100 g 48/12", "250 g 16"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Durepoxi Branco - LOCTITE",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0MBT1nW/durepoxi-branco-loctite.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para colar e unir materiais, soldar a frio, reparar e fixar. Aplicável em diversos materiais, como: madeira, metal, cerâmica, vidro, concreto, ladrilho, entre outros. Secagem lenta: 2 horas.", "Proporciona acabamento perfeito, não precisa ser pintado. Pode ser utilizado até debaixo d’água. Único do mercado com acabamento branco."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["massa líquida emb", "50 g 48"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "ARALDITE MASSA BICOMPONENTE - Tekbond",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/r6CWzkW/araldite-tekbond.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para colar e unir materiais como: metal, madeira, vidro, cerâmica, cimento, granito, mármore e plástico. Utilizado em diversas aplicações em casa, no artesanato e também na indústria.", "Araldite Massa é uma massa epóxi bicomponente perfeita para diversas aplicações. Seu alto poder de adesão garante um resultado perfeito para fixar, vedar, soldar, reparar, moldar e reconstruir com praticidade, qualidade e durabilidade. Prática, fácil de aplicar e moldar, além de apresentar excelentes propriedades mecânicas após a cura total."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["massa líquida aproximada emb", "50 g 12"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Aplicador para silicone - Vonder - AS 550",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/dJwHvPV/Aplicador-A-550.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para aplicação de silicone. Ideal para tubos de até 300 g/305 ml (massa).", "Possui acabamento pintado, proporcionando maior resistência à corrosão/oxidação, além de prática lâmina acoplada ao cabo para cortar o bico do tubo", "Material: aço carbono"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["emb: 10"]
+                }
+            ]
+        },
+        
+        {
+            "titulo": "Aplicador para silicone - Vonder",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/3Swv8Kw/Aplicador-vonder.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para aplicação de silicone", "Ideal para tubos de até 300 g/305 ml (massa)", "Possui acabamento pintado, proporcionando maior resistência à corrosão/oxidação", "Material: aço carbono"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["emb: 12"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Aplicador para silicone - Nove54",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/B6v87n4/Aplicador-nove54.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para aplicação de silicone", "Ideal para tubos de até 300 g/305 ml", "Possui acabamento pintado, proporcionando maior resistência à corrosão/oxidação", "Material: aço carbono"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["emb./subemb: 24/12"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Adesivos Instantâneos - CIANOACRILATO - VONDER",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Z1jhPWJ/adesivos-instantaneo-vonder.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Adere diversos tipos de materiais, como: metal, madeira, papel, borracha, plástico, cortiça, entre outros", "Proporciona colagem transparente e instantânea", "Tipo: líquido", "Aparência (visual): incolor", "Cura inicial: 4 segundos", "Cura total: 24 h", "Temperatura de operação: -55ºC a 85ºC"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Cartela com 12 Adesivos: Conteúdo 3,5g", "Blister: Conteúdo 7,5g", "Caixa Expositora Fechada: Conteúdo:7,5g com 12und"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Adesivos Instantâneos - CIANOACRILATO INDUSTRIAL - VONDER",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/HgwYkXq/cianoacrilato-industrial.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Adere diversos tipos de materiais, como: metais, madeiras, papéis, borrachas, plásticos, cortiças, entre outros", "Proporciona colagem transparente e instantânea", "Tipo: líquido", "Aparência (visual): incolor", "Cura inicial: 4 segundos", "Cura total: 24 h", "Temperatura de operação: -55ºC a 85ºC"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["conteúdo líquido emb", "20 g 10", "100 g 10"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Super Bonder - Loctite",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/8sRp7zB/super-bonder.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Adesivo à base de cianoacrilato", "Indicado para colagens em superfícies, como: porcelana, metal, borracha, madeira, papel e plástico. Não indicado para polietileno, polipropileno, silicone, resina antiaderente (PTFE), tecidos e isopor.", "Proporciona colagem transparente e instantânea, com pino antientupimento na tampa", "Tipo: líquido", "Cor: incolor"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["ref. | conteúdo líquido | tipo de embalagem emb", "1621047 | 3,0 g | cartela 24", "2256703 | 5,0 g | cartela 24"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Super Bonder Ultra - Loctite",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/VmjbWjj/super-bonder-ultra.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Adesivo à base de cianoacrilato", "Indicado para colagens em superfícies como: porcelana, metal, borracha, madeira, papel e plástico. Não indicado para polietileno, polipropileno, silicone, resina antiaderente (PTFE), tecidos e isopor.", "Adesivo multiuso, resistente a temperaturas de até 120ºC e a impactos. Possui bico preciso, tampa prática e frasco com maior controle da aplicação.", "Tipo: líquido", "Cor: incolor"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["ref. | conteúdo líquido | emb", "2308596 | 20 g | 8"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Remendos VIPAL",
+            "segmento": "adesivos/vedantes",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/xJmtM3k/remendo-vipal.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para remendar câmaras de ar, com remendos e plaquetas em espessura extrafina. Possui poder de expansão que acompanha a elasticidade da câmara, não criando calosidades.", "Permite vulcanização química (sistema a frio), que não submete as câmaras de ar ao calor, prolongando sua vida útil", "Sistema de aplicação: a frio", "Formato: redondo"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["ref. medida caixa com", "R00 | 30mm | 100", "R01 | 40mm | 100", "R02 | 50mm | 40", "R03 | 60mm | 40", "R04 | 80mm | 40", "R05 | 100mm | 25"]
+                }
+            ]
+        }      
         
     ]
 }
