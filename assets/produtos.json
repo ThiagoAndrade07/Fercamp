@@ -4402,6 +4402,509 @@
             ]
         },
 
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra - Galvanizado | Bibinas: 100/500/2000m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/nCCZzLJ/bobina1.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e operações sujeitas a atrito", "Tipo de torção: TRD - torção regular a direita", "Categoria de resistência: 1.770 N/mm²", "Ótima resistência à abrasão e pouca flexibilidade", "Maior resistência à corrosão/oxidação", "Sem lubrificação", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001161/2015, 001692/2019 e 006123/2020"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["100m", "diâm | carga de ruptura mínimamm/pol. (kN) (kgf)", "1,59 mm - 1/16” | 1,49 kN  |151 kgf 35", "2,38 mm - 3/32” | 3,33 kN  |339 kgf 35", "3,18 mm - 1/8” | 5,94 kN  |606 kgf 35", "3,97 mm - 5/32” | 9,26 kN  |944 kgf 35", "4,76 mm - 3/16” | 13,31 kN | 1.358 kgf", "6,35 mm - 1/4” | 23,70 kN | 2.416 kgf", "7,94 mm - 5/16” | 37,05 kN | 3.778 kgf", "9,53 mm - 3/8” | 53,37 kN | 5.442 kgf", "500m", "diâm | carga de ruptura mínima mm/pol. (kN) (kgf)", "1,59 mm - 1/16” 1,49 kN 151 kgf", "2,38 mm - 3/32” 3,33 kN 339 kgf", "3,18 mm - 1/8” 5,94 kN 606 kgf", "3,97 mm - 5/32” 9,26 kN 944 kgf", "4,76 mm - 3/16” 13,31 kN 1.358 kgf", "6,35 mm - 1/4” 23,70 kN 2.416 kgf", "7,94 mm - 5/16” 37,05 kN 3.778 kgf", "9,53 mm - 3/8” 53,37 kN 5.442 kgf", "2000m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "1,59 mm - 1/16” 1,49 kN 151 kgf", "2,38 mm - 3/32” 3,33 kN 339 kgf", "3,18 mm - 1/8” 5,94 kN 606 kgf", "3,97 mm - 5/32” 9,26 kN 944 kgf", "4,76 mm - 3/16” 13,31 kN 1.358 kgf", "7,94 mm - 5/16” 37,05 kN 3.778 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra Polido - Bobinas: 100/500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/nCCZzLJ/bobina1.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e operações sujeitas a atrito", "Tipo de torção: TRD - torção regular a direita", "Categoria de resistência: 1.770 N/mm²", "Ótima resistência à abrasão e pouca flexibilidade", "Com lubrificação", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001391/2015, 001693/2019 e 006122/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["100m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "4,76 mm - 3/16” 13,31 kN 1.358 kgf", "6,35 mm - 1/4” 23,70 kN 2.417 kgf", "7,94 mm - 5/16” 37,05 kN 3.778 kgf", "500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "3,18 mm - 1/8” 5,94 kN 606 kgf", "3,97 mm - 5/32” 9,26 kN 944 kgf", "4,76 mm - 3/16” 13,54 kN 1.380 kgf", "6,35 mm - 1/4” 23,70 kN 2.416 kgf", "7,94 mm - 5/16” 37,05 kN 3.778 kgf", "9,53 mm - 3/8” 53,37 kN 5.442 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço Galvanivado - Bobinas:100/500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/nCCZzLJ/bobina1.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e operações sujeitas a atrito", "Tipo de torção: TRD - torção regular a direita", "Categoria de resistência: 1.770 N/mm²", "Ótima resistência à abrasão e pouca flexibilidade", "Maior resistência à corrosão/oxidação", "Sem lubrificação", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001161/2015, 001692/2019 e 006123/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["100m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "1,59 mm - 1/16” 1,61 kN 164 kgf", "500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "1,50 mm 1,43 kN 146 kgf 35", "1,59 mm - 1/16” 1,61 kN 164 kgf 35"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra Polido",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WyCZvHP/bobina-2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas", "Categoria de resistência: 1.770 N/mm²", "Flexíve", "Lubrificado", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001165/2015 e 000490/2019"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "4,76 mm - 3/16” 13,23 kN 1.350 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra Galvanizado",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WyCZvHP/bobina-2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas", "Categoria de resistência: 1.770 N/mm²", "Flexíve", "Ótima resistência à corrosão/oxidação", "Sem lubrificação", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001171/2015, 000489/2019 e 006417/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "3,18 mm - 1/8” 5,91 kN 602 kgf 35 16 032 619", "3,97 mm - 5/32” 9,21 kN 939 kgf 35 16 040 619", "4,76 mm - 3/16” 13,23 kN 1.350 kgf 35 16 048 619"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço Galvanizado",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/WyCZvHP/bobina-2.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas", "Categoria de resistência: 1.770 N/mm²", "Flexíve", "Ótima resistência à corrosão/oxidação","Sem lubrificação", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001171/2015, 000489/2019 e 006417/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "3,18 mm - 1/8” 6,37 kN 650 kgf", "3,97 mm - 5/32” 9,93 kN 1.013 kgf", "4,76 mm - 3/16” 14,28 kN 1.456 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra - Polido",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/X21Xx54/bobina3.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Boa resistência à flexões e ao desgaste por abrasão", "Categoria de resistência: 1.960 N/mm²", "Lubrificado", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["100m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 26,08 kN 2.659 kgf", "7,94 mm - 5/16” 40,78 kN 4.158 kgf", "500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 26,08 kN 2.659 kgf", "7,94 mm - 5/16” 40,78 kN 4.158 kgf", "9,53 mm - 3/8” 58,74 kN 5.990 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra - Galvanizado",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/X21Xx54/bobina3.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Boa resistência à flexões e ao desgaste por abrasão", "Categoria de resistência: 1.770 N/mm²", "Maior resistência à corrosão/oxidação", "Sem lubrificação até 12,70 mm (inclusive)", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001163/2015, 000505/2019 e 006124/2020"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["100m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 23,55 kN 2.401,67 kgf", "7,94 mm - 5/16” 36,82 kN 3.754,98 kgf", "9,53 mm - 3/8” 53,05 kN 5.409,44 kgf", "12,70 mm - 1/2” 94,21 kN 9.606,69 kgf", "500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "4,76 mm - 3/16” 13,23 kN 1.349,52 kgf", "6,35 mm - 1/4” 23,55 kN 2.401,67 kgf", "7,94 mm - 5/16” 36,82 kN 3.754,98 kgf", "9,53 mm - 3/8” 53,05 kN 5.409,44 kgf", "12,70 mm - 1/2” 94,21 kN 9.606,69 kgf", "15,90 mm - 5/8” 147,67 kN 15.057,77 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - Galvanizado",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/vj6hLzV/bobina4.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Boa resistência à flexões e ao desgaste por abrasão", "Maior resistência à corrosão/oxidação", "Sem lubrificação", "Categoria de resistência: 1.770 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001163/2015, 000505/2019 e 006124/2020"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "3,18 mm - 1/8” 6,37 kN 649,77 kgf", "3,97 mm - 5/32” 9,93 kN 1.012,71 kgf", "4,76 mm - 3/16” 14,28 kN 1.455,85 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - AACI - Polido",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/vj6hLzV/bobina4.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Boa resistência à flexões e ao desgaste por abrasão", "Lubrificado", "Categoria de resistência: 1.960 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020. "]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 28,14 kN 2.869 kgf", "7,94 mm - 5/16” 43,99 kN 4.486 kgf", "9,53 mm - 3/8” 63,37 kN 6.462 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - AACI - Galvanizado",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/vj6hLzV/bobina4.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Boa resistência à flexões e ao desgaste por abrasão", "Maior resistência à corrosão/oxidação", "Sem lubrificação até 12,70 mm (inclusive)", "Categoria de resistência: 1.770 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001163/2015, 000505/2019 e 006124/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 25,41 kN 2.590,90 kgf", "7,94 mm - 5/16” 39,73 kN 4.050,83 kgf", "9,53 mm - 3/8” 57,23 kN 5.835,64 kgf", "12,70 mm - 1/2” 101,63 kN 10.363,58 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - AACI - Galvanizado",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KXDVJsX/bobina5.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para guinchos de alavanca VONDER. Também pode ser utilizado para cargas estáticas e dinâmicas.", "Torção regular à direita (TRD)", "Boa resistência à flexões e ao desgaste por abrasão.", "Possui maior resistência à corrosão/oxidação.", "Categoria de resistência: 1.770 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001163/2015, 000505/2019 e 006124/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["500m", "diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "11,00 mm 76,24 kN 7.774,78 kgf", "16,00 mm 161,31 kN 16.449,11 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra - Polido - 100m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/GHNWCwt/bobina6.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Flexível", "Boa resistência à flexões e ao desgaste por abrasão", "Lubrificado", "Categoria de resistência: 1.960 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 26,08 kN 2.659 kgf", "7,94 mm - 5/16” 40,78 kN 4.158 kgf", "9,53 mm - 3/8” 58,74 kN 5.990 kgf", "12,70 mm - 1/2” 104,32 kN 10.638 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra - Polido - 500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/GHNWCwt/bobina6.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Flexível", "Boa resistência à flexões e ao desgaste por abrasão", "Lubrificado", "Categoria de resistência: 1.960 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 26,08 kN 2.659 kgf", "7,94 mm - 5/16” 40,78 kN 4.158 kgf", "9,53 mm - 3/8” 58,74 kN 5.990 kgf", "11,10 mm - 7/16” 79,69 kN 8.126 kgf", "12,70 mm - 1/2” 104,32 kN 10.638 kgf", "14,30 mm - 9/16” 132,26 kN 13.487 kgf", "15,90 mm - 5/8” 163,52 kN 16.674 kgf", "19,10 mm - 3/4” 235,96 kN 24.061 kgf", "22,20 mm - 7/8” 318,77 kN 32.505 kgf", "25,40 mm - 1” 417,29 kN 42.552 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra - Galvanizado - 100m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/GHNWCwt/bobina6.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Flexível", "Boa resistência à flexões e ao desgaste por abrasão", "Maior resistência à corrosão/oxidação", "Sem lubrificação até 12,70 mm (inclusive)", "Categoria de resistência: 1.770 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 23,55 kN 2.401,67 kgf", "7,94 mm - 5/16” 36,82 kN 3.754,98 kgf", "9,53 mm - 3/8” 53,05 kN 5.409,44 kgf", "12,70 mm - 1/2” 94,21 kN 9.606,69 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Fibra - Galvanizado - 500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/GHNWCwt/bobina6.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Flexível", "Boa resistência à flexões e ao desgaste por abrasão", "Maior resistência à corrosão/oxidação", "Sem lubrificação até 12,70 mm (inclusive)", "Categoria de resistência: 1.770 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com fo segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 23,55 kN 2.401,67 kgf", "7,94 mm - 5/16” 36,82 kN 3.754,98 kgf", "9,53 mm - 3/8” 53,05 kN 5.409,44 kgf", "11,10 mm - 7/16” 71,97 kN 7.338,59 kgf", "12,70 mm - 1/2” 94,21 kN 9.606,69 kgf", "14,30 mm - 9/16” 119,44 kN 12.179,75 kgf", "15,90 mm - 5/8” 147,67 kN 15.057,77 kgf", "19,10 mm - 3/4” 213,09 kN 21.728,67 kgf", "22,20 mm - 7/8” 287,87 kN 29.354,34 kgf", "25,40 mm - 1” 376,84 kN 38.426,77 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - AACI - Polido - 500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/NnKk9Xc/bobina7.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Flexível", "Boa resistência à flexões e ao desgaste por abrasão", "Lubrificado", "Categoria de resistência: 1.960 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "7,94 mm - 5/16” 43,99 kN 4.486 kgf", "9,53 mm - 3/8” 63,37 kN 6.462 kgf", "11,10 mm - 7/16” 85,97 kN 8.767 kgf", "12,70 mm - 1/2” 112,54 kN 11.476 kgf", "14,30 mm - 9/16” 142,68 kN 14.550 kgf", "15,90 mm - 5/8” 176,40 kN 17.988 kgf", "19,10 mm - 3/4” 254,55 kN 25.957 kgf", "22,20 mm - 7/8” 343,88 kN 35.066 kgf", "25,40 mm - 1” 450,17 kN 45.905 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - AACI - Galvanizado - 500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/NnKk9Xc/bobina7.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas", "Tipo de torção: TRD - torção regular a direita", "Flexível", "Boa resistência à flexões e ao desgaste por abrasão", "Maior resistência à corrosão/oxidação", "Sem lubrificação até 12,70 mm (inclusive)", "Categoria de resistência: 1.770 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001164/2015, 000495/2019 e 006121/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 25,41 kN 2.590,90 kgf", "7,94 mm - 5/16” 39,73 kN 4.050,83 kgf", "9,53 mm - 3/8” 57,23 kN 5.835,64 kgf", "12,70 mm - 1/2” 101,63 kN 10.363,58 kgf", "14,30 mm - 9/16” 128,85 kN 13.139,37 kgf", "15,90 mm - 5/8” 159,30 kN 16.244,14 kgf", "19,10 mm - 3/4” 229,87 kN 23.440,63 kgf", "22,20 mm - 7/8” 310,55 kN 31.667,11 kgf", "25,40 mm - 1” 406,53 kN 41.454,33 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - AACI - Polido - 500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/86sTkrB/bobina8.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas.", "Ideal para trabalhos em polias e tambores.", "Tipo de torção: TRD - torção regular a direita", "Superflexível", "Lubrificado", "Categoria de resistência: 1.960 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001166/2015, 000492/2019 e 006120/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "12,70 mm - 1/2” 112,54 kN 11.476 kgf", "15,90 mm - 5/8” 176,40 kN 17.988 kgf", "19,10 mm - 3/4” 254,55 kN 25.957 kgf", "22,20 mm - 7/8” 310,55 kN 31.667 kgf", "25,40 mm - 1” 450,17 kN 45.904 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - AACI - Galvanizado - 500m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/86sTkrB/bobina8.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para cargas estáticas e dinâmicas.", "Ideal para trabalhos em polias e tambores.", "Tipo de torção: TRD - torção regular a direita", "Superflexível", "Maior resistência à corrosão/oxidação", "Sem lubrificação até 12,70 mm (inclusive)", "Categoria de resistência: 1.770 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 001166/2015, 000492/2019 e 006120/2020."]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "12,70 mm - 1/2” 101,63 kN 10.363,58 kgf", "15,90 mm - 5/8” 159,30 kN 16.244,14 kgf", "19,10 mm - 3/4” 229,87 kN 23.440,63 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço - Galvanizado - 1000m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/qWwdsdr/bobina9.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para elevação de cargas em equipamentos, como gruas, entre outros", "Conhecido no mercado como construção 19 x 7 ou cabo de aço ”NÃO ROTATIVO”", "Os cabos desta classe podem girar um pouco no início da aplicação da carga até que fiquem em equilíbrio", "Tipo de torção: TRD - torção regular a direita", "Sem lubrificação", "Categoria resistência: 1.960 N/mm²", "Diâmetro 3,18 mm - 1/8”:", "Indicado para uso no guincho elétrico VONDER GEV 200", "Diâmetro 4,76 mm - 3/16”:", "Indicado para uso no guincho elétrico VONDER GEV 600", "Diâmetro 6,00 mm:", "Indicado para uso no guincho elétrico VONDER GEV 1000", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e  ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 004920/2015 e 0 2021"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "3,18 mm - 1/8” 6,50 kN 663 kgf", "4,76 mm - 3/16” 14,57 kN 1.485 kgf", "6,00 mm 23,10 kN 2.356 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço Polido - 1000m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/qWwdsdr/bobina9.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para elevação de cargas em equipamentos, como gruas, entre outros", "Conhecido no mercado como construção 19 x 7 ou cabo de aço ”NÃO ROTATIVO”", "Os cabos desta classe podem girar um pouco no início da aplicação da carga até que fiquem em equilíbrio", "Tipo de torção: TRD - torção regular a direita", "Lubrificado", "Categoria de resistência: 1.960 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 004920/2015 e 005660/2021"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "15,90 mm - 5/8” 162,53 kN 16.573 kgf", "19,10 mm - 3/4” 234,53 kN 23.915 kgf", "22,20 mm - 7/8” 316,84 kN 32.308 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Cabo de Aço - Vonder - Alma de Aço Polido - 2000m",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/qWwdsdr/bobina9.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para elevação de cargas em equipamentos, como gruas, entre outros", "Conhecido no mercado como construção 19 x 7 ou cabo de aço ”NÃO ROTATIVO”", "Os cabos desta classe podem girar um pouco no início da aplicação da carga até que fiquem em equilíbrio", "Tipo de torção: TRD - torção regular a direita", "Categoria de resistência: 1.960 N/mm²", "Produto com certificação Compulsória, conforme Portaria Inmetro nº 367 de 08/09/2021 e norma ABNT NBR ISO 2408 com foco em segurança. Certificado por Organismo de Certificação de Produto acreditado pelo Inmetro. Números de registro de objeto: 004920/2015 e 005660/2021"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâm. carga de ruptura mínima mm/pol. (kN) (kgf)", "6,35 mm - 1/4” 25,92 kN 2.643 kgf", "7,94 mm - 5/16” 40,53 kN 4.133 kgf", "9,53 mm - 3/8” 58,39 kN 5.954 kgf", "11,10 mm - 7/16” 79,21 kN 8.077 kgf", "12,70 mm - 1/2” 103,69 kN 10.573 kgf"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Clips/Grampo para Cabo de Aço - Vonder - Aço Inox - Uso leve",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/09DtDMC/A-o-inox-304-clips-uso-leve.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["• Indicado para prensar/amarrar cabos de aço", "A medida dos clips/grampos deve ser compatível com o diâmetro do cabo", "Recomendado para aplicações leves", "Não deve ser usado em aplicações de elevação de cargas", "Fabricado em aço inox 304, proporcionando resistência a oxidação/corrosão", "Material do corpo: aço inox", "Material do pino: aço inox "]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["capacidade emb", "1/8” - 3,18 mm", "3/16” - 4,76 mm", "1/4” - 6,35 mm", "5/16” - 7,94 mm", "3/8” - 9,53 mm", "1/2” - 12,70 mm"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Clips/Grampo para Cabo de Aço - Vonder - Aço Inox - Uso Industrial",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/0Dgv0qK/clips-uso-industrial.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para prensar/amarrar cabos de aço", "A medida dos clips/grampos deve ser compatível com o diâmetro do cabo", "Uso industrial", "Material fabricado e testado conforme a norma FS FF-C-450D tipo 1, classe 1, com corpo galvanizado a fogo, proporcionando melhor resistência à oxidação/corrosão", "Material do corpo: aço carbono", "Material do pino: aço carbono", "Norma de referência: FS FF-C-450D tipo 1, classe 1"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["capacidade emb", "1/8” - 3,18 mm 1.000", "3/16” - 4,76 mm 500", "1/4” - 6,35 mm 300", "5/16” - 7,94 mm 200", "3/8” - 9,53 mm 150", "1/2” - 12,70 mm 100", "5/8” - 15,90 mm 50", "3/4” - 19,10 mm 50", "7/8” - 22,20 mm 25", "1” - 25,40 mm 25", "capacidade cartela com", "1/8” - 3,18 mm 30 clips", "3/16” - 4,76 mm 15 clips", "1/4” - 6,35 mm 10 clips", "5/16” - 7,94 mm 5 clips", "3/8” - 9,53 mm 3 clips", "1/2” - 12,7 mm 2 clips", "5/8” - 15,9 mm 2 clips", "3/4” - 19,1 mm 1 clips", "7/8” - 22,2 mm 1 clips", "1” - 25,4 mm 1 clips"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esticador Para Cabo de Aço - Gancho x Olhal - Vonder",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/Mpd7T8F/gancho-olhal-vonder.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Utilizado para tensionar/esticar cabos de aço e cordoalhas", "Recomendado para aplicações leves", "A medida do esticador deve ser compatível com a medida do cabo de aço", "Não deve ser usado em aplicações de movimentação de cargas como tração, elevação ou estaiamento", "Possui tratamento galvanizado, proporcionando resistência à oxidação/corrosão", "Material: aço baixo carbono", "Processo produtivo: estampado", "Acabamento: galvanizado", "Fator de segurança: 3:1"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["medida carga de trabalho emb", "3/16” - 4,76 mm 30 kgf 50", "1/4” - 6,35 mm 35 kgf 25", "5/16” - 7,94 mm 60 kgf 25", "3/8” - 9,53 mm 100 kgf 25", "1/2” - 12,70 mm 145 kgf 25", "5/8” - 15,90 mm 270 kgf 15", "3/4” - 19,10 mm 420 kgf 5", "7/8” - 22,20 mm 490 kgf 5", "1” - 25,40 mm 600 kgf 1"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Esticador Para Cabo de Aço - Gancho x Olhal - Nove54",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/KKZvJQG/gancho-olhal-nove54.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para tensionar/esticar cabos de aço e cordoalhas", "Recomendado para aplicações leves", "A medida do esticador deve ser compatível com a medida do cabo de aço", "Não deve ser usado em aplicações de movimentação de cargas como tração, elevação ou estaiamento", "Possui tratamento galvanizado, proporcionando resistência à oxidação/corrosão", "Material: aço maleável", "Processo produtivo: fundido", "Acabamento: galvanizado", "Fator de segurança: 3:1"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["medida carga de trabalho subemb./emb", "3/16” - 4,76 mm 30 kgf 50/500", "1/4” - 6,35 mm 35 kgf 25/300", "5/16” - 7,94 mm 60 kgf 25/150", "3/8” - 9,53 mm 100 kgf 25/100", "1/2” - 12,7 mm 145 kgf 25/50", "5/8” - 15,9 mm 270 kgf 15/30", "3/4” - 19,1 mm 420 kgf 5/15", "7/8” - 22,2 mm 490 kgf 5/10", "1” - 25,4 mm 600 kgf 1/5"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Tensionador com Catraca - vonder",
+            "segmento": "ferragens",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/jwbvH4T/Tensionador-com-catraca.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Indicado para tensionamento de correntes em amarrações de cargas. Uso Industrial.", "Pintado na cor amarela, proporcionando maior resistência à oxidação", "Material: aço carbono", "Acabamento: pintado", "Fator de segurança: 2:1"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["diâmetro da corrente carga de trabalho carga de ruptura emb.", "3/8” - 9,5 mm a 1/2” - 12,7 mm 4.173 kgf 8.346 kgf 2", "1/2” - 12,7 mm a 5/8” - 15,9 mm 5.897 kgf 11.794 kgf 2"]
+                }
+            ]
+        },
 
 
 
