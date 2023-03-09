@@ -4937,77 +4937,6 @@
             "titulo": ""
         },
 
-
-        {
-            "titulo": "Eletrodo Vonder 2,5mm - AWS E60 13",
-            "segmento": "soldagem",
-            "promocao": "false",
-            "preco": "0",
-            "imagem": "https://i.ibb.co/ysnSHQX/eletrodo-vonder-60-13.png",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["Eletrodo para solda elétrica, E60 13, com 2,50mm", "De 20V a 30V", "De 75A a 110A", "CA >= 50V", "CC+ ou CC-", "Qualidades: auto rendimento", "Composição: metal, minério"]
-                }
-            ]
-        },
-
-        {
-            "titulo": "Eletrodo Worker 3,25mm - AWS E60 13",
-            "segmento": "soldagem",
-            "promocao": "false",
-            "preco": "0",
-            "imagem": "https://i.ibb.co/pJ78htS/eletrodo-worker-60-13.png",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["Eletrodo para solda elétrica, E60 13, com 3,25mm x 350mm", "De 18V a 28V", "De 80A a 150A", "CA/AC > 50V", "CC+/DC+"]
-                }
-            ]
-        },
-
-        {
-            "titulo": "Eletrodo ESAB 2,5mm - AWS E60 13",
-            "segmento": "soldagem",
-            "promocao": "false",
-            "preco": "0",
-            "imagem": "https://i.ibb.co/ZhPy86R/eletrodo-6013-ESAB.png",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["Eletrodo para solda elétrica, E60 13, com 2,5mm x 350mm", "De 20V a 30V", "De 75A a 110A", "CA/AC > 50V", "CC+/DC+"]
-                }
-            ]
-        },
-
-        {
-            "titulo": "Eletrodo ESAB 2,5mm - AWS E30 8L-17",
-            "segmento": "soldagem",
-            "promocao": "false",
-            "preco": "0",
-            "imagem": "https://i.ibb.co/ZhPy86R/eletrodo-6013-ESAB.png",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["Eletrodo para solda elétrica, E30 8L-17, com 2,5mm x 300mm", "De 27V a 33V", "De 60A a 90A", "CA/AC > 52V", "CC+/DC+"]
-                }
-            ]
-        },
-
-        {
-            "titulo": "Eletrodo ESAB 4,0mm - AWS E7018",
-            "segmento": "soldagem",
-            "promocao": "false",
-            "preco": "0",
-            "imagem": "https://i.ibb.co/0j17Fcn/eletrodo-ESAB-grande.jpg",
-            "descricao": [
-                {
-                    "titulo": "Especificações:",
-                    "texto": ["Eletrodo para solda elétrica, E7018, com 4,0mm x 450mm", "De 20V a 30V", "De 140A a 195A", "CA/AC > 70V", "CC+/DC+"]
-                }
-            ]
-        },
-
         {
             "titulo": "Super Bantam 260 A Plus - ESAB",
             "segmento": "soldagem",
@@ -5185,6 +5114,618 @@
                 {
                     "titulo": "Informações complementares:",
                     "texto": ["tensão de entrada: 220 V~ / 380 V~ / 440 V~ - trifásico"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Serralheiro AWS A5.1 2,50mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mHLsH4W/ESAB-serralheiro-AWS-A5-1.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para estruturas metálicas, chapas galvanizadas e serralheria em geral.", "Proporciona arco estável, baixas perdas por respingo, escória de fácil remoção e cordões de excelente acabamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Serralheiro AWS A5.1 3,25mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mHLsH4W/ESAB-serralheiro-AWS-A5-1.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para estruturas metálicas, chapas galvanizadas e serralheria em geral.", "Proporciona arco estável, baixas perdas por respingo, escória de fácil remoção e cordões de excelente acabamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Serralheiro AWS A5.1 4,00mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mHLsH4W/ESAB-serralheiro-AWS-A5-1.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 4,00mm", "Indicado para estruturas metálicas, chapas galvanizadas e serralheria em geral.", "Proporciona arco estável, baixas perdas por respingo, escória de fácil remoção e cordões de excelente acabamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Serralheiro AWS/ASME SFA 5.1 2,50mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/160Gbwm/ESAB-serralheiro-AWS-ASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para soldas em geral em todas as posições de soldagem e juntas. Aplicável em estruturas metálicas, construções em geral e chapas galvanizadas. Apresenta fácil abertura de arco, muito adequado para ponteamento. Especial para trabalhos em serralheria.", "Apresenta manejo fácil, arco estável, baixas perdas por respingo, escória de fácil remoção e cordões de excelente acabamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Serralheiro AWS/ASME SFA 5.1 3,25mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/160Gbwm/ESAB-serralheiro-AWS-ASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para soldas em geral em todas as posições de soldagem e juntas. Aplicável em estruturas metálicas, construções em geral e chapas galvanizadas. Apresenta fácil abertura de arco, muito adequado para ponteamento. Especial para trabalhos em serralheria.", "Apresenta manejo fácil, arco estável, baixas perdas por respingo, escória de fácil remoção e cordões de excelente acabamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Serralheiro AWS/ASME SFA 5.1 4,00mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/160Gbwm/ESAB-serralheiro-AWS-ASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 4,00mm", "Indicado para soldas em geral em todas as posições de soldagem e juntas. Aplicável em estruturas metálicas, construções em geral e chapas galvanizadas. Apresenta fácil abertura de arco, muito adequado para ponteamento. Especial para trabalhos em serralheria.", "Apresenta manejo fácil, arco estável, baixas perdas por respingo, escória de fácil remoção e cordões de excelente acabamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 2,00mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/wd2rszr/ESAB-a-o-carbono-AWSASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,00mm", "Indicado para todos os tipos de juntas e em todas as posições, produzindo cordões de excelente acabamento. Utilizado em chapas navais, estruturas metálicas e construções em geral.", "Bom desempenho em chapas galvanizadas, juntas sem preparação e ponteamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 4kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 2,50mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/wd2rszr/ESAB-a-o-carbono-AWSASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para todos os tipos de juntas e em todas as posições, produzindo cordões de excelente acabamento. Utilizado em chapas navais, estruturas metálicas e construções em geral.", "Bom desempenho em chapas galvanizadas, juntas sem preparação e ponteamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 3,25mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/wd2rszr/ESAB-a-o-carbono-AWSASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para todos os tipos de juntas e em todas as posições, produzindo cordões de excelente acabamento. Utilizado em chapas navais, estruturas metálicas e construções em geral.", "Bom desempenho em chapas galvanizadas, juntas sem preparação e ponteamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 4,00mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/wd2rszr/ESAB-a-o-carbono-AWSASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 4,00mm", "Indicado para todos os tipos de juntas e em todas as posições, produzindo cordões de excelente acabamento. Utilizado em chapas navais, estruturas metálicas e construções em geral.", "Bom desempenho em chapas galvanizadas, juntas sem preparação e ponteamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 5,00mm - E6013 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/wd2rszr/ESAB-a-o-carbono-AWSASME-SFA-5-1-E6013.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 5,00mm", "Indicado para todos os tipos de juntas e em todas as posições, produzindo cordões de excelente acabamento. Utilizado em chapas navais, estruturas metálicas e construções em geral.", "Bom desempenho em chapas galvanizadas, juntas sem preparação e ponteamento", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 20kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 2,00mm - E7018 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mNwnxht/ESAB-a-o-carbono-AWS-ASME-SFA-5-1-E7018.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,00mm", "Indicado para soldagem de grande responsabilidade, depositando metal de alta qualidade. Utilizado em estruturas rígidas, vasos de pressão, construções navais, aços fundidos e aços não ligados de composição desconhecida.", "Possui alto rendimento na deposição e resistência a fadiga", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: básico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 10kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 2,50mm - E7018 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mNwnxht/ESAB-a-o-carbono-AWS-ASME-SFA-5-1-E7018.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para soldagem de grande responsabilidade, depositando metal de alta qualidade. Utilizado em estruturas rígidas, vasos de pressão, construções navais, aços fundidos e aços não ligados de composição desconhecida.", "Possui alto rendimento na deposição e resistência a fadiga", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: básico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 4,5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 3,25mm - E7018 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mNwnxht/ESAB-a-o-carbono-AWS-ASME-SFA-5-1-E7018.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para soldagem de grande responsabilidade, depositando metal de alta qualidade. Utilizado em estruturas rígidas, vasos de pressão, construções navais, aços fundidos e aços não ligados de composição desconhecida.", "Possui alto rendimento na deposição e resistência a fadiga", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: básico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 4,5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 4,00mm - E7018 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mNwnxht/ESAB-a-o-carbono-AWS-ASME-SFA-5-1-E7018.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 4,00mm", "Indicado para soldagem de grande responsabilidade, depositando metal de alta qualidade. Utilizado em estruturas rígidas, vasos de pressão, construções navais, aços fundidos e aços não ligados de composição desconhecida.", "Possui alto rendimento na deposição e resistência a fadiga", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: básico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 5,00mm - E7018 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/mNwnxht/ESAB-a-o-carbono-AWS-ASME-SFA-5-1-E7018.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 5,00mm", "Indicado para soldagem de grande responsabilidade, depositando metal de alta qualidade. Utilizado em estruturas rígidas, vasos de pressão, construções navais, aços fundidos e aços não ligados de composição desconhecida.", "Possui alto rendimento na deposição e resistência a fadiga", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: básico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 25kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 2,50mm - E6010 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b3QywFq/ESAB-a-o-carbono-revestimento-duro-E6010-E-6-UM-60-R.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para soldas em geral em aços comuns. Desempenho incomparável na soldagem de oleodutos, gasodutos, minerodutos, entre outros tipos de tubulações. Utilizado para trabalhos fora de posição plana, tais como: implementos agrícolas e tanques de veículos.", "Grande penetração", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: celulósico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 20kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 3,25mm - E6010 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b3QywFq/ESAB-a-o-carbono-revestimento-duro-E6010-E-6-UM-60-R.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para soldas em geral em aços comuns. Desempenho incomparável na soldagem de oleodutos, gasodutos, minerodutos, entre outros tipos de tubulações. Utilizado para trabalhos fora de posição plana, tais como: implementos agrícolas e tanques de veículos.", "Grande penetração", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: celulósico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 20kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Carbono AWS/ASME SFA 5.1 4,00mm - E6010 - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b3QywFq/ESAB-a-o-carbono-revestimento-duro-E6010-E-6-UM-60-R.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 4,00mm", "Indicado para soldas em geral em aços comuns. Desempenho incomparável na soldagem de oleodutos, gasodutos, minerodutos, entre outros tipos de tubulações. Utilizado para trabalhos fora de posição plana, tais como: implementos agrícolas e tanques de veículos.", "Grande penetração", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular", "Tipo de revestimento: celulósico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 20kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Revestimento Duro AWS E 6-UM-60R 3,25mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b3QywFq/ESAB-a-o-carbono-revestimento-duro-E6010-E-6-UM-60-R.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para revestimento tipo xadrez em caçambas e dentes de escavadeiras, recuperação de peças para britadores, moinhos e misturadores, sem-fim de alimentadores chapas de desgaste para revestimento duro em partes de máquinas expostas ao desgaste por minérios, pedra, areia, solo e coque.", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: básico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 15kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Revestimento Duro AWS E 6-UM-60R 4,00mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b3QywFq/ESAB-a-o-carbono-revestimento-duro-E6010-E-6-UM-60-R.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 4,00mm", "Indicado para revestimento tipo xadrez em caçambas e dentes de escavadeiras, recuperação de peças para britadores, moinhos e misturadores, sem-fim de alimentadores chapas de desgaste para revestimento duro em partes de máquinas expostas ao desgaste por minérios, pedra, areia, solo e coque.", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: básico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 25kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Ferro Fundido AWS A5.15 ENi-CI 2,50mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g9wPSL6/ESAB-ferro-fundido-AWS-A5-15-ENi-CI-ENi-Fe-CI.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para soldagem de ferro fundido a frio ou com moderado pré-aquecimento, quando o metal depositado necessita usinagem posterior. Utilizado também para enchimento de falhas de fundição e união de ferro fundido ao aço. Alma de níquel puro.", "O metal depositado é limável", "Posições de soldagem: plano, angular e vertical ascendente"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 10kg | 2,5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Ferro Fundido AWS A5.15 ENi-CI 3,25mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g9wPSL6/ESAB-ferro-fundido-AWS-A5-15-ENi-CI-ENi-Fe-CI.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para soldagem de ferro fundido a frio ou com moderado pré-aquecimento, quando o metal depositado necessita usinagem posterior. Utilizado também para enchimento de falhas de fundição e união de ferro fundido ao aço. Alma de níquel puro.", "O metal depositado é limável", "Posições de soldagem: plano, angular e vertical ascendente"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 10kg | 2,5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Ferro Fundido AWS A5.15 ENiFe-CI 2,50mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g9wPSL6/ESAB-ferro-fundido-AWS-A5-15-ENi-CI-ENi-Fe-CI.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para soldagem em ferro fundido cinzento, maleável e nodular, a frio ou com moderado pré-aquecimento, quando o metal depositado necessita usinagem posterior. Utilizado para enchimento de falhas de fundição. O depósito apresenta a mesma coloração da peça fundida. Alma de níquel-ferro.", "Posições de soldagem: plano, angular e vertical ascendente"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 12kg | 3kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Ferro Fundido AWS A5.15 ENiFe-CI 3,25mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/g9wPSL6/ESAB-ferro-fundido-AWS-A5-15-ENi-CI-ENi-Fe-CI.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para soldagem em ferro fundido cinzento, maleável e nodular, a frio ou com moderado pré-aquecimento, quando o metal depositado necessita usinagem posterior. Utilizado para enchimento de falhas de fundição. O depósito apresenta a mesma coloração da peça fundida. Alma de níquel-ferro.", "Posições de soldagem: plano, angular e vertical ascendente"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 12kg | 3kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Goivagem, Corte e Chanfro 4,00mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/b3QywFq/ESAB-a-o-carbono-revestimento-duro-E6010-E-6-UM-60-R.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 4,00mm", "Indicado para goivagem e corte. Utilizado na preparação de juntas em todos os metais, tais como: aço comum, aço inox, ferro fundido e não ferrosos. Especialmente indicado para remoção dos passes de raiz, indispensável na goivagem intermitente e nos locais carentes de ar comprimido.", "Posições de soldagem: plana, horizontal, vertical ascendente, vertical descendente, sobre-cabeça e angular"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Lata", "Embalagem: 18kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 308-17 / 308L-17 2,00mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,00mm", "Eletrodo rutílico para aços inoxidáveis, deposita aço inox tipo 19/10 com baixíssimo teor de carbono", "Resistente à corrosão intergranular", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 8kg | 2kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 308-17 / 308L-17 2,50mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Eletrodo rutílico para aços inoxidáveis, deposita aço inox tipo 19/10 com baixíssimo teor de carbono", "Resistente à corrosão intergranular", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 8kg | 2kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 308-17 / 308L-17 3,25mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Eletrodo rutílico para aços inoxidáveis, deposita aço inox tipo 19/10 com baixíssimo teor de carbono", "Resistente à corrosão intergranular", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 10kg | 2,5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 316-17 / 316L-17 2,00mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,00mm", "Eletrodo rutílico para aços inoxidáveis, deposita aço inox tipo 19/12 Mo com baixíssimo teor de carbono", "Resistente à corrosão intergranular", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 8kg | 2kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 316-17 / 316L-17 2,50mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Eletrodo rutílico para aços inoxidáveis, deposita aço inox tipo 19/12 Mo com baixíssimo teor de carbono", "Resistente à corrosão intergranular", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 8kg | 2kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 316-17 / 316L-17 3,25mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Eletrodo rutílico para aços inoxidáveis, deposita aço inox tipo 19/12 Mo com baixíssimo teor de carbono", "Resistente à corrosão intergranular", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 10kg | 2,5kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 312-17 2,50mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 2,50mm", "Indicado para soldagem de aços de composição desconhecida, de escassa soldabilidade ou dissimilares. Empregado também em aços inoxidáveis, aços ao manganês, aços para molas e aços ferramentas. Ideal para camada de amanteigamento antes do revestimento duro. Deposita aço inox resistente à corrosão sobtensão, com boa resistência à oxidação superficial até 1.150ºC.", "Resistente aos ácidos e ao calor", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 8kg | 2kg"]
+                }
+            ]
+        },
+
+        {
+            "titulo": "Eletrodo Aço Inox AWS E 312-17 3,25mm - ESAB",
+            "segmento": "soldagem",
+            "promocao": "false",
+            "preco": "0",
+            "imagem": "https://i.ibb.co/1fyRLqx/ESAB-a-o-inox-AWS-E-308-17-308-L-17-AWS-E-316-17-316-L-17.png",
+            "descricao": [
+                {
+                    "titulo": "Especificações:",
+                    "texto": ["Diâmetro: 3,25mm", "Indicado para soldagem de aços de composição desconhecida, de escassa soldabilidade ou dissimilares. Empregado também em aços inoxidáveis, aços ao manganês, aços para molas e aços ferramentas. Ideal para camada de amanteigamento antes do revestimento duro. Deposita aço inox resistente à corrosão sobtensão, com boa resistência à oxidação superficial até 1.150ºC.", "Resistente aos ácidos e ao calor", "Posições de soldagem: plana, horizontal, vertical ascendente, sobre-cabeça e angular", "Tipo de revestimento: rutílico"]
+                },
+                {
+                    "titulo": "Informações complementares:",
+                    "texto": ["Caixa de papelão", "Embalagem: 10kg | 2,5kg"]
                 }
             ]
         },
