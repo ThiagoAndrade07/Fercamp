@@ -336,3 +336,24 @@ function filtraProdutos(lista, termo) {
 // INICIALIZAÇÃO DA PÁGINA
 
 listaDeProdutos();
+
+const imagemFormiga = document.querySelector('.produtos-formiga');
+
+if(segmentoSelecionado == 'máquinas') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/LSXvWZG/M-quinas.png');
+} else if(segmentoSelecionado == 'ferramentas') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/25fDZsZ/Ferramentas.png');
+} else if(segmentoSelecionado == 'soldagem') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/LZfdqSJ/Soldagem.png');
+} else if(segmentoSelecionado == 'tintas') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/6Hnny64/tintas.png');
+} else if(segmentoSelecionado == 'abrasivos') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/3TWSnzD/Abrasivos.png');
+} else if(segmentoSelecionado == 'ferragens') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/6rJLm9N/Ferragens.png');
+} else if(segmentoSelecionado == 'epi') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/zJxn5PF/EPI.png');
+} else if(segmentoSelecionado == 'adesivos/vedantes') {
+    imagemFormiga.setAttribute('src', 'https://i.ibb.co/fML9DQy/Adesivos.png');
+}
+
