@@ -1,0 +1,11 @@
+:root {
+
+    --cor-branca : #ffffff;
+    --cor-preta: #000000;
+    --gradiente-cinza:  90deg, #111111 0%, #444444 50%, #111111 100%;
+    --cor-verde: #004200;
+    --fonte-fercamp: 'Nunito Sans', sans-serif;
+    --cor-verde-alternativo: #008000;
+    --cor-cinza: #333333;
+    
+}

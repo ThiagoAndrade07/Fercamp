@@ -1,0 +1,179 @@
+.promocao {
+    height: 450px;
+    background: linear-gradient(var(--gradiente-cinza));
+}
+
+.promocao-titulo {
+    text-align: center;
+    font-size: 35px;
+    font-family: var(--fonte-fercamp);
+    padding: 30px 0 30px 0;
+}
+
+#cont-reg {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.img-seta-promo {
+    transform: rotate(180deg);
+}
+
+.box-timer {
+    width: 70px;
+    height: 40px;
+    margin: 10px;
+    
+    text-align: center;
+    padding-top: 5px;
+    box-sizing: border-box;
+    background-color: var(--cor-branca);
+    color: var(--cor-verde-alternativo);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.time-text {
+    font-size: 22px;
+}
+
+#dias {
+    padding-right: 5px;
+}
+
+.container-promocao {
+    position: relative;
+    margin: 0 30px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery-wrapper {
+    overflow-x: auto;
+}
+
+.gallery {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 15px;
+}
+
+.box-promo {
+    width: 100%;
+}
+
+.arrow-left,
+.arrow-right {
+    position: absolute;
+    top: 0;
+    right: auto;
+    left: 0;
+    bottom: 0;
+    font-size: 20px;
+    line-height: 250px;
+    width: 40px;
+    text-align: center;
+    cursor: pointer;
+    border: none;
+    color: white;
+    z-index: 4;
+    background: linear-gradient(to left, transparent 0%, black 200%);
+    opacity: 0.9;
+    transition: all 600ms ease-in-out;
+}
+
+.arrow-right {
+    right: 0;
+    left: auto;
+    background: linear-gradient(to right, transparent 0%, black 200%);
+    transform: rotate(180deg);
+}
+
+.arrow-left:hover,
+.arrow-right:hover {
+    opacity: 1;
+}
+
+.control {
+    background-image: url(https://i.ibb.co/LpHWpKt/icons8-voltar-96.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 0 50px;
+}
+
+.item {
+    width: 180px;
+    height: 150px;
+    flex-shrink: 0;
+    opacity: 0.5;
+    border: 5px solid #fff;
+    transition: all 600ms ease-in-out;
+    border-radius: 20px;
+}
+
+.current-item {
+    opacity: 1;
+    border: 1px solid #000;
+    box-shadow: 0 0 10px black;
+}
+
+.info-promo {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.gallery-wrapper::-webkit-scrollbar {
+    display: none;
+  }
+  
+  /* Hide scrollbar for IE, Edge and Firefox */
+.gallery-wrapper {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+
+
+@media screen and (min-width:1024px) {
+
+    .container-promocao {
+        width: 1000px;
+    }
+
+    .promocao {
+        height: 500px;
+    }
+
+    .item {
+        width: 210px;
+        height: 180px;
+    }
+
+    .box-timer {
+        font-size: 24px;
+        width: 100px;
+        height: 70px;
+    }
+
+    .time-text {
+        font-size: 26px;
+    }
+
+    .info-promo {
+        font-size: 18px;
+    }  
+}
+ 
+

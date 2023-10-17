@@ -1,0 +1,129 @@
+.container-localizacao-desktop {
+    display: none;
+}
+
+.localizacao {
+    background: linear-gradient(var(--gradiente-cinza));
+    color: var(--cor-branca);
+    padding: 50px 20px;
+}
+
+.icone-titulo {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.texto-localizacao {
+    line-height: 26px;
+}
+h4 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.box-mapa {
+    display: flex;
+    justify-content: center;
+}
+.mapa {
+    width: 100%;
+    max-width: 300px;
+    max-height: 300px;
+    margin-bottom: 30px;
+    border: 4px solid var(--cor-verde-alternativo);
+}
+
+.text-localizacao-amarelo {
+    color: var(--cor-verde-alternativo);
+    padding-bottom: 15px;
+}
+
+
+@media screen and (min-width:760px) {
+    
+    .texto-localizacao {
+        font-size: 18px;
+        line-height: 26px;
+    }
+}
+
+@media screen and (min-width:1024px) {
+
+    .container-localizacao {
+        display: none;
+    }
+
+    .container-localizacao-desktop {
+        display: flex;
+        align-items: center;
+        width: 950px;
+        margin: 0 auto;
+    }
+    .conjunto-localizacao {
+        width:110%;
+        line-height: 26px;
+    }
+    .h4-2 {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+    .icone-titulo-2 {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+
+    .icone-titulo-2 img {
+        width: 50px;
+    }
+
+    .info-localizacao-2 {
+        width: 95%;
+    }
+    
+    .mapa-2 {
+        width: 100%;
+        height: 350px;
+        border: 4px solid var(--cor-verde-alternativo);
+    }
+
+    .text-localizacao-amarelo-2 {
+        color: var(--cor-verde-alternativo);
+        padding-bottom: 15px;
+    }
+    .texto-localizacao-2 {
+        font-size: 18px;
+    }
+    
+}
+
+@media screen and (min-width:1500px) {
+
+    .container-localizacao-desktop {
+        width: 1400px;
+    }
+
+    .mapa-2 {
+        width: 100%;
+        height: 500px;
+    }
+
+    .icone-titulo-2 img {
+        width: 80px;
+    }
+
+    .h4-2 {
+        font-size: 40px;
+    }
+
+    .texto-localizacao-2 {
+        font-size: 24px;
+        line-height: 35px;
+    }
+
+}

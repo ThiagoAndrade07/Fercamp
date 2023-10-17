@@ -14,7 +14,8 @@ async function fetchProdutos() {
 
     try {
 
-        let produtos = await fetch('https://raw.githubusercontent.com/ThiagoAndrade07/Fercamp/main/assets/produtos.json');
+        // let produtos = await fetch('https://raw.githubusercontent.com/ThiagoAndrade07/Fercamp/main/assets/produtos.json');
+        let produtos = await fetch('../assets/produtos.json');
         let produtosConvertidos = await produtos.json();
 
         return produtosConvertidos;
@@ -55,6 +56,8 @@ async function listaDeProdutos() {
         }
     });
 
+    console.log(segmentoSelecionado);
+
     let quantidadeDePaginas =  Math.ceil(contadorDeProdutos / quantidadeDeProdutosPorPagina);
 
     paginação(paginaAtual, quantidadeDeProdutosPorPagina, lista.produtos);
@@ -63,7 +66,7 @@ async function listaDeProdutos() {
 
     let ul = document.createElement('ul');
     ul.classList.add('lista-paginas');
-    sectionProdutos.parentNode.appendChild(ul);
+    sectionProdutos.parentNode.children[3].appendChild(ul);
 
     for(let i = 1; i <= quantidadeDePaginas; i++) {
         let li = document.createElement('li');
@@ -158,19 +161,19 @@ async function listaDeProdutos() {
         let p = document.createElement('p');
         p.classList.add('page-text');
         p.innerHTML = 'Páginas';
-        sectionProdutos.parentNode.appendChild(p);
+        sectionProdutos.parentNode.children[3].appendChild(p);
     }
 
     // EVENT LISTENER DA BARRA DE PESQUISA
 
-    barraDePesquisa.addEventListener('input', event => {
-        let termoDePesquisa = event.target.value.toLowerCase().trim();
+    // barraDePesquisa.addEventListener('input', event => {
+    //     let termoDePesquisa = event.target.value.toLowerCase().trim();
 
-        let produtosFiltrados = filtraProdutos(lista.produtos, termoDePesquisa);
+    //     let produtosFiltrados = filtraProdutos(lista.produtos, termoDePesquisa);
 
-        paginação(paginaAtual, quantidadeDeProdutosPorPagina, produtosFiltrados);
+    //     paginação(paginaAtual, quantidadeDeProdutosPorPagina, produtosFiltrados);
 
-    });
+    // });
 
 }
 
@@ -320,40 +323,91 @@ function criaProdutoComDescricao(titulo, imagem, descricao) {
 
 // FUNÇÃO PARA FILTRAR PRODUTOS DA LISTA COM BASE EM UM TERMO
 
-function filtraProdutos(lista, termo) {
-    let produtosFiltrados = [];
+// function filtraProdutos(lista, termo) {
+//     let produtosFiltrados = [];
     
-    lista.forEach( elemento => {
-        if(elemento.titulo.toLowerCase().includes(termo)) {
-            produtosFiltrados.push(elemento);
-        }
+//     lista.forEach( elemento => {
+//         if(elemento.titulo.toLowerCase().includes(termo)) {
+//             produtosFiltrados.push(elemento);
+//         }
+//     });
+
+//     return produtosFiltrados;
+
+// }
+
+
+
+
+// Alternar filtros no click 
+const imagemFormiga = document.querySelector('.produtos-formiga');
+let boxFiltro = document.querySelectorAll('.produtos-box-filtro');
+const containerDePaginas = document.querySelector('#container-pagina');
+
+boxFiltro.forEach(box => {
+    box.addEventListener('click', ()=> {
+        let segmentoClicado = box.dataset.segmento;
+
+
+        segmentoSelecionado = segmentoClicado;
+
+        exibeImagemFormiga();
+        
+        console.log(segmentoSelecionado);
+        containerDePaginas.innerHTML = '';
+        listaDeProdutos();
     });
+})
 
-    return produtosFiltrados;
-
-}
 
 // INICIALIZAÇÃO DA PÁGINA
 
 listaDeProdutos();
 
-const imagemFormiga = document.querySelector('.produtos-formiga');
+exibeImagemFormiga();
 
-if(segmentoSelecionado == 'máquinas') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/LSXvWZG/M-quinas.png');
-} else if(segmentoSelecionado == 'ferramentas') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/25fDZsZ/Ferramentas.png');
-} else if(segmentoSelecionado == 'soldagem') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/LZfdqSJ/Soldagem.png');
-} else if(segmentoSelecionado == 'tintas') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/6Hnny64/tintas.png');
-} else if(segmentoSelecionado == 'abrasivos') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/3TWSnzD/Abrasivos.png');
-} else if(segmentoSelecionado == 'ferragens') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/6rJLm9N/Ferragens.png');
-} else if(segmentoSelecionado == 'epi') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/zJxn5PF/EPI.png');
-} else if(segmentoSelecionado == 'adesivos/vedantes') {
-    imagemFormiga.setAttribute('src', 'https://i.ibb.co/fML9DQy/Adesivos.png');
+function exibeImagemFormiga() {
+
+    if(segmentoSelecionado == 'máquinas') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/LSXvWZG/M-quinas.png');
+    } else if(segmentoSelecionado == 'ferramentas') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/25fDZsZ/Ferramentas.png');
+    } else if(segmentoSelecionado == 'soldagem') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/LZfdqSJ/Soldagem.png');
+    } else if(segmentoSelecionado == 'tintas') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/6Hnny64/tintas.png');
+    } else if(segmentoSelecionado == 'abrasivos') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/3TWSnzD/Abrasivos.png');
+    } else if(segmentoSelecionado == 'ferragens') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/6rJLm9N/Ferragens.png');
+    } else if(segmentoSelecionado == 'epi') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/zJxn5PF/EPI.png');
+    } else if(segmentoSelecionado == 'vedantes') {
+        imagemFormiga.setAttribute('src', 'https://i.ibb.co/fML9DQy/Adesivos.png');
+    }
+    
 }
+
+
+
+
+
+// Parte dos filtraProdutos, adicionar e remover o menu-lateral
+
+const btnFiltro = document.querySelector('.filtro-btn');
+
+btnFiltro.addEventListener('click', abreFiltro);
+
+function abreFiltro() {
+    let filtroOn = document.querySelector('.container-filtro-on');
+    
+    if (filtroOn.hasAttribute("id")) {
+        filtroOn.removeAttribute("id", "display-block");
+    }else {
+        filtroOn.setAttribute("id", "display-block");
+    }
+
+  }
+
+
 

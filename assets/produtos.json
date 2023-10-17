@@ -3231,24 +3231,13 @@
                 }
             ]
         },
-
-        
-        
-
-    
-
-
-
-
-
-
         
 
 
         {
             "titulo": "Martelete Gamma Pro GP1958 azul-celeste frequência de 60Hz com 1350W de potência 127V",
             "segmento": "máquinas",
-            "promocao": "true",
+            "promocao": "false",
             "preco": "200,00",
             "imagem": "https://i.ibb.co/DQzXtL6/gammapro-g19.png",
             "descricao": [
@@ -8753,7 +8742,7 @@
 
         {
             "titulo": "Silicone Alta Temperatura - Siloc - vermelho 280gr",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/VT8JCpW/siloc-silicone-alt-temp-verm.png",
@@ -8771,7 +8760,7 @@
 
         {
             "titulo": "Silicone Acético Multiuso Incolor 250ml Unipega",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/zJbddcM/unipega-acetico.png",
@@ -8789,7 +8778,7 @@
 
         {
             "titulo": "Silicone acético multiuso incolor solusil multi 280 cartucho com 260g - Solufix",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/cYsnSXK/solusul-multi.png",
@@ -8804,7 +8793,7 @@
         
         {
             "titulo": "Pu Construção Adesivo Cola Vedação 400gr Wurth",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/6HZxBn3/pu-wurth.png",
@@ -8822,7 +8811,7 @@
         
         {
             "titulo": "Selante Pu Poliuretano Preto 400g Dureza 40 Pu Flex Unipega",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/dMktrJs/unipega-puflex.png",
@@ -8836,7 +8825,7 @@
 
         {
             "titulo": "Adesivo Selante Monocomponente Pu 40 W-max Branco",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/VYrFnWm/pu40-wmax.jpg",
@@ -8850,7 +8839,7 @@
         
         {
             "titulo": "Silicone Bsse D´água - Kala - Branco - 305gr",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/y8pXXsx/silicone-kala.png",
@@ -8864,7 +8853,7 @@
 
         {
             "titulo": "Adesivo de Contato - Cascola - SEM TOLUOL",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/7j64nZp/adesivo-de-contato-sem-toluol.png",
@@ -8882,7 +8871,7 @@
 
         {
             "titulo": "Adesivo de Contato - Cascola Extra Forte - SEM TOLUOL",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/bRQ43Q9/adesivo-de-contato-sem-toluol-EXTRA-FORTE.png",
@@ -8900,7 +8889,7 @@
         
         {
             "titulo": "Diluente Reducola para CASCOLA - SEM TOLUOL",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/HdtNRYJ/diluente-reducola-para-cascola.png",
@@ -8918,7 +8907,7 @@
 
         {
             "titulo": "Cola Branca Extra - VONDER",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/z2NnCW7/cola-branca-vonder.png",
@@ -8936,7 +8925,7 @@
 
         {
             "titulo": "Espuma expansiva de Poliuretano - NOVE 54",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/dMY7Rtt/espuma-expansiva-nove54.png",
@@ -8954,7 +8943,7 @@
 
         {
             "titulo": "Durepoxi - LOCTITE",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/hWy0NPd/durepoxi-loctite.png",
@@ -8972,7 +8961,7 @@
 
         {
             "titulo": "Durepoxi Branco - LOCTITE",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/0MBT1nW/durepoxi-branco-loctite.png",
@@ -8990,7 +8979,7 @@
 
         {
             "titulo": "ARALDITE MASSA BICOMPONENTE - Tekbond",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/r6CWzkW/araldite-tekbond.png",
@@ -9008,7 +8997,7 @@
 
         {
             "titulo": "Aplicador para silicone - Vonder - AS 550",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/dJwHvPV/Aplicador-A-550.png",
@@ -9026,7 +9015,7 @@
         
         {
             "titulo": "Aplicador para silicone - Vonder",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/3Swv8Kw/Aplicador-vonder.png",
@@ -9044,7 +9033,7 @@
 
         {
             "titulo": "Aplicador para silicone - Nove54",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/B6v87n4/Aplicador-nove54.png",
@@ -9062,7 +9051,7 @@
 
         {
             "titulo": "Adesivos Instantâneos - CIANOACRILATO - VONDER",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/Z1jhPWJ/adesivos-instantaneo-vonder.png",
@@ -9080,7 +9069,7 @@
 
         {
             "titulo": "Adesivos Instantâneos - CIANOACRILATO INDUSTRIAL - VONDER",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/HgwYkXq/cianoacrilato-industrial.png",
@@ -9098,7 +9087,7 @@
 
         {
             "titulo": "Super Bonder - Loctite",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/8sRp7zB/super-bonder.png",
@@ -9116,7 +9105,7 @@
 
         {
             "titulo": "Super Bonder Ultra - Loctite",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/VmjbWjj/super-bonder-ultra.png",
@@ -9134,7 +9123,7 @@
 
         {
             "titulo": "Remendos VIPAL",
-            "segmento": "adesivos/vedantes",
+            "segmento": "vedantes",
             "promocao": "false",
             "preco": "0",
             "imagem": "https://i.ibb.co/xJmtM3k/remendo-vipal.png",

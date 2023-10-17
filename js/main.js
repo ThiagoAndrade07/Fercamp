@@ -13,3 +13,19 @@ segmentosCabecalho.forEach( segmento => {
         localStorage.setItem('segmento', segmento.innerHTML.toLowerCase().trim());
     });
 });
+
+
+// Botao enviar no saiba mais do index 
+
+function enviarMensagemSaibaMais (){
+
+    let btnEnviar = document.querySelector('#btn-enviar-saber-mais');
+    let textoSaibaMais = document.querySelector('#mensagem-saiba-mais').value;
+
+    let linkWhatsApp = `https://api.whatsapp.com/send?phone=41995078326&text=${textoSaibaMais}`;
+    
+    textoSaibaMais.addEventListener('keydown', ()=> {
+        btnEnviar.setAttribute('href', linkWhatsApp);
+    });
+};
+

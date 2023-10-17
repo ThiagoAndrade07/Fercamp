@@ -1,0 +1,106 @@
+.destaque {
+    padding-top: 60px;
+    height: 93vh;
+}
+
+.destaque__container {
+    background-image: url(../img/destaque-img.png);
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mascara {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: black;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    opacity: 0.6;
+}
+
+.destaque__info {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 3;
+    color: var(--cor-branca);
+}
+
+h1 {
+    font-size: 70px;
+    font-weight: 1000;
+}
+
+.destaque__box-info-ferragens {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.barra-branca {
+    width: 20px;
+    height: 3px;
+    background-color: var(--cor-branca);
+}
+
+.destaque__info p {
+    padding: 0 10px;
+}
+
+.destaque__box-info-ferragens {
+    font-size: 24px;
+}
+
+.destaque__btn {
+    margin-top: 100px;
+    color: var(--cor-branca);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgba(0, 66, 0, 0.4);
+    padding: 14px 35px;
+    border: 2px solid var(--cor-verde);
+    border-radius: 20px;
+}
+
+@media screen and (min-width:760px) {
+    h1 {
+        font-size: 130px;
+    }
+    .destaque__box-info-ferragens {
+        padding-top: 30px;
+    }
+    .destaque__box-info-ferragens p {
+        font-size: 44px;
+    }
+    .destaque__btn {
+        padding: 16px 65px;
+        font-size: 26px;
+    }
+}
+
+@media screen and (min-width:1024px) {
+    h1 {
+        font-size: 150px;
+    }
+    .destaque__box-info-ferragens {
+        padding-top: 40px;
+    }
+    .destaque__box-info-ferragens p {
+        font-size: 54px;
+    }
+    .destaque__btn {
+        padding: 18px 75px;
+        font-size: 34px;
+    }
+}

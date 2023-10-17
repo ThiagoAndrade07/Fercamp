@@ -16,7 +16,8 @@ async function fetchProdutos() {
 
     try {
 
-        let produtos = await fetch('https://raw.githubusercontent.com/ThiagoAndrade07/Fercamp/main/assets/produtos.json');
+        // let produtos = await fetch('https://raw.githubusercontent.com/ThiagoAndrade07/Fercamp/main/assets/produtos.json');
+        let produtos = await fetch('../assets/produtos.json');
         let produtosConvertidos = await produtos.json();
     
         return produtosConvertidos;
@@ -104,7 +105,7 @@ mostraProdutosEmPromocao();
 
 // ---------------------------- TIMER -------------------------------
 
-let dataFutura = new Date('March 6, 2023 00:00').getTime();
+let dataFutura = new Date('Octuber 22, 2023 00:00').getTime();
 
 let dias, horas, minutos, segundos;
 function setValores(e) {

@@ -1,22 +1,32 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./assets/css/reset.css">
+    <link rel="stylesheet" href="./assets/styles/reset.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
-    <link rel="stylesheet" href="./assets/css/styles.css">
-    <title>Fercamp | Comercio de Ferragens </title>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Nunito+Sans:opsz,wght@6..12,1000&family=Rubik:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="./assets/styles/style.css">
+    
+    <title>Fercamp | Ferramentas Comercio de Ferragens</title>
 </head>
+
 <body>
+
     <header class="cabecalho">
         <div class="cabecalho-container">
-            <div class="container_imagem">
-                <a href="index.html"><img src="./assets/img/logo-nova1.png" alt="Logo da Fercamp" class="cabecalho_imagem"></a>
+            <div class="box-logo">
+                <div class="container_imagem">
+                    <a href="index.html"><img src="./assets/img/fercamp.png" alt="Logo da Fercamp"
+                            class="cabecalho_imagem"></a>
+                </div>
+                <div class="header-triangulo-para-baixo"></div>
             </div>
             <div>
                 <input type="checkbox" id="menu" class="container_botao">
@@ -27,72 +37,46 @@
                     <li class="lista-menu_item">
                         <a href="index.html" class="lista-menu_link">Home</a>
                     </li>
-                <div class="container-seguimentos">
-                    <li class="lista-menu_item lista-menu-item-seguimentos">
+                    <li class="lista-menu_item">
                         <a href="#segmentos" class="lista-menu_link">Segmentos</a>
                     </li>
-                    <input type="checkbox" id="seta" class="botao-seguimentos">
-                    <label for="seta" class="label-seta">
-                        <span class="cabecalho-seta"></span>
-                    </label>
-                    <ul class="lista-menu-seguimentos">
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">Máquinas</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">Ferramentas</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">Soldagem</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">Tintas</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">Abrasivos</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">Ferragens</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">EPI</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="./pages/produtos.html">Adesivos/Vedantes</a>
-                        </li>
-                    </ul>
-                </div>
                     <li class="lista-menu_item">
-                        <a href="#sobrenos" class="lista-menu_link">Sobre Nós</a>
+                        <a href="#sobrenos" class="lista-menu_link">Sobre</a>
                     </li>
                     <li class="lista-menu_item">
                         <a href="#localizacao" class="lista-menu_link">Localização</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="#valores" class="lista-menu_link">Valores</a>
+                        <a href="#contato" class="lista-menu_link">Contato</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="#contato" class="lista-menu_link">Contato</a>
+                        <a href="./index.html"><img class="img-destaque-menu-burger" src="./assets/img/fercamp.png" alt="Icone da logo da fercamp"></a>
                     </li>
                 </ul>
             </div>
         </div>
     </header>
+
     <main>
-        <section class="destaques">
-           <div class="mascara">
-           </div>
-            <div class="destaques-container">
-                <div class="texto-destaque">
-                    <p class="p-destaques">Há</p>
-                    <h1><img class="logo-destaques" src="./assets/img/27anos.svg"><img class="logodesktop-destaques" src="assets/img/27anos-desktop.svg"></h1>
-                    <p class="p-destaques">no <span>mercado</span></p>
+
+        <section class="destaque">
+            <div class="destaque__container">
+                <div class="mascara"></div>
+                <div class="destaque__info">
+                    <h1>Fercamp</h1>
+                    <div class="destaque__box-info-ferragens">
+                        <div class="barra-branca"></div>
+                        <p>Ferragens e Ferramentas</p>
+                        <div class="barra-branca"></div>
+                    </div>
+
+                    <a class="destaque__btn" href="./pages/produtos.html">Nossos Produtos</a>
                 </div>
-                <p class="p-destaques2"><span>Comprometimento</span><span class="p-destaques_barra"> | </span><span>Qualidade</span></p>
             </div>
         </section>
+
         <!-- <section class="promocao">
-            <h2>Promoção Semanal</h2>
+            <h2 class="promocao-titulo">Promoção Semanal</h2>
             <div id="cont-reg">
                 <div class="box-timer">
                     <p class="time-text" id="dias"></p>
@@ -119,121 +103,168 @@
                 </div>
             </div>
         </section> -->
+
+        <section class="chamativo">
+            <img class="chamativo__img-detalhe" src="./assets/img/datalhe.png" alt="Imagem de um detalhe ilustrativo">
+            <img class="chamativo__img-detalhe-2" src="./assets/img/datalhe2.png" alt="Imagem de um detalhe ilustrativo">
+            <div class="chamativo__container">
+                <div class="chamativo__box-inicial">
+                    <p class="chamativo__as chamativo__font">As</p>
+                    <p class="texto-verde ferramentas chamativo__font">Ferramentas</p>
+                    <p class="chamativo__perfeitas chamativo__font">Perfeitas</p>
+                </div>
+
+                <div>
+                    <img class="chamativo__img" src="./assets/img/fercamp-detail-promo.png" alt="">
+                </div>
+
+                <div class="chamativo__box-final">
+                    <p class="chamativo__font chamativo__para-todos">Para todos os <span
+                            class="texto-verde">projetos!</span></p>
+                </div>
+            </div>
+        </section>
+
         <section id="segmentos" class="carrosel">
-            <h2 class="h2-preto">Segmentos</h2>
+            <h2 class="titulo-segmentos">Segmentos</h2>
             <!-- Slider main container -->
             <div class="swiper">
                 <!-- Additional required wrapper -->
                 <div class="swiper-wrapper">
                     <!-- Slides -->
-                    <div class="swiper-slide"><div class="slide slide1"></div><div class="mascara3"></div><a id="slide-link" class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Máquinas</p></a></div>
-                    <div class="swiper-slide"><div class="slide slide2"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Ferramentas</p></a></div>
-                    <div class="swiper-slide"><div class="slide slide5"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Abrasivos</p></a></div>
-                    <div class="swiper-slide"><div class="slide slide7"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Ferragens</p></a></div>
-                    <div class="swiper-slide"><div class="slide slide6"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">EPI</p></a></div>
-                    <div class="swiper-slide"><div class="slide slide3"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Soldagem</p></a></div>
-                    <div class="swiper-slide"><div class="slide slide4"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Tintas</p></a></div>
-                    <div class="swiper-slide"><div class="slide slide8"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Adesivos/Vedantes</p></a></div>
+                    <div class="swiper-slide"><div class="slide slide1"></div><div class="mascara3"></div><a id="slide-link" class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Máquinas</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
+                    <div class="swiper-slide"><div class="slide slide2"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Ferramentas</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
+                    <div class="swiper-slide"><div class="slide slide5"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Abrasivos</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
+                    <div class="swiper-slide"><div class="slide slide7"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Ferragens</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
+                    <div class="swiper-slide"><div class="slide slide6"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">EPI</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
+                    <div class="swiper-slide"><div class="slide slide3"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Soldagem</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
+                    <div class="swiper-slide"><div class="slide slide4"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Tintas</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
+                    <div class="swiper-slide"><div class="slide slide8"></div><div class="mascara3"></div><a id="slide-link"  class="slide-link" href="./pages/produtos.html"><p class="slide-texto">Vedantes</p><img class="icone-swiper" src="./assets/img/logo branca.png" alt=""></a></div>
                     
                 </div>
                 <!-- If we need pagination -->
-                <div class="swiper-pagination"></div>
+                <!-- <div class="swiper-pagination"></div> -->
             
                 <!-- If we need navigation buttons -->
                 <div class="swiper-button-prev"></div>
                 <div class="swiper-button-next"></div>          
             </div>   
         </section>
-        <section id="sobrenos" class="sobrenos">
-            <div class="mascara2">
-            </div>
-            <div class="sobrenos-container">
-                <h2>Sobre Nós</h2>
-                <p class="texto-sobre">Há 27 anos, a Fercamp Ferragens e Ferramentas, vem proporcionando para os clientes qualidade e comprometimento no atendimento.</p>
-                <p class="texto-sobre">Entregamos para toda Curitiba e região metropolitana com uma equipe qualificada e em prontidão.</p>
+
+        <section id="sobre-nos" class="sobre-nos">
+            <div class="sobre-nos__container">
+                <div class="mascara-sobre-nos"></div>
+                <div class="sobre-nos__container-box">
+                    <div class="sobre-nos__titulo">
+                        <h2 class="titulo-sobre-nos">Sobre Nós</h2>
+                        <p class="sobre-nos__p p-historia">Há mais de 27 anos, a Fercamp tem sido uma referência no mercado, oferecendo soluções inovadoras e de alta qualidade para seus clientes. Nosso compromisso com a excelência e nossa paixão por fornecer os melhores produtos e serviços nos levaram a conquistar a confiança de milhares de clientes ao longo dos anos.</p>
+                    </div>
+                    <div class="sobre-nos__valores">
+                        <h2 class="titulo-sobre-nos">Valores</h2>
+                        <div class="sobre-nos__valores-box">
+                            <img class="icn-valores" src="./assets/img/valores-icn.svg" alt="Icone de valores, representados por uma balança">
+                            <p class="sobre-nos__p">Paixão pelo que fazemos - Transparência, honestidade e respeito com os nossos clientes - Valorização dos nossos colaboradores e trabalho em equipe - Respeito aos nossos concorrentes - Busca constante por fazer a diferença.</p>
+                        </div>
+                        <div class="sobre-nos__valores-box">
+                            <img class="icn-valores" src="./assets/img/visai-icn.svg" alt="Icone de visão, representado por um olho com lupa">
+                            <p class="sobre-nos__p">Ser reconhecida em nível nacional, como tendo a melhor qualidade, agilidade e atendimento no fornecimento de ferragens e ferramentas.</p>
+                        </div>
+                        <div class="sobre-nos__valores-box">
+                            <img class="icn-valores" src="./assets/img/target-icn.svg" alt="Icone de missão">
+                            <p class="sobre-nos__p">Oferecer soluções em ferramentaria para todos os clientes, com o máximo de qualidade e inovação, visando sempre a satisfação de nossos compradores.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </section>
-        <section id="localizacao" class="localizacao">
-            <h2 class="h2-preto">Onde estamos</h2>
-            <div class="mapa-container">
-                <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1802.4786302006098!2d-49.08071928181456!3d-25.37274885195073!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcec6e3e4b7a19%3A0x17d5f832caf32413!2sFercamp%20Com%C3%A9rcio%20Varejista%20de%20Ferragens!5e0!3m2!1spt-BR!2sbr!4v1675217256101!5m2!1spt-BR!2sbr"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        <section id="localizacao" class="localizacao section-padrao">
+            <div class="container-localizacao">
+                <div class="icone-titulo">
+                    <img src="./assets/img/maps 1.svg" alt="Icone do google maps">
+                    <h4>Localização</h4>
+                </div>
+                <div class="box-mapa">
+                    <iframe class="mapa" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.975286683944!2d-49.08342572381453!3d-25.372144730606607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcec6e3e4b7a19%3A0x17d5f832caf32413!2sFercamp%20Com%C3%A9rcio%20Varejista%20de%20Ferragens!5e0!3m2!1spt-BR!2sbr!4v1692066050888!5m2!1spt-BR!2sbr" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+
+                <div class="info-localizacao">
+                    <p class="text-localizacao-amarelo texto-localizacao">Estamos localizados na Avenida Prefeito Domingos Mocelin Neto 155 - Centro - Quatro Barras - Paraná</p>
+                    <p class="texto-localizacao">Estamos orgulhosos de fazer parte da comunidade de Quatro Barras e
+                        atender às necessidades de nossos clientes nas áreas circunvizinhas. Se você tiver alguma dúvida
+                        ou precisar de ajuda para nos encontrar, não hesite em entrar em contato conosco. Esperamos
+                        vê-lo em breve!</p>
+                </div>
+            </div>
+
+
+            <div class="container-localizacao-desktop">
+                <div class="conjunto-localizacao">
+                    <div class="icone-titulo-2">
+                        <img src="./assets/img/maps 1.svg" alt="Icone do google maps">
+                        <h4 class="h4-2">Localização</h4>
+                    </div>
+                    <div class="info-localizacao-2">
+                        <p class="text-localizacao-amarelo texto-localizacao-2">Estamos localizados na Avenida Prefeito Domingos Mocelin Neto 155 - Centro - Quatro Barras - Paraná</p>
+                        <p class="texto-localizacao-2">Estamos orgulhosos de fazer parte da comunidade de Quatro Barras
+                            e atender às necessidades de nossos clientes nas áreas circunvizinhas. Se você tiver alguma
+                            dúvida ou precisar de ajuda para nos encontrar, não hesite em entrar em contato conosco.
+                            Esperamos vê-lo em breve!</p>
+                    </div>
+                </div>
+                <iframe class="mapa-2" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3604.975286683944!2d-49.08342572381453!3d-25.372144730606607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94dcec6e3e4b7a19%3A0x17d5f832caf32413!2sFercamp%20Com%C3%A9rcio%20Varejista%20de%20Ferragens!5e0!3m2!1spt-BR!2sbr!4v1692066050888!5m2!1spt-BR!2sbr" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </section>
-        <section id="valores" class="valores">
-            <div class="mascara2"></div>
-            <div class="valores-container">
-                <div>
-                    <h3 class="valores-icone">Valores</h3>
-                    <p class="texto-valores">Paixão pelo que fazemos - Transparência, honestidade e respeito com os nossos clientes - Valorização dos nossos colaboradores e trabalho em equipe - Respeito aos nossos concorrentes - Busca constante por fazer a diferença.</p>                   
-                </div>
-                <div>
-                    <h3 class="visao-icone">Visão</h3>
-                    <p class="texto-valores">Ser reconhecida em nível nacional, como tendo a melhor qualidade, agilidade e atendimento no fornecimento de ferragens e ferramentas.</p>                
-                </div>
-                <div>
-                    <h3 class="missao-icone">Missão</h3>
-                    <p class="texto-valores">Oferecer soluções em ferramentaria para todos os clientes, com o máximo de qualidade e inovação, visando sempre a satisfação de nossos compradores.</p>                
-                </div>
-            </div>    
-        </section>
+
         <section id="contato" class="contato">
-            <h2 class="h2-preto">Contato</h2>
-            <div class="contato-container">
-                <div class="container-pessoa">
-                    <div class="contato-pessoa">
-                        <h4 class="pessoa-titulo">Gerente de Vendas</h4>
-                        <div>
-                            <p class="dados dados-nome">Nome:</p>
-                            <p>- Wagner Martins</p>
+            <h2>Contato</h2>
+            <div class="contato__container">
+                <h3 class="contato__vendas">Vendas</h3>
+                <div class="contato__container-main">
+                    <div class="contato__container-children">
+                        <div class="contato__container-box">
+                            <img src="./assets/img/nome.png" alt="">
+                            <p>Nome: <span class="contato_info">Felipe Willian</span> </p>
                         </div>
-                        <div>
-                            <p class="dados dados-celular">Celular:</p>
-                            <p>- (41) 9 9783-3588</p>
-                        </div>
-                        <div>
-                            <p class="dados dados-email">E-mail:</p>
-                            <p>- fercampferragens@bol.com.br</p>
+                        <div class="contato__container-box">
+                            <img src="./assets/img/email.png" alt="">
+                            <p>Email: <span class="contato_info">vendasadoroferramentas@gmail.com</span> </p>
                         </div>
                     </div>
-                    <div class="contato-pessoa">
-                        <h4 class="pessoa-titulo">Vendas</h4>
-                        <div>
-                            <p class="dados dados-nome">Nome:</p>
-                            <p>- Felipe Andrade</p>
+                    <div class="contato__container-children">
+                        <div class="contato__container-box">
+                            <img src="./assets/img/wpp.png" alt="">
+                            <p>Whats-app: <span class="contato_info">(41) 9 9507-8326</span> </p>
                         </div>
-                        <div>
-                            <p class="dados dados-celular">Celular:</p>
-                            <p>- (41) 9 9507-8326</p>
-                        </div>
-                        <div>
-                            <p class="dados dados-email">E-mail:</p>
-                            <p>- vendasadoroferramentas@gmail.com</p>
+                        <div class="contato__container-box">
+                            <img src="./assets/img/telefone.png" alt="">
+                            <p>Telefone: <span class="contato_info">(41)3679-1898</span> </p>
                         </div>
                     </div>
                 </div>
-                <div class="contato-pessoa contato-loja">
-                    <div>
-                        <p class="dados dados-telefone">(41) 3679-1898</p>
-                    </div>
-                    <div>
-                        <p class="dados dados-local">Rua João Knapik, 241 - Jardim Patricia, Quatro Barras - PR, 83420-000</p>
-                    </div>
-                </div>
+                
+                
+                
             </div>
         </section>
+
         <a class="link-whatsapp" target="_blank" rel="noopener noreferral" href="https://api.whatsapp.com/send?phone=41995078326&text=Olá,%20eu%20gostaria%20de%20realizar%20um%20orçamento."><img src="assets/img/whatsapp-icone.svg" alt="Link para o Whats-app"></a>
+        
     </main>
     <footer class="rodape">
-        <img class="rodape-img" src="./assets/img/logo-nova2.png" alt="Logo Fercamp">
+        <img class="rodape-img" src="./assets/img/fercamp.png" alt="Logo Fercamp">
         <div class="rodape-container">
             <p class="rodape-texto">Jaquelini Immich Martins - Ferramentas e Ferragens - CNPJ: 24.551.140/0001-16</p>
             <p class="rodape-texto">© 2023 Todos os direitos reservados</p>
-            <p class="rodape-texto">Desenvolvido por: <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreno-9ab40b176/">João Moreno</a> e <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/thiago-andrade-91889a260/">Thiago Andrade</a></p>
+            <p class="rodape-texto">Desenvolvido por:<a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://weblabsolutions.com.br/">WebLab | soluções Em Webdesign</a></p>
         </div>
     </footer>
-    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
-    <script src="js/swiper.js"></script> 
-    <script src="js/main.js" type="module"></script> 
-    <!-- <script src="js/promocao.js"></script> -->
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="./js/swiper.js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/promocao.js"></script>
 </body>
+
 </html>

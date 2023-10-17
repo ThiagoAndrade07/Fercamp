@@ -1,26 +1,29 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../assets/css/reset.css">
+    <link rel="stylesheet" href="../assets/styles/reset.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
-    <link rel="stylesheet" href="../assets/css/styles.css">
-    <title>Fercamp | Comercio de Ferragens </title>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Nunito+Sans:opsz,wght@6..12,1000&family=Rubik:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Rubik:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="../assets/styles/style.css">
+    <title>Fercamp | Ferramentas Comercio de Ferragens</title>
 </head>
+
 <body>
     <header class="cabecalho">
         <div class="cabecalho-container">
-            <div class="container_imagem">
-                <a href="../index.html"><img src="../assets/img/logo-nova1.png" alt="Logo da Fercamp" class="cabecalho_imagem"></a>
-            </div>
-            <div class="pesquisa-container ordem-dos-elementos">
-                <input type="search" placeholder="Pesquisar..." class="pesquisa">
-                <button class="botao-pesquisa"></button>
+            <div class="box-logo">
+                <div class="container_imagem">
+                    <a href="../index.html"><img src="../assets/img/fercamp.png" alt="Logo da Fercamp" class="cabecalho_imagem"></a>
+                </div>
+                <div class="header-triangulo-para-baixo"></div>
             </div>
             <div>
                 <input type="checkbox" id="menu" class="container_botao">
@@ -31,81 +34,118 @@
                     <li class="lista-menu_item">
                         <a href="../index.html" class="lista-menu_link">Home</a>
                     </li>
-                <div class="container-seguimentos">
-                    <li class="lista-menu_item lista-menu-item-seguimentos">
+                    <li class="lista-menu_item">
                         <a href="../index.html#segmentos" class="lista-menu_link">Segmentos</a>
                     </li>
-                    <input type="checkbox" id="seta" class="botao-seguimentos">
-                    <label for="seta" class="label-seta">
-                        <span class="cabecalho-seta"></span>
-                    </label>
-                    <ul class="lista-menu-seguimentos">
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">Máquinas</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">Ferramentas</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">Soldagem</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">Tintas</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">Abrasivos</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">Ferragens</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">EPI</a>
-                        </li>
-                        <li class="lista-menu_link-seguimentos">
-                            <a id="link-produtos" href="../pages/produtos.html">Adesivos/Vedantes</a>
-                        </li>
-                    </ul>
-                </div>
                     <li class="lista-menu_item">
-                        <a href="../index.html#sobrenos" class="lista-menu_link">Sobre Nós</a>
+                        <a href="../index.html#sobre-nos" class="lista-menu_link">Sobre</a>
                     </li>
                     <li class="lista-menu_item">
                         <a href="../index.html#localizacao" class="lista-menu_link">Localização</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="../index.html#valores" class="lista-menu_link">Valores</a>
+                        <a href="../index.html#contato" class="lista-menu_link">Contato</a>
                     </li>
                     <li class="lista-menu_item">
-                        <a href="../index.html#contato" class="lista-menu_link">Contato</a>
+                        <a href="../index.html"><img class="img-destaque-menu-burger" src="../assets/img/fercamp.png" alt="Icone da logo da fercamp"></a>
                     </li>
                 </ul>
             </div>
         </div>
     </header>
+<body>
+    
     <main>
 
         <section class="produtos">
-
-            <div class="produtos-titulo-container">
-                <p class="produtos-titulo"></p>
-                <img class="produtos-formiga" alt="Formiga com adereço referente à página de segmento atual.">
+            
+            <div class="filtro">
+                <div>
+                    <div class="filtro-btn">
+                        <img src="../assets/img/filtro-img.png" alt="Icone de um filtro">
+                        <p>Filtro</p>
+                    </div> 
+                </div>  
             </div>
-            <p class="display-pagina-atual"></p>
-            <div class="super-container-produtos"></div>
+            <div class="filtro-container">
+                <div class="container-filtro-on">
+                    <div class="container-box-filtro">
+                        <div class="box-titulo-filtro">
+                            <p class="titulo-filtro">Filtros</p>    
+                        </div>
+                        <div data-segmento="máquinas" class="produtos-box-filtro">
+                            <p>Máquinas</p>
+                            <img src="../assets/img/furadeira-icone.png" alt="Icone de uma máquina">
+                        </div>
+                        <div data-segmento="ferramentas" class="produtos-box-filtro">
+                            <p>Ferramentas</p>
+                            <img src="../assets/img/ferramentas-icn.png" alt="Icone de uma Ferramenta">
+                        </div>
+                        <div data-segmento="abrasivos" class="produtos-box-filtro">
+                            <p>Abrasivo</p>
+                            <img src="../assets/img/abrasivo-icn.png" alt="Icone de um abrasivo">
+                        </div>
+                        <div data-segmento="ferragens" class="produtos-box-filtro">
+                            <p>Ferragens</p>
+                            <img src="../assets/img/ferragens-icn.png" alt="Icone de uma ferragem">
+                        </div>
+                        <div data-segmento="epi" class="produtos-box-filtro">
+                            <p>Epi</p>
+                            <img src="../assets/img/epi-icn.png" alt="Icone de um epi">
+                        </div>
+                        <div data-segmento="soldagem" class="produtos-box-filtro">
+                            <p>Soldagem</p>
+                            <img src="../assets/img/soldagem-icn.png" alt="Icone de uma solda">
+                        </div>
+                        <div data-segmento="tintas" class="produtos-box-filtro">
+                            <p>Tintas</p>
+                            <img src="../assets/img/tintas-icn.png" alt="Icone de uma tinta">
+                        </div>
+                        <div data-segmento="vedantes" class="produtos-box-filtro">
+                            <p>Vedantes</p>
+                            <img src="../assets/img/vedantes-icn.png" alt="Icone de um vedante">
+                        </div>
+                        <div class="produtos-box-filtro-footer">
+                            <a href="../index.html"><img src="../assets/img/fercamp filtro.png" alt="Logo da Fercamp"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                
+            
+            <div class="produtos-container">
+                
+                <div class="produtos-titulo-container">
+                    <p class="produtos-titulo"></p>
+                    <img class="produtos-formiga" alt="Formiga com adereço referente à página de segmento atual.">
+                </div>
+                <p class="display-pagina-atual"></p>
+                <div class="super-container-produtos"></div>
+                <div id="container-pagina"></div>
+            </div>
+
+            
 
         </section>
+
+
 
         <a class="link-whatsapp" target="_blank" rel="noopener noreferral" href="https://api.whatsapp.com/send?phone=41995078326&text=Olá,%20eu%20gostaria%20de%20realizar%20um%20orçamento."><img src="../assets/img/whatsapp-icone.svg" alt="Link para o Whats-app"></a>
 
     </main>
+
+
     <footer class="rodape">
-        <img class="rodape-img" src="../assets/img/logo-nova2.png" alt="Logo Fercamp">
+        <img class="rodape-img" src="../assets/img/fercamp.png" alt="Logo Fercamp">
         <div class="rodape-container">
             <p class="rodape-texto">Jaquelini Immich Martins - Ferramentas e Ferragens - CNPJ: 24.551.140/0001-16</p>
             <p class="rodape-texto">© 2023 Todos os direitos reservados</p>
-            <p class="rodape-texto">Desenvolvido por: <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/jo%C3%A3o-pedro-moreno-9ab40b176/">João Moreno</a> e <a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://www.linkedin.com/in/thiago-andrade-91889a260/">Thiago Andrade</a></p>
+            <p class="rodape-texto">Desenvolvido por:<a class="rodape-link" target="_blank" rel="noopener noreferral" href="https://weblabsolutions.com.br/">WebLab | soluções Em Webdesign</a></p>
         </div>
     </footer>
+
+    
+
     <script src="../js/main.js" type="module"></script>
     <script src="../js/produtos.js" type="module"></script>
 </body>
